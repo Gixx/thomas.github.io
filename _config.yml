@@ -21,6 +21,9 @@ future: true
 exclude:
   - README.md
   - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
 
 env: production
 
