@@ -4,4 +4,4 @@ This is the Jekyll and architecture source code of the [Thomas von Fürstenfeld]
 
 ## License
 
-The writings under the [_posts] folder and the image assets are protected by copyright, the rest is free for learning and using.
+The writings under the [_posts](_posts) folder and the image assets are protected by copyright, the rest is free for learning and using.
