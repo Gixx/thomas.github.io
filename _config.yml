@@ -1,1 +1,103 @@
-theme: jekyll-theme-tactile
+title: Thomas von Fürstenfeld
+
+baseurl: ""
+
+url: "https://thomas.von.fuerstenfeld.blog"
+
+facebook_username:
+
+twitter_username:
+
+github_username:
+
+linkedin_username:
+
+future: true
+
+exclude:
+  - README.md
+  - vendor
+
+env: production
+
+excerpt_separator: <!--more-->
+
+markdown: kramdown
+
+permalink: /:categories/:title.html
+
+autopages:
+  enabled: true
+  tags:
+    layouts:
+      - postlist.html
+    permalink: /tags/:tag/
+    title:  'Címke: :tag'
+    slugify:
+      mode: 'ascii'
+      cased: false
+    enabled: true
+  categories:
+    layouts:
+      - postlist.html
+    permalink: /:cat/
+    title:  'Kategória: :cat'
+    enabled: true
+  collections:
+    enabled: false
+
+pagination:
+  enabled: true
+  per_page: 5
+  offset: 0
+  permalink: '/page/:num/'
+  title: ':title - :num. oldal'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-archives
+  - rouge
+  - jekyll-last-modified-at
+  - jekyll-plantuml
+  - jekyll-responsive-image
+  - jekyll-tidy
+  - classifier-reborn
+  - jekyll-tagging-related_posts
+  - jekyll-archives
+  - jekyll-paginate-v2
+
+jekyll_tidy:
+  exclude: ["robots.txt"]
+  compress_html: false
+
+sass:
+  sass_dir: _sass
+  sourcemap: true
+  style: compressed
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+responsive_image:
+  template: _includes/responsive-image.html
+  default_quality: 90
+  sizes:
+    - width: 960
+    - width: 768
+    - width: 465
+    - width: 217
+  auto_rotate: false
+  strip: true
+  base_path: assets
+  output_path_format: assets/resized/%{width}/%{basename}
+  save_to_source: true
+  cache: false
+  extra_images:
+    - assets/*.png
+    - assets/*.jpg
+    - assets/img/*.png
+    - assets/img/*.jpg

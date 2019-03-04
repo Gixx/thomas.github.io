@@ -1,0 +1,25 @@
+---
+layout: default
+title: Tags
+---
+
+<!-- tags/index.html -->
+<header><h2>Full tag list</h2></header>
+{% assign group = '' %}
+    {% assign sorted_tags = site.tags | sort %}
+    {% for tag in sorted_tags %}
+        {% assign current_group = tag | first | slice:0 %}
+        {% if group != current_group %}
+            {% if group != '' %}
+    </ul>
+</section>
+            {% endif %}
+            {% assign group = current_group %}
+<section>
+    <h3>{{ group | capitalize }}</h3>
+    <ul>
+        {% endif %}
+        <li><a rel="tag" href="/tags/{{ tag | first | slugify }}/">{{ tag | first }}</a></li>
+    {% endfor %}
+    </ul>
+</section>
