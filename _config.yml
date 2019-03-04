@@ -4,6 +4,8 @@ baseurl: ""
 
 url: "https://thomas.von.fuerstenfeld.blog"
 
+destination: docs
+
 facebook_username:
 
 twitter_username:
