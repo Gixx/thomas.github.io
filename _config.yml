@@ -1,19 +1,19 @@
 title: Thomas von Fürstenfeld
-
 lang: hu
-
-baseurl: ""
+locale: hu_HU
+description:
+subject:
+copyright:
 
 url: "https://thomas.von.fuerstenfeld.blog"
+default_categories: ['Home']
+default_tags: ['']
 
 destination: docs
 
 facebook_username:
-
 twitter_username:
-
 github_username:
-
 linkedin_username:
 
 future: true

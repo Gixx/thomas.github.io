@@ -2,7 +2,7 @@
 layout: post
 title:  Hamarosan visszatérek
 date:   2019-03-04 10:20:49 +0100
-categories: blog
+categories: [Blog]
 tags:   [blog]
 ---
 
