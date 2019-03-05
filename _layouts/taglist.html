@@ -1,8 +1,11 @@
 ---
 layout: default
 pagination:
-    enabled: true
+enabled: true
+page_type: tag_list
 ---
+
+<header><h2>Címke: <b>{% if page.autopages %}{{page.autopages.display_name}}{% endif %}</b></h2></header>
 
 {% for post in paginator.posts %}
 <article>
@@ -24,10 +27,10 @@ pagination:
 <footer>
     <p>
         {% if paginator.previous_page %}
-            <a rel="prev" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Újabb bejegyzések</a>
+        <a rel="prev" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Újabb bejegyzések</a>
         {% endif %}
         {% if paginator.next_page %}
-            <a rel="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Korábbi bejegyzések &rarr;</a>
+        <a rel="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Korábbi bejegyzések &rarr;</a>
         {% endif %}
     </p>
 </footer>

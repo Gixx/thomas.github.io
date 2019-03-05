@@ -2,8 +2,10 @@
 layout: post
 title:  Hamarosan visszatérek
 date:   2019-03-04 10:20:49 +0100
-categories: [Blog]
-tags:   [blog]
+category: "blog-ketegoria"
+categoryLabel: "Blog ketegória"
+tags:   [visszateres, torta]
+tagLabels: [Visszatérés, Torta]
 ---
 
 Üdvözlet minden kedves olvasómnak!

@@ -1,16 +1,15 @@
 <!DOCTYPE html>
+{%- capture title -%}
+    {%- if page.title != site.title -%}
+        {{ page.title | escape }} -
+    {%- endif -%}
+    {{ site.title | escape}}
+{%- endcapture -%}
+{%- capture description -%}
+    {{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape | strip }}
+{%- endcapture -%}
 <html lang="{{ page.lang | default: site.lang }}">
     <head>
-        {% capture title %}
-            {% if page.title %}
-                {% if page.type %}{{ page.type | escape }}: {% endif %}
-                {{ page.title | escape }} -
-            {% endif %}
-            {{ site.title | escape}}
-        {% endcapture %}
-        {% capture description %}
-            {{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}
-        {% endcapture %}
         <meta charset="utf-8">
         <title>{{ title }}</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -40,7 +39,7 @@
 
         <link rel="canonical" href="https://thomas.von.fuerstenfeld.blog/">
         <link rel="alternate" type="application/rss+xml" title="{{ title }}" href="/feed.xml">
-        <link rel="alternate" hreflang="{{ page.locale | default: site.locale }}" href="{{ site.url }}">
+        <link rel="alternate" hreflang="{{ page.locale | default: site.locale }}" href="https://thomas.von.fuerstenfeld.blog{{ page.url }}">
 
         <link rel="apple-touch-icon" sizes="57x57" href="/assets/img/thomas/apple-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="60x60" href="/assets/img/thomas/apple-icon-60x60.png">
@@ -68,27 +67,27 @@
         <header>
             <div class="container">
                 <a href="#" class="nav material-icons">menu</a>
-                <h1><a href="" class="thomas">Thomas von Fürstenfeld</a></h1>
+                <h1><a href="/" class="thomas">Thomas von Fürstenfeld</a></h1>
             </div>
         </header>
         <nav>
             <div class="container">
                 <section>
-                    {% capture currentCategorySlug %}
-                        {{ page.categories | default: site.default_categories | first | slugify }}
-                    {% endcapture %}
-                    {{ currentCategorySlug }}
+                    {{ page.page_type }}
                     <ul>
-                        <li><a class="home{% if currentCategorySlug == 'home' %} current{% endif %}" href="/">Hírfolyam</a></li>
+                        <li><a class="home{% if page.page_type == 'home' %} current{% endif %}" href="/">Hírfolyam</a></li>
                     </ul>
                 </section>
                 <section>
                     <h2>Kategóriák</h2>
-                    {% include navigation.html %}
+                    {% include categories.html %}
                 </section>
                 <section>
                     <h2>Címkék</h2>
-                    {% include taglist.html %}
+                    {% include tags.html %}
+                    {% if site.tags.size > 4 %}
+                    <h3><a href="/tags/">Több</a></h3>
+                    {% endif %}
                 </section>
                 <section>
                     <h2>Archívum</h2>

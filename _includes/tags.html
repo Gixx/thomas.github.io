@@ -1,0 +1,28 @@
+{%- capture tagSlugs -%}
+    {% for post in site.posts %}{{ post.tags | join: ',' }}{% unless forloop.last %},{% endunless %}{% endfor %}
+{%- endcapture -%}
+{%- assign tagSlugs = tagSlugs | split: ',' | uniq -%}
+
+{%- capture tagLabels -%}
+    {% for post in site.posts %}{{ post.tagLabels | join: ',' }}{% unless forloop.last %},{% endunless %}{% endfor %}
+{%- endcapture -%}
+{%- assign tagLabels = tagLabels | split: ',' | uniq -%}
+
+{{ tagSlugs }}
+{{ tagLabels }}
+
+{% capture counts_with_tags_string %}
+    {% for tag in site.tags %}
+        {{ tag[1] | size | prepend:"000000" | slice:-6,6 }}:{{ tag[0] }}{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+{% endcapture %}
+
+{% assign counts_with_tags = counts_with_tags_string | split:"," | sort | reverse %}
+
+<ul>
+    {% for count_with_tag in counts_with_tags limit:4 %}
+        {% assign tag = count_with_tag | split:":" | last %}
+        {% assign count = site.tags[tag] | size %}
+    <li><a class="tag tag-{{ tag | slugify }}" rel="tag" href="/cimkek/{{ tag | slugify }}/">{{ tag }} ({{ count }})</a></li>
+    {% endfor %}
+</ul>

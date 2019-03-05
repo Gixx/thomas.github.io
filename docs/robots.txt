@@ -1,6 +1,131 @@
-User-agent: Googlebot-Image
+<!DOCTYPE html><html lang="hu">
+    <head>
+        <meta charset="utf-8">
+        <title> -Thomas von Fürstenfeld</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0">
+        <meta name="language" content="hu">
+        <meta name="robots" content="index,follow">
+        <meta name="theme-color" content="#3B5999">
+        <meta name="copyright" content="">
+        <meta name="description" content="">
+        <meta name="subject" content="">
+        <meta name="keywords" content="">
+
+        <!-- facebook share -->
+        <meta property="og:locale" content="">
+        <meta property="og:site_name" content="Thomas von Fürstenfeld">
+        <meta property="og:title" content=" -Thomas von Fürstenfeld">
+        <meta property="og:type" content="website"/>
+        <meta property="og:description" content=""/>
+        <meta property="og:url" content="/robots.txt">
+
+        <!-- twitter share -->
+        <meta name="twitter:title" content=" -Thomas von Fürstenfeld">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:description" content="">
+
+        <link rel="canonical" href="https://thomas.von.fuerstenfeld.blog/">
+        <link rel="alternate" type="application/rss+xml" title=" -Thomas von Fürstenfeld" href="/feed.xml">
+        <link rel="alternate" hreflang="hu_HU" href="https://thomas.von.fuerstenfeld.blog/robots.txt">
+
+        <link rel="apple-touch-icon" sizes="57x57" href="/assets/img/thomas/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/assets/img/thomas/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/assets/img/thomas/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/assets/img/thomas/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/assets/img/thomas/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/assets/img/thomas/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/assets/img/thomas/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/assets/img/thomas/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/thomas/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/assets/img/thomas/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/thomas/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/assets/img/thomas/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/thomas/favicon-16x16.png">
+        <link rel="manifest" href="/assets/img/thomas/manifest.json">
+        <meta name="msapplication-config" content="/assets/img/thomas/browserconfig.xml">
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,700">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700">
+        <link rel="stylesheet" href="/assets/css/site.css">
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <a href="#" class="nav material-icons">menu</a>
+                <h1><a href="/" class="thomas">Thomas von Fürstenfeld</a></h1>
+            </div>
+        </header>
+        <nav>
+            <div class="container">
+                <section>
+                    post_list
+                    <ul>
+                        <li><a class="home" href="/">Hírfolyam</a></li>
+                    </ul>
+                </section>
+                <section>
+                    <h2>Kategóriák</h2>
+                    <ul><li><a class="category category-blog-ketegoria" href="/blog-ketegoria">Blog ketegória</a></li>
+    <li><a class="category category-szulinap" href="/szulinap">Szülinap</a></li>
+    
+</ul>
+
+                </section>
+                <section>
+                    <h2>Címkék</h2>
+                    visszaterestortajokivansag
+VisszatérésTortaJókívánság
+
+
+
+
+
+<ul>
+    
+        
+        
+    <li><a class="tag tag-torta" rel="tag" href="/cimkek/torta/">torta (2)</a></li>
+    
+        
+        
+    <li><a class="tag tag-visszateres" rel="tag" href="/cimkek/visszateres/">visszateres
+    
+ (0)</a></li>
+    
+        
+        
+    <li><a class="tag tag-jokivansag" rel="tag" href="/cimkek/jokivansag/">jokivansag (1)</a></li>
+    
+</ul>
+
+                    
+                </section>
+                <section>
+                    <h2>Archívum</h2>
+                </section>
+            </div>
+        </nav>
+        <main>
+            User-agent: Googlebot-Image
 Disallow: /
 
 User-agent: *
 Allow: /
 Sitemap: http://localhost:4000/sitemap.xml
+
+        </main>
+        <footer>
+            <div class="container">
+                <p>Copyright © 2019 Minden jog fenntartva. Thomas von Fürstenfeld</p>
+            </div>
+        </footer>
+        <script src="/assets/js/library/emojione.min.js"></script>
+        <script src="/assets/js/library/stickyfill.min.js"></script>
+        <script src="/assets/js/site.js"></script>
+    </body>
+</html>
