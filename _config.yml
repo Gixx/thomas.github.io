@@ -57,11 +57,13 @@ autopages:
   tags:
     layouts:
       - taglist.html
+    title: ''
     permalink: /cimkek/:tag/
     enabled: true
   categories:
     layouts:
       - categorylist.html
+    title: ''
     permalink: /:cat/
     enabled: true
   collections:

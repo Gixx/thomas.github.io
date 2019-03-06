@@ -1,7 +1,14 @@
 <!DOCTYPE html>
+{%- include variables.html -%}
 {%- capture title -%}
-    {%- if page.title != site.title -%}
+    {%- if page.title != '' and page.title != site.title -%}
         {{ page.title | escape }} -
+    {%- endif -%}
+    {%- if currentTagLabel != '' -%}
+        Címke: {{ currentTagLabel }} -
+    {%- endif -%}
+    {%- if currentCategoryLabel != '' -%}
+        Kategória: {{ currentCategoryLabel }} -
     {%- endif -%}
     {{ site.title | escape}}
 {%- endcapture -%}
