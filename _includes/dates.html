@@ -1,0 +1,7 @@
+{%- include variables.html -%}
+<ul>
+    {%- for dateSlug in dateSlugs limit:5 -%}
+        {%- assign dateLabel = dateLabels[forloop.index0] -%}
+    <li><a class="date date-{{ dateSlug }}{% if dateSlug == currentDateSlug %} current{% endif %}" href="/archivum/{{ dateSlug }}/">{{ dateLabel | strip }}</a></li>
+    {%- endfor -%}
+</ul>

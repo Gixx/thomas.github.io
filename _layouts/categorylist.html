@@ -4,7 +4,7 @@ pagination:
     enabled: true
 page_type: category_list
 ---
-
+{%- include variables.html -%}
 <header><h2>Kategória: {{ currentCategoryLabel }}</h2></header>
 
 {% include pagination-post-list.html %}

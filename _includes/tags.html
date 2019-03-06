@@ -9,7 +9,7 @@
 {%- assign counts_with_tags = counts_with_tags_string | split:"," | sort | reverse -%}
 
 <ul>
-    {%- for count_with_tag in counts_with_tags limit:4 -%}
+    {%- for count_with_tag in counts_with_tags limit:5 -%}
         {%- assign tag = count_with_tag | split:":" | last | slugify -%}
         {%- assign tagLabel = tag -%}
         {% assign count = count_with_tag | split:":" | first | plus: 0 %}
@@ -19,6 +19,6 @@
                 {%- break -%}
             {%- endif -%}
         {%- endfor -%}
-    <li><a class="tag tag-{{ tag }}{% if tag == currentTagSlug %} current{% endif %}" rel="tag" href="/cimkek/{{ tag }}/">{{ tagLabel | strip }} ({{ count }})</a></li>
+    <li><a class="tag tag-{{ tag }}{% if page.page_type == 'tag_list' and tag == currentTagSlug %} current{% endif %}" rel="tag" href="/cimkek/{{ tag }}/">{{ tagLabel | strip }} ({{ count }})</a></li>
     {% endfor %}
 </ul>

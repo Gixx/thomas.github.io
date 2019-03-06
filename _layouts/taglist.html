@@ -4,7 +4,7 @@ pagination:
     enabled: true
 page_type: tag_list
 ---
-
+{%- include variables.html -%}
 <header><h2>Címke: {{ currentTagLabel }}</h2></header>
 
 {% include pagination-post-list.html %}

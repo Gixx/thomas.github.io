@@ -1,8 +1,11 @@
 {%- include variables.html -%}
-
 <ul>
     {%- for categorySlug in categorySlugs -%}
         {%- assign categoryLabel = categoryLabels[forloop.index0] -%}
+        {% if page.page_type == 'category_list' or page.page_type == 'post_view' %}
     <li><a class="category category-{{ categorySlug }}{% if categorySlug == currentCategorySlug %} current{% endif %}" href="/{{ categorySlug }}">{{ categoryLabel | strip }}</a></li>
+        {% else %}
+    <li><a class="category category-{{ categorySlug }}" href="/{{ categorySlug }}">{{ categoryLabel | strip }}</a></li>
+        {% endif %}
     {%- endfor -%}
 </ul>

@@ -1,16 +1,21 @@
 <!DOCTYPE html>
 {%- include variables.html -%}
 {%- capture title -%}
-    {%- if page.title != '' and page.title != site.title -%}
+    {%- if currentDateLabel != '' -%}
+        Archívum: {{ currentDateLabel }}&nbsp;-&nbsp;
+    {%- elsif page.title != '' and page.title != site.title -%}
         {{ page.title | escape }} -
     {%- endif -%}
-    {%- if currentTagLabel != '' -%}
-        Címke: {{ currentTagLabel }} -
+
+    {%- if page.page_type == 'tag_list' and currentTagLabel != '' -%}
+        Címke: {{ currentTagLabel }}&nbsp;-&nbsp;
     {%- endif -%}
-    {%- if currentCategoryLabel != '' -%}
-        Kategória: {{ currentCategoryLabel }} -
+
+    {%- if page.page_type == 'category_list' and currentCategoryLabel != '' -%}
+        Kategória: {{ currentCategoryLabel }}&nbsp;-&nbsp;
     {%- endif -%}
-    {{ site.title | escape}}
+
+    {{ site.title | escape }}
 {%- endcapture -%}
 {%- capture description -%}
     {{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape | strip }}
@@ -74,7 +79,7 @@
         <header>
             <div class="container">
                 <a href="#" class="nav material-icons">menu</a>
-                <h1><a href="/" class="thomas">Thomas von Fürstenfeld</a></h1>
+                <h1><a href="/" class="thomas">{{ site.title }}</a></h1>
             </div>
         </header>
         <nav>
@@ -91,12 +96,18 @@
                 <section>
                     <h2>Címkék</h2>
                     {% include tags.html %}
-                    {% if site.tags.size > 1 %}
+                    {%- assign tagSlugSize = tagSlugs | size -%}
+                    {%- if tagSlugSize > 5 -%}
                     <h3><a href="/cimkek/">Több</a></h3>
-                    {% endif %}
+                    {%- endif -%}
                 </section>
                 <section>
                     <h2>Archívum</h2>
+                    {% include dates.html %}
+                    {%- assign dateSlugSize = dateSlugs | size -%}
+                    {%- if dateSlugSize > 5 -%}
+                    <h3><a href="/archivum/">Több</a></h3>
+                    {%- endif -%}
                 </section>
             </div>
         </nav>
