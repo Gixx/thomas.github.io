@@ -73,7 +73,6 @@
         <nav>
             <div class="container">
                 <section>
-                    {{ page.page_type }}
                     <ul>
                         <li><a class="home{% if page.page_type == 'home' %} current{% endif %}" href="/">Hírfolyam</a></li>
                     </ul>
@@ -85,8 +84,8 @@
                 <section>
                     <h2>Címkék</h2>
                     {% include tags.html %}
-                    {% if site.tags.size > 4 %}
-                    <h3><a href="/tags/">Több</a></h3>
+                    {% if site.tags.size > 1 %}
+                    <h3><a href="/cimkek/">Több</a></h3>
                     {% endif %}
                 </section>
                 <section>

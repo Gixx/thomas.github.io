@@ -1,16 +1,8 @@
-{%- capture categorySlugs -%}
-    {% for post in site.posts %}{{ post.category }}{% unless forloop.last %},{% endunless %}{% endfor %}
-{%- endcapture -%}
-{%- assign categorySlugs = categorySlugs | split: ',' | uniq -%}
-
-{%- capture categoryLabels -%}
-    {% for post in site.posts %}{{ post.categoryLabel }}{% unless forloop.last %},{% endunless %}{% endfor %}
-{%- endcapture -%}
-{%- assign categoryLabels = categoryLabels | split: ',' | uniq -%}
+{%- include variables.html -%}
 
 <ul>
     {%- for categorySlug in categorySlugs -%}
         {%- assign categoryLabel = categoryLabels[forloop.index0] -%}
-    <li><a class="category category-{{ categorySlug }}" href="/{{ categorySlug }}">{{ categoryLabel }}</a></li>
-    {% endfor %}
+    <li><a class="category category-{{ categorySlug }}{% if categorySlug == currentCategorySlug %} current{% endif %}" href="/{{ categorySlug }}">{{ categoryLabel | strip }}</a></li>
+    {%- endfor -%}
 </ul>

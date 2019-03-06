@@ -63,46 +63,26 @@
         <nav>
             <div class="container">
                 <section>
-                    post_list
                     <ul>
                         <li><a class="home" href="/">Hírfolyam</a></li>
                     </ul>
                 </section>
                 <section>
                     <h2>Kategóriák</h2>
-                    <ul><li><a class="category category-blog-ketegoria" href="/blog-ketegoria">Blog ketegória</a></li>
-    <li><a class="category category-szulinap" href="/szulinap">Szülinap</a></li>
-    
-</ul>
+                    <ul><li><a class="category category-blog-ketegoria" href="/blog-ketegoria">Blog ketegória</a></li><li><a class="category category-szulinap" href="/szulinap">Szülinap</a></li></ul>
 
                 </section>
                 <section>
                     <h2>Címkék</h2>
-                    visszaterestortajokivansag
-VisszatérésTortaJókívánság
-
-
-
-
-
-<ul>
-    
-        
-        
-    <li><a class="tag tag-torta" rel="tag" href="/cimkek/torta/">torta (2)</a></li>
-    
-        
-        
-    <li><a class="tag tag-visszateres" rel="tag" href="/cimkek/visszateres/">visszateres
-    
- (0)</a></li>
-    
-        
-        
-    <li><a class="tag tag-jokivansag" rel="tag" href="/cimkek/jokivansag/">jokivansag (1)</a></li>
+                    <ul><li><a class="tag tag-torta" rel="tag" href="/cimkek/torta/">Torta (2)</a></li>
+    <li><a class="tag tag-visszateres" rel="tag" href="/cimkek/visszateres/">Visszatérés (1)</a></li>
+    <li><a class="tag tag-orvos" rel="tag" href="/cimkek/orvos/">Orvos (1)</a></li>
+    <li><a class="tag tag-oromkonnyek" rel="tag" href="/cimkek/oromkonnyek/">Örömkönnyek (1)</a></li>
     
 </ul>
 
+                    
+                    <h3><a href="/cimkek/">Több</a></h3>
                     
                 </section>
                 <section>

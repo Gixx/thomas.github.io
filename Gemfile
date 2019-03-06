@@ -10,7 +10,7 @@ group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll-tagging-related_posts'
     gem 'jekyll-archives'
-    gem 'jekyll-paginate-v2'
+    gem 'jekyll-paginate-v2', '2.0.0'
 end
 
 gem 'gsl'

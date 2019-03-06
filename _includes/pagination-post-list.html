@@ -1,0 +1,15 @@
+{%- for post in paginator.posts -%}
+<article>
+    <header>
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+        {%- assign m = post.date | date: "%-m" | minus: 0 -%}
+        <span>
+        {{ post.date | date: "%Y" }}. {{ site.data.hu.months[m] }} {{ post.date | date: "%-d" }}.
+        </span>
+    </header>
+    {{ post.excerpt }}
+    {%- if post.excerpt != post.content -%}
+    <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+    {%- endif -%}
+</article>
+{%- endfor -%}

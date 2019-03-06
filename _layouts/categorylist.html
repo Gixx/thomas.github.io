@@ -1,4 +1,14 @@
 ---
-layout: postlist
+layout: default
+pagination:
+    enabled: true
 page_type: category_list
 ---
+
+{%- include variables.html -%}
+
+<header><h2>Kategória: <b>{{ currentCategoryLabel }}</b></h2></header>
+
+{% include pagination-post-list.html %}
+
+{% include pagination.html %}

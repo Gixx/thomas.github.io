@@ -1,37 +1,14 @@
 ---
 layout: default
 pagination:
-enabled: true
+    enabled: true
 page_type: tag_list
 ---
 
-<header><h2>Címke: <b>{% if page.autopages %}{{page.autopages.display_name}}{% endif %}</b></h2></header>
+{%- include variables.html -%}
 
-{% for post in paginator.posts %}
-<article>
-    <header>
-        <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
-        {% assign m = post.date | date: "%-m" | minus: 0 %}
-        <span>
-        {{ post.date | date: "%Y" }}. {{ site.data.hu.months[m] }} {{ post.date | date: "%-d" }}.
-        </span>
-    </header>
-    {{ post.excerpt }}
-    {% if post.excerpt != post.content %}
-    <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-    {% endif %}
-</article>
-{% endfor %}
+<header><h2>Címke: {{ currentTagLabel }}<b></b></h2></header>
 
-{% if paginator.total_pages > 1 %}
-<footer>
-    <p>
-        {% if paginator.previous_page %}
-        <a rel="prev" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Újabb bejegyzések</a>
-        {% endif %}
-        {% if paginator.next_page %}
-        <a rel="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Korábbi bejegyzések &rarr;</a>
-        {% endif %}
-    </p>
-</footer>
-{% endif %}
+{% include pagination-post-list.html %}
+
+{% include pagination.html %}
