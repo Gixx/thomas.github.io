@@ -20,7 +20,7 @@
 {%- capture description -%}
     {{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape | strip }}
 {%- endcapture -%}
-<html lang="{{ page.lang | default: site.lang }}">
+<html lang="{{ site.lang }}">
     <head>
         <meta charset="utf-8">
         <title>{{ title }}</title>
@@ -28,30 +28,53 @@
         <meta name="mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0">
-        <meta name="language" content="{{ page.lang | default: site.lang }}">
+        <meta name="language" content="{{ site.lang }}">
         <meta name="robots" content="index,follow">
         <meta name="theme-color" content="#3B5999">
-        <meta name="copyright" content="{{ page.copyright | default: site.copyright | strip_html | normalize_whitespace | escape }}">
+        <meta name="copyright" content="{{ site.copyright | strip_html | normalize_whitespace | escape }}">
         <meta name="description" content="{{ description }}">
         <meta name="subject" content="{{ page.subject | default: site.subject | strip_html | normalize_whitespace | escape }}">
         <meta name="keywords" content="{{ page.keywords | default: site.keywords | join: ', ' }}">
 
         <!-- facebook share -->
-        <meta property="og:locale" content="">
+        <meta property="og:locale" content="{{ site.locale }}">
         <meta property="og:site_name" content="{{ site.title }}">
         <meta property="og:title" content="{{ title }}">
-        <meta property="og:type" content="website"/>
-        <meta property="og:description" content="{{ description }}"/>
-        <meta property="og:url" content="{{ page.url }}">
+        <meta property="og:url" content="{{ site.homepage }}{{ page.url }}">
+        {% if page.page_type == 'post_view' %}
+            {% if page.illustration_share %}
+        <meta property="og:image" content="{{ site.homepage }}/assets/img/blog/{{ page.date | date: '%Y' }}/{{ page.illustration_share }}">
+        <meta property="og:image:width" content="600">
+        <meta property="og:image:height" content="600">
+            {% endif %}
+        <meta property="og:description" content="{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape | strip }}">
+        <meta property="fb:admins" content="{{ site.facebook_username }}">
+        <meta property="fb:app_id" content="{{ site.facebook_appid }}">
+        <meta property="article:author" content="https://www.facebook.com/{{ site.facebook_username }}">
+        <meta property="og:type" content="article">
+        {% else %}
+        <meta property="og:description" content="{{ description }}">
+        <meta property="og:type" content="website">
+        {% endif %}
 
         <!-- twitter share -->
+        {% if page.page_type == 'post_view' %}
+        <meta name="twitter:title" content="{{ page.title }}">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:creator" content="@{{ site.twitter_username }}">
+        <meta name="twitter:description" content="{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape | strip }}">
+            {% if page.illustration_share %}
+        <meta name="twitter:image" content="{{ site.homepage }}/assets/img/blog/{{ page.date | date: '%Y' }}/{{ page.illustration_share }}">
+            {% endif %}
+        {% else %}
         <meta name="twitter:title" content="{{ title }}">
         <meta name="twitter:card" content="summary">
         <meta name="twitter:description" content="{{ description }}">
+        {% endif %}
 
-        <link rel="canonical" href="https://thomas.von.fuerstenfeld.blog/">
+        <link rel="canonical" href="{{ site.homepage }}">
         <link rel="alternate" type="application/rss+xml" title="{{ title }}" href="/feed.xml">
-        <link rel="alternate" hreflang="{{ page.locale | default: site.locale }}" href="https://thomas.von.fuerstenfeld.blog{{ page.url }}">
+        <link rel="alternate" hreflang="{{ site.locale }}" href="{{ site.homepage }}{{ page.url }}">
 
         <link rel="apple-touch-icon" sizes="57x57" href="/assets/img/thomas/apple-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="60x60" href="/assets/img/thomas/apple-icon-60x60.png">
@@ -74,8 +97,10 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,700">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700">
         <link rel="stylesheet" href="/assets/css/site.css">
+        <link rel="stylesheet" href="/assets/css/library/syntax.css">
+        <link rel="stylesheet" href="/assets/css/library/emojione.min.css">
     </head>
-    <body>
+    <body{% if page.page_type == 'post_view' %} class="blog-post"{% endif %}>
         <header>
             <div class="container">
                 <a href="#" class="nav material-icons">menu</a>
@@ -121,6 +146,7 @@
         </footer>
         <script src="/assets/js/library/emojione.min.js"></script>
         <script src="/assets/js/library/stickyfill.min.js"></script>
+        <script src="/assets/js/Thomas.js"></script>
         <script src="/assets/js/site.js"></script>
     </body>
 </html>

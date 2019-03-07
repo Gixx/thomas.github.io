@@ -5,8 +5,16 @@ pagination:
 page_type: category_list
 ---
 {%- include variables.html -%}
-<header><h2>Kategória: {{ currentCategoryLabel }}</h2></header>
+<section class="post">
+    <article>
+        <h1>Kategória: {{ currentCategoryLabel }}</h1>
+    </article>
+</section>
 
-{% include pagination-post-list.html %}
+<section class="list">
+    {%- for post in paginator.posts -%}
+        {% include post-list-element.html post=post %}
+    {%- endfor -%}
+</section>
 
 {% include pagination.html %}

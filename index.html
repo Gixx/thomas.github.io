@@ -5,6 +5,23 @@ pagination:
 page_type: home
 ---
 
-{% include pagination-post-list.html %}
+<section class="post">
+    <article>
+        <h1>Üdvözöllek a blogomon!</h1>
+
+        <p>Iván Gábor a becses nevem, és ezt a blogot a megboldogult "München dosszié" c. másik blogom méltó (ha nem méltóbb) utódjának szánom.</p>
+        <p>A dizájnt illetően nem agyaltam túl sokat, erőteljes ihletet merítettem egy közösségi oldalról.</p>
+        <p><strong>Na de mégis mi lesz itt ?</strong>- jöhet a jogos kérdés.</p>
+        <p>Annak idején, amikor kiköltöztem Németországba, első kézből származó, hasznos információkat írtam a kezdeti lépésekről, amik elég nagy népszerűségnek örvendtek. Legalábbis a látogatószám és a visszajelzések erre engedtek következtetni.</p>
+        <p>A régi oldalról a leghasznosabb dolgokat átmentettem, és azokat igyekszek újakkal kiegészíteni.</p>
+        <p>Jó szórakozást!</p>
+    </article>
+</section>
+
+<section class="list">
+    {%- for post in paginator.posts -%}
+        {% include post-list-element.html post=post %}
+    {%- endfor -%}
+</section>
 
 {% include pagination.html %}

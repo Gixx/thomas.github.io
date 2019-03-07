@@ -5,8 +5,18 @@ pagination:
 page_type: tag_list
 ---
 {%- include variables.html -%}
-<header><h2>Címke: {{ currentTagLabel }}</h2></header>
 
-{% include pagination-post-list.html %}
+<section class="post">
+    <article>
+        <h1>Címke: {{ currentTagLabel }}</h1>
+    </article>
+</section>
+
+<section class="list">
+    {%- for post in paginator.posts -%}
+        {% include post-list-element.html post=post %}
+    {%- endfor -%}
+</section>
+
 
 {% include pagination.html %}

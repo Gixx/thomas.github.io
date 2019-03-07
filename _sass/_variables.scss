@@ -1,13 +1,24 @@
 :root {
-  --primary: rgb(0, 0, 0);
+  --thomasbook-white: rgb(255, 255, 255);
+  --thomasbook-black: rgb(0, 0, 0);
 
-  --secondary: rgb(255, 255, 255);
-  --secondary-lighter-grey: rgb(246, 247, 249);
-  --secondary-light-grey: rgb(233, 235, 238);
-  --secondary-grey: rgb(221, 223, 226);
-  --secondary-dark-grey: rgb(153, 155, 159);
-  --secondary-darker-grey: rgb(117, 117, 117);
-  --secondary-deep-dark-grey: rgb(73, 75, 79);
+  --thomasbook-ink: rgb(29, 33, 41);
+
+  --thomasbook-blue: rgb(66, 103, 178);
+  --thomasbook-blue-trans: rgba(66, 103, 178, 0.5);
+  --thomasbook-mid-blue: rgb(54, 88, 153);
+  --thomasbook-dark-blue: rgb(41, 72, 125);
+
+  --thomasbook-lighter-grey: rgb(246, 247, 249);
+  --thomasbook-light-grey: rgb(233, 235, 238);
+  --thomasbook-grey: rgb(221, 223, 226);
+  --thomasbook-dark-grey: rgb(153, 155, 159);
+  --thomasbook-darker-grey: rgb(117, 117, 117);
+  --thomasbook-deep-dark-grey: rgb(73, 75, 79);
+
+  --header-height: 3.8rem;
+  --header-font-size: 1.5rem;
+  --header-line-height: 3.8rem;
 
   --font-sans-serif: 'Roboto', 'Helvetica', sans-serif;
   --font-serif: 'Libre Baskerville', 'Georgia', serif;

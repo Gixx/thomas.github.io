@@ -1,11 +1,17 @@
 title: Thomas von Fürstenfeld
 lang: hu
 locale: hu_HU
-description:
-subject:
-copyright:
+author: 'Iván Gábor'
+author_slug: '/gabor.ivan/'
+author_avatar: '/assets/img/gabor.ivan.jpg'
+author_cover: '/assets/img/gabor.ivan-cover.jpg'
+author_introduction: 'Férje egy csodálatos asszonynak, apja egy nagyszerű fiúnak, gazdája egy gyönyörű macskának. Foglalkozását tekintve web-fejlesztő egy németországi, de nemzetközi vizekre merészkedő fiatal E-kereskedelemmel foglalkozó cégnél.'
+description: ''
+subject: ''
+copyright: ''
 
-url: 'https://thomas.von.fuerstenfeld.blog'
+homepage: 'https://thomas.von.fuerstenfeld.blog'
+
 default_categories: ['Home']
 default_tags: ['']
 
@@ -28,10 +34,11 @@ defaults:
 
 destination: docs
 
-facebook_username:
-twitter_username:
-github_username:
-linkedin_username:
+facebook_appid: 2178081495757871
+facebook_username: ivan.gabor.80
+twitter_username: gaborivan1980
+github_username: Gixx
+linkedin_username: gaborivan
 
 future: true
 

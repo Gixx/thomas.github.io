@@ -1,0 +1,45 @@
+{%- include variables.html -%}
+{%- assign post = include.post -%}
+<article>
+    <header>
+        <a class="avatar" href="{{ post.author_slug | default: site.author_slug }}index.html"><img src="{{ post.author_avatar | default: site.author_avatar }}" alt="{{ post.author | default: site.author }}"></a>
+        <p class="meta">
+            <span class="user"><a class="avatar" href="{{ post.author_slug | default: site.author_slug }}index.html">{{ post.author | default: site.author }}</a></span>
+            {%- if  post.authorMoodKey -%}
+            <span class="mood">{{ post.authorMoodKey }}: {{ post.authorMoodLabel }}</span>
+            {%- endif -%}
+            <br>
+            {%- assign m = post.date | date: "%-m" | minus: 0 -%}
+            {%- assign postMonth = site.data.hu.months[m] -%}
+            {%- capture postDate  -%}
+                {{ post.date | date: '%Y' }}. {{ postMonth }} {{ post.date | date: '%d' }}., {{ post.date | date: '%R' }}
+            {%- endcapture -%}
+            <span class="date">Publikálva: {{ postDate }}-kor,</span>
+
+            {% if post.location %}
+            <span class="location">{{ post.location | strip }} környékén,</span>
+            {% endif %}
+            <br>
+            <span class="category">a(z) <a href="/{{ post.category}}/index.html">{{ post.categoryLabel }}</a> kategóriában,</span>
+            <br>
+            <span class="taglist">a következő címkékkel:
+                {% for tag in post.tags %}
+                    <a href="/cimkek/{{ tag }}/index.html">#{{ post.tagLabels[forloop.index0] }}</a>{% unless forloop.last %}, {% endunless %}
+                {% endfor %}
+            </span>
+        </p>
+    </header>
+    {%- if post.summary -%}
+    <p class="summary">{{ post.summary }}</p>
+    {%- endif -%}
+
+    <div class="preview">
+        {%- if post.illustration -%}
+        <a href="{{ post.url | relative_url }}"><img src="/assets/img/post-illustration-placeholder.jpg" data-src="/assets/img/blog/{{ post.date | date: '%Y' }}/{{ post.illustration }}"></a>
+        {%- endif -%}
+        <h1><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
+        <p>{{ post.excerpt }}</p>
+    </div>
+
+    <a class="more" href="{{ site.baseurl }}{{ post.url }}">Tovább...</a>
+</article>

@@ -15,19 +15,23 @@
         <meta name="keywords" content="">
 
         <!-- facebook share -->
-        <meta property="og:locale" content="">
+        <meta property="og:locale" content="hu_HU">
         <meta property="og:site_name" content="Thomas von Fürstenfeld">
         <meta property="og:title" content=" -Thomas von Fürstenfeld">
-        <meta property="og:type" content="website"/>
-        <meta property="og:description" content=""/>
-        <meta property="og:url" content="/robots.txt">
+        <meta property="og:url" content="https://thomas.von.fuerstenfeld.blog/robots.txt">
+        
+        <meta property="og:description" content="">
+        <meta property="og:type" content="website">
+        
 
         <!-- twitter share -->
+        
         <meta name="twitter:title" content=" -Thomas von Fürstenfeld">
         <meta name="twitter:card" content="summary">
         <meta name="twitter:description" content="">
+        
 
-        <link rel="canonical" href="https://thomas.von.fuerstenfeld.blog/">
+        <link rel="canonical" href="https://thomas.von.fuerstenfeld.blog">
         <link rel="alternate" type="application/rss+xml" title=" -Thomas von Fürstenfeld" href="/feed.xml">
         <link rel="alternate" hreflang="hu_HU" href="https://thomas.von.fuerstenfeld.blog/robots.txt">
 
@@ -52,6 +56,8 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,700">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700">
         <link rel="stylesheet" href="/assets/css/site.css">
+        <link rel="stylesheet" href="/assets/css/library/syntax.css">
+        <link rel="stylesheet" href="/assets/css/library/emojione.min.css">
     </head>
     <body>
         <header>
@@ -70,21 +76,17 @@
                 <section>
                     <h2>Kategóriák</h2>
                     <ul>
-    <li><a class="category category-munka" href="/munka">Munka</a></li>
-        
     <li><a class="category category-blog-ketegoria" href="/blog-ketegoria">Blog ketegória</a></li>
-        
-    <li><a class="category category-szulinap" href="/szulinap">Szülinap</a></li>
         </ul>
 
                 </section>
                 <section>
                     <h2>Címkék</h2>
-                    <ul><li><a class="tag tag-torta" rel="tag" href="/cimkek/torta/">Torta (3)</a></li><li><a class="tag tag-visszateres" rel="tag" href="/cimkek/visszateres/">Visszatérés (1)</a></li><li><a class="tag tag-orvos" rel="tag" href="/cimkek/orvos/">Orvos (1)</a></li><li><a class="tag tag-oromkonnyek" rel="tag" href="/cimkek/oromkonnyek/">Örömkönnyek (1)</a></li><li><a class="tag tag-munka" rel="tag" href="/cimkek/munka/">Munka (1)</a></li></ul>
-<h3><a href="/cimkek/">Több</a></h3></section>
+                    <ul><li><a class="tag tag-visszateres" rel="tag" href="/cimkek/visszateres/">Visszatérés (1)</a></li><li><a class="tag tag-torta" rel="tag" href="/cimkek/torta/">Torta (1)</a></li></ul>
+</section>
                 <section>
                     <h2>Archívum</h2>
-                    <ul><li><a class="date date-2019-03" href="/archivum/2019-03/">2019. március</a></li><li><a class="date date-2019-02" href="/archivum/2019-02/">2019. február</a></li></ul>
+                    <ul><li><a class="date date-2018-03" href="/archivum/2018-03/">2018. március</a></li></ul>
 </section>
             </div>
         </nav>
@@ -104,6 +106,7 @@ Sitemap: http://localhost:4000/sitemap.xml
         </footer>
         <script src="/assets/js/library/emojione.min.js"></script>
         <script src="/assets/js/library/stickyfill.min.js"></script>
+        <script src="/assets/js/Thomas.js"></script>
         <script src="/assets/js/site.js"></script>
     </body>
 </html>

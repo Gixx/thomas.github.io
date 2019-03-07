@@ -1,11 +1,11 @@
 ::selection {
-  background-color: var(--primary);
-  color: var(--secondary-grey);
+  background-color: var(--thomasbook-blue);
+  color: var(--thomasbook-white);
 }
 
 ::-moz-selection {
-  background-color: var(--primary);
-  color: var(--secondary-grey);
+  background-color: var(--thomasbook-blue);
+  color: var(--thomasbook-white);
 }
 
 *, *::before, *::after {
@@ -31,8 +31,8 @@ body {
   width: 100%;
   height: 100%;
   /* color */
-  color: var(--primary);
-  background-color: var(--secondary-light-grey);
+  color: var(--thomasbook-ink);
+  background-color: var(--thomasbook-light-grey);
   /* font */
   font-weight: 400;
   font-size: var(--size-normal);
@@ -41,17 +41,17 @@ body {
   font-variant-ligatures: no-common-ligatures;
   font-feature-settings: "kern", "liga" 0, "clig" 0;
   /* grid */
-  //display: grid;
-  //align-content: stretch;
-  //align-items: stretch;
-  //justify-content: stretch;
-  //justify-items: stretch;
-  //grid-gap: 1rem;
+  display: grid;
+  align-content: stretch;
+  align-items: stretch;
+  justify-content: stretch;
+  justify-items: stretch;
+  grid-gap: 1rem;
 }
 
 a, a:visited {
   cursor: pointer !important;
-  color: var(--primary);
+  color: var(--thomasbook-mid-blue);
   text-decoration: none;
 }
 
@@ -87,7 +87,7 @@ h6, h6 * {
   margin: 0;
   text-overflow: ellipsis;
   overflow: hidden;
-  color: var(--primary);
+  color: var(--thomasbook-ink);
   font-family: var(--font-serif);
   letter-spacing: normal;
   font-weight: 400;
@@ -126,7 +126,8 @@ h6, h6 * {
 }
 
 pre > code {
-  color: var(--primary);
+  color: var(--thomasbook-ink);
+  background: var(--thomasbook-lighter-grey);
   padding: 0.5rem !important;
 }
 
@@ -135,6 +136,12 @@ pre * {
   font-size: var(--size-normal);
   line-height: var(--size-normal-line);
   letter-spacing: normal;
+}
+
+pre.xdebug-var-dump {
+  background-color: var(--thomasbook-lighter-grey);
+  overflow: scroll;
+  padding: 1rem;
 }
 
 .material-icons {
