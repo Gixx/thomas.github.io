@@ -13,13 +13,13 @@ page_type: post_view
             {%- assign m = page.date | date: "%-m" | minus: 0 -%}
             {%- assign postMonth = site.data.hu.months[m] -%}
             {%- capture postDate  -%}
-                {{ page.date | date: '%Y' }}. {{ postMonth }} {{ page.date | date: '%d' }}., {{ page.date | date: '%R' }}
+                {{ page.date | date: '%Y' }} {{ postMonth }}&nbsp;{{ page.date | date: '%d' }} {{ page.date | date: '%R' }}
             {%- endcapture -%}
             <span class="date">{{ postDate }}</span>
         </p>
         <p class="lead">
             {{ page.excerpt }}
-            {%- if page.illustration -%}
+            {%- if page.illustration != '' -%}
             <br>
             <img src="/assets/img/post-illustration-placeholder.jpg" data-src="/assets/img/blog/{{ page.date | date: '%Y' }}/{{ page.illustration }}">
             {%- endif -%}

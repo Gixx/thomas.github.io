@@ -5,7 +5,7 @@
         <a class="avatar" href="{{ post.author_slug | default: site.author_slug }}index.html"><img src="{{ post.author_avatar | default: site.author_avatar }}" alt="{{ post.author | default: site.author }}"></a>
         <p class="meta">
             <span class="user"><a class="avatar" href="{{ post.author_slug | default: site.author_slug }}index.html">{{ post.author | default: site.author }}</a></span>
-            {%- if  post.authorMoodKey -%}
+            {%- if  post.authorMoodKey != '' -%}
             <span class="mood">{{ post.authorMoodKey }}: {{ post.authorMoodLabel }}</span>
             {%- endif -%}
             <br>
@@ -16,7 +16,7 @@
             {%- endcapture -%}
             <span class="date">Publikálva: {{ postDate }}-kor,</span>
 
-            {% if post.location %}
+            {% if post.location != '' %}
             <span class="location">{{ post.location | strip }} környékén,</span>
             {% endif %}
             <br>
@@ -29,12 +29,12 @@
             </span>
         </p>
     </header>
-    {%- if post.summary -%}
+    {%- if post.summary != '' -%}
     <p class="summary">{{ post.summary }}</p>
     {%- endif -%}
 
     <div class="preview">
-        {%- if post.illustration -%}
+        {%- if post.illustration != '' -%}
         <a href="{{ post.url | relative_url }}"><img src="/assets/img/post-illustration-placeholder.jpg" data-src="/assets/img/blog/{{ post.date | date: '%Y' }}/{{ post.illustration }}"></a>
         {%- endif -%}
         <h1><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
