@@ -20,5 +20,5 @@
             {%- endif -%}
         {%- endfor -%}
     <li><a class="tag tag-{{ tag }}{% if page.page_type == 'tag_list' and tag == currentTagSlug %} current{% endif %}" rel="tag" href="/cimkek/{{ tag }}/">{{ tagLabel | strip }} ({{ count }})</a></li>
-    {% endfor %}
+    {%- endfor -%}
 </ul>

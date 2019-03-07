@@ -80,13 +80,7 @@
                 </section>
                 <section>
                     <h2>Címkék</h2>
-                    <ul><li><a class="tag tag-torta" rel="tag" href="/cimkek/torta/">Torta (3)</a></li>
-    <li><a class="tag tag-visszateres" rel="tag" href="/cimkek/visszateres/">Visszatérés (1)</a></li>
-    <li><a class="tag tag-orvos" rel="tag" href="/cimkek/orvos/">Orvos (1)</a></li>
-    <li><a class="tag tag-oromkonnyek" rel="tag" href="/cimkek/oromkonnyek/">Örömkönnyek (1)</a></li>
-    <li><a class="tag tag-munka" rel="tag" href="/cimkek/munka/">Munka (1)</a></li>
-    
-</ul>
+                    <ul><li><a class="tag tag-torta" rel="tag" href="/cimkek/torta/">Torta (3)</a></li><li><a class="tag tag-visszateres" rel="tag" href="/cimkek/visszateres/">Visszatérés (1)</a></li><li><a class="tag tag-orvos" rel="tag" href="/cimkek/orvos/">Orvos (1)</a></li><li><a class="tag tag-oromkonnyek" rel="tag" href="/cimkek/oromkonnyek/">Örömkönnyek (1)</a></li><li><a class="tag tag-munka" rel="tag" href="/cimkek/munka/">Munka (1)</a></li></ul>
 <h3><a href="/cimkek/">Több</a></h3></section>
                 <section>
                     <h2>Archívum</h2>
