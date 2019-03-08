@@ -87,7 +87,7 @@ jekyll-archives:
 
 pagination:
   enabled: true
-  per_page: 6
+  per_page: 3
   offset: 0
   permalink: '/oldal/:num.html'
   title: ':title - :num. oldal'

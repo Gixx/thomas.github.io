@@ -8,40 +8,46 @@ title: 'Címke gyűjtemény'
 
 {%- include variables.html -%}
 
-<header><h2>Címke gyűjtemény</h2></header>
-    {%- assign group = '' -%}
-    {%- assign sorted_tags = tagSlugs | sort -%}
-    {%- for tagSlug in sorted_tags -%}
-        {%- assign index = -1 -%}
-        {%- for ts in tagSlugs %}
-            {%- if ts == tagSlug -%}
-                {%- assign index = forloop.index0 -%}
-                {%- break -%}
-            {%- endif -%}
-        {%- endfor -%}
-        {%- assign tagLabel = tagLabels[index] -%}
-        {%- assign tagGroup = tagSlug | slice:0 -%}
-        {%- if group != tagGroup -%}
-            {%- if group != '' -%}
-    </ul>
-</section>
-            {%- endif -%}
-            {%- assign group = tagGroup -%}
-<section>
-            {% if group contains 'a' -%}
-    <h3>A, Á</h3>
-            {%- elsif group == 'i' -%}
-    <h3>I, Í {{ group }}</h3>
-            {%- elsif group == 'o' -%}
-    <h3>O, Ó, Ö, Ő</h3>
-            {%- elsif group contains 'u' -%}
-    <h3>U, Ú, Ü, Ű</h3>
-            {%- else -%}
-    <h3>{{ group | capitalize }}</h3>
-            {%- endif -%}
-    <ul>
-        {%- endif -%}
-        <li><a rel="tag" href="/cimkek/{{ tagSlug }}/">{{ tagLabel }}</a></li>
-    {%- endfor -%}
-    </ul>
+<section class="post">
+    <article>
+        <h1>Címke gyűjtemény</h1>
+        <div class="column">
+                {%- assign group = '' -%}
+                {%- assign sorted_tags = tagSlugs | sort -%}
+                {%- for tagSlug in sorted_tags -%}
+                    {%- assign index = -1 -%}
+                    {%- for ts in tagSlugs %}
+                        {%- if ts == tagSlug -%}
+                            {%- assign index = forloop.index0 -%}
+                            {%- break -%}
+                        {%- endif -%}
+                    {%- endfor -%}
+                    {%- assign tagLabel = tagLabels[index] -%}
+                    {%- assign tagGroup = tagSlug | slice:0 -%}
+                    {%- if group != tagGroup -%}
+                        {%- if group != '' -%}
+                    </ul>
+            </section>
+                            {%- endif -%}
+                            {%- assign group = tagGroup -%}
+            <section>
+                            {% if group contains 'a' -%}
+                <h3>A, Á</h3>
+                            {%- elsif group == 'i' -%}
+                <h3>I, Í {{ group }}</h3>
+                            {%- elsif group == 'o' -%}
+                <h3>O, Ó, Ö, Ő</h3>
+                            {%- elsif group contains 'u' -%}
+                <h3>U, Ú, Ü, Ű</h3>
+                            {%- else -%}
+                <h3>{{ group | capitalize }}</h3>
+                            {%- endif -%}
+                <ul>
+                        {%- endif -%}
+                    <li><a rel="tag" href="/cimkek/{{ tagSlug }}/">{{ tagLabel }}</a></li>
+                    {%- endfor -%}
+                </ul>
+            </section>
+        </div>
+    </article>
 </section>
