@@ -45,10 +45,13 @@ hogy a profilod meggyőző.
 
 Ha Anglia a célod, bátran ajánlom a [LondonJobs](http://www.londonjobs.co.uk/) oldalt. Itt rengeteg féle-fajta munkát találni.
 
-<blockquote class="update"><p>
-    ...ha meg Németország, akkor érdemes a LinkedIn mellett/helyett a <a href="https://www.xing.com">Xing</a>et felkeresni,
-    ami a kínaias hangzás ellenére német cégek és munkavállalók közösségi hálója.
-</p></blockquote>
+<blockquote class="update">
+    <p>
+        <em>2017.12.21.</em><br>
+        ...ha meg Németország, akkor érdemes a LinkedIn mellett/helyett a <a href="https://www.xing.com">Xing</a>et felkeresni,
+        ami a kínaias hangzás ellenére német cégek és munkavállalók közösségi hálója.
+    </p>
+</blockquote>
 
 ## <a name="fejvadaszok"></a>Fejvadászok (toborzók)
 
@@ -99,9 +102,13 @@ várhatóan reális cél, és talán kialkudható lesz egy kis extra pénz is.
 * Ha viszont fölötte van, újra kell kezdeni. Ha sehogy se jön ki, akkor máshol kell szétnézni. Más városban, más országban.
 Elsődleges cél, hogy megvesd a lábadat az új otthonodban.
 
-<blockquote class="update"><p>Németországot célbavevő határátkelő honfitársaim számára melegen ajánlom a
-    <a href="https://www.brutto-netto-rechner.info/gehalt/gross_net_calculator_germany.php">Németországi bérkalkulátor</a> használatát.
-</p></blockquote>
+<blockquote class="update">
+    <p>
+        <em>2017.12.21.</em><br>
+        Németországot célbavevő határátkelő honfitársaim számára melegen ajánlom a
+        <a href="https://www.brutto-netto-rechner.info/gehalt/gross_net_calculator_germany.php">Németországi bérkalkulátor</a> használatát.
+    </p>
+</blockquote>
 
 ## <a name="interju"></a>Interjú
 

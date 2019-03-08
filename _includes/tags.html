@@ -22,3 +22,7 @@
     <li><a class="tag tag-{{ tag }}{% if page.page_type == 'tag_list' and tag == currentTagSlug %} current{% endif %}" rel="tag" href="/cimkek/{{ tag }}/">{{ tagLabel | strip }} ({{ count }})</a></li>
     {%- endfor -%}
 </ul>
+{%- assign tagSlugSize = tagSlugs | size -%}
+{%- if tagSlugSize > 5 -%}
+<h3><a href="/cimkek/">Több</a></h3>
+{%- endif -%}

@@ -53,6 +53,9 @@ env: production
 
 excerpt_separator: <!--more-->
 
+reversed_categories:
+  - hasznos
+
 markdown: kramdown
 
 permalink: /:categories/:title.html

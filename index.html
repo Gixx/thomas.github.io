@@ -5,10 +5,10 @@ pagination:
 page_type: home
 ---
 
+{%- if page.pagination_info.curr_page == 1 -%}
 <section class="post">
     <article>
         <h1>Üdvözöllek a blogomon!</h1>
-
         <p>Iván Gábor a becses nevem, és ezt a blogot a megboldogult "München dosszié" c. másik blogom méltó (ha nem méltóbb) utódjának szánom.</p>
         <p>A dizájnt illetően nem agyaltam túl sokat, erőteljes ihletet merítettem egy közösségi oldalról.</p>
         <p><strong>Na de mégis mi lesz itt ?</strong>- jöhet a jogos kérdés.</p>
@@ -17,6 +17,7 @@ page_type: home
         <p>Jó szórakozást!</p>
     </article>
 </section>
+{%- endif -%}
 
 <section class="list">
     {%- for post in paginator.posts -%}

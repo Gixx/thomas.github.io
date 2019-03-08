@@ -1,4 +1,621 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="hu"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="hu" /><updated>2019-03-07T23:26:41+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Thomas von Fürstenfeld</title><subtitle></subtitle><author><name>Iván Gábor</name></author><entry><title type="html">10 év</title><link href="http://localhost:4000/naplo/10_ev.html" rel="alternate" type="text/html" title="10 év" /><published>2017-12-19T15:02:23+01:00</published><updated>2019-03-07T23:04:29+01:00</updated><id>http://localhost:4000/naplo/10_ev</id><content type="html" xml:base="http://localhost:4000/naplo/10_ev.html">&lt;h1 id=&quot;2007-december-19&quot;&gt;2007. december 19.&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="hu"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="hu" /><updated>2019-03-08T11:24:29+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Thomas von Fürstenfeld</title><subtitle></subtitle><author><name>Iván Gábor</name></author><entry><title type="html">Mi hiányzik nekem Magyarországról?</title><link href="http://localhost:4000/naplo/mi_hianyzik_magyarorszagrol.html" rel="alternate" type="text/html" title="Mi hiányzik nekem Magyarországról?" /><published>2018-04-09T12:00:00+02:00</published><updated>2019-03-08T11:09:32+01:00</updated><id>http://localhost:4000/naplo/mi_hianyzik_magyarorszagrol</id><content type="html" xml:base="http://localhost:4000/naplo/mi_hianyzik_magyarorszagrol.html">&lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;https://www.pexels.com/photo/broken-heart-love-sad-14303/&quot;&gt;burak kostak @ Pexels&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;p&gt;Sokat agyaltam a dolgon, hogy vajon mi minden hiányzik nekem Magyarországról. Ebből is szerettem volna egy tízes listát
+        készíteni, de nem sikerült. Bevallom, puskáztam, és próbáltam ihletet meríteni másoktól, de beláttam, hogy ha én magamtól 
+        nem érzem ezeket, akkor nem is hiányoznak. Éppen ezért nézzük meg inkább azt a néhány tipikus témát, ami után a 
+        legtöbbeknek sír a szája - szándékosan használtam ezt a provokatív kifejezést.&lt;/p&gt;
+        &lt;h2 id=&quot;a-család&quot;&gt;A család&lt;/h2&gt;
+        &lt;p&gt;Szeretem a családomat, de őszintén szólva, most sem találkozok velük ritkábban, mint amikor még Budapesten, vagy majd 
+        később Szigetszentmiklóson laktam. Van telefon, van Internet, bármikor tudunk beszélni és látni egymást.&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;Ó, de hát a mama főztje…!&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Jól főz ez igaz, de Zsike is - kivéve, amikor ezekre a rántott / rakott zöldséges bizbaszokra van igénye. HAHAHA!&lt;/p&gt;
+        &lt;p&gt;Ezen kívül évente kétszer egy hétre meglátogatjuk őket, plusz ennyiszer ők is meglátogatnak minket.&lt;/p&gt;
+        &lt;h2 id=&quot;a-barátok&quot;&gt;A barátok&lt;/h2&gt;
+        &lt;p&gt;Világ életemben olyan barátokra vágytam, mint amilyeneket sok filmben látni, kezdve az &lt;strong&gt;Utának srácok!&lt;/strong&gt; című örökbecsűtől,
+        a &lt;strong&gt;Gombháborún&lt;/strong&gt; át egészen a legfrissebb “&lt;strong&gt;Az&lt;/strong&gt;” adaptációig. “Életre szóló” - bár gyerekkorban furcsa megállapítás ez -, 
+        igazi barátságokat ábrázolnak. Nem tudom, hogy a valóságban létezik-e ez, nekem sose volt részem benne.&lt;/p&gt;
+        &lt;p&gt;Vannak és voltak kollegiális alapon köttetett ismeretségeim, amik alkalmanként barátsággá is mélyültek, de már annakidején
+        se volt jellemző, hogy munkán kívül együtt lógtunk volna. Én nem vagyok az a kocsmázós-beülős-bulizós típus. Inkább egy
+        kirándulgatós, kertipartizós fickónak tartom magam. &lt;strong&gt;Uncsiiiiii!&lt;/strong&gt; - hallom a lesajnáló hangokat, de nem igazán érdekel.
+        Néhány kedves kivételtől eltekintve, a többséggel megszűnt minden kapcsolatom, miután munkahelyet váltottam - pont azért,
+        mert a többség olyan kocsmázós-beülős-bulizós típus volt.&lt;/p&gt;
+        &lt;p&gt;Itt Németországban szerencsére összehozott a sors pár nagyon kedves magyarral (sokan családosok). Velük rendszeresen 
+        összejárunk, szülinapozni, grillezni, kirándulni, strandolni, vagy csak úgy. Nem kötelezően és nem kényszerből. Szívből, 
+        szeretetből. Laci jelszava:&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;Állandó és elpusztíthatatlan boldogságot!&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;A lényeg: nem érzem azt a kínzó gyötrelmet a barátaim hiánya miatt, hogy most azonnal összepakoljak,
+        és visszaköltözzek. A családomnak és nekem is - egyelőre - jobb itt. És akikkel itt “bandázunk”, szerencsére rendes, 
+        tisztességes, szerethető emberek, hasonló érdeklődési körrel, mint a miénk. Ennyi, nem is kell több.&lt;/p&gt;
+        &lt;h2 id=&quot;a-magány&quot;&gt;A magány&lt;/h2&gt;
+        &lt;p&gt;Amit mások lélekgyilkos tragédiaként élnek meg, az nálam viszont nagyon sokszor hiányérzet formájában jelentkezik. 
+        Szerintem a világ egyik legjobb dolga huzamosabb ideig (napok, hetek) egyedül lenni, hogy senki, és semmi ne baszogasson… 
+        De persze ez sem tart sokáig, mert pár napon belül elkezd hiányozni Zsike és Thomas.&lt;/p&gt;
+        &lt;h2 id=&quot;túrórudi&quot;&gt;TúróRudi&lt;/h2&gt;
+        &lt;p&gt;Régen szerettem, ma ha megkóstolom, nem ízlik. Savanyú. Nem hiányzik.&lt;/p&gt;
+        &lt;h2 id=&quot;a-hazai-ízek&quot;&gt;A hazai ízek&lt;/h2&gt;
+        &lt;p&gt;Egyrészt elég sok magyar terméket lehet venni itt is (Piros Arany, sárga “TV” paprika, Pick szalámi stb.), másrészt
+        elég sok hiányzó terméknek van majdnem tökéletes alternatívája, lásd a tejföl helyett &lt;strong&gt;Crème fraîche&lt;/strong&gt;, vagy a házi 
+        túróval majdnem pontosan megegyező darabos &lt;strong&gt;Quark&lt;/strong&gt; a török boltokban.&lt;/p&gt;
+        &lt;p&gt;Az olyan dolgokat, mint például a Gyulai kolbász, vagy a zsírszalonna, meg beszerezzük, amikor évente kétszer 
+        Magyarországra látogatunk.&lt;/p&gt;
+        &lt;p&gt;Szóval itt sem érzem azt az olthatatlan vágyat…&lt;/p&gt;
+        &lt;h2 id=&quot;budapest&quot;&gt;Budapest&lt;/h2&gt;
+        &lt;p&gt;Hiába laktam ott évekig, nem tudtam megszeretni. Gyerekkorom óta megmagyarázhatatlan ellenszenvvel viseltetek iránta, és 
+        ha tehetem, messzire elkerülöm.&lt;/p&gt;
+        &lt;h2 id=&quot;honvágy&quot;&gt;Honvágy&lt;/h2&gt;
+        &lt;p&gt;Honvágy az nincs. Én ott vagyok otthon, ahol jól érzem magam. Most itt érzem jól magam, ezért is vagyok most itt.&lt;/p&gt;
+        &lt;h2 id=&quot;hazaszeretet&quot;&gt;Hazaszeretet&lt;/h2&gt;
+        &lt;p&gt;Ez egy iszonyatosan kényes téma, amivel tuti kicsapom a biztosítékot. Igyekszek hát kellő tapintattal és alázattal 
+        megfogalmazni a gondolataimat.&lt;/p&gt;
+        &lt;p&gt;Magyarország - mint nemzetközileg elfogadott, egybe függő földrajzi egység - a szülőföldem. Imádom a magyar nyelvet, 
+        szerintem a legszebb nyelv a világon, és büszke vagyok arra, hogy - még ha nem is tökéletesen, de - ezen a fantasztikus 
+        nyelven beszélek, írok, olvasok és gondolkodok.&lt;/p&gt;
+        &lt;p&gt;Népünk történelemben is volt számos esemény, amire büszke vagyok, és volt jó pár kiemelkedő személyiség is a múltban, 
+        akik példaként állhatnak a jelen és a jövő nemzedékei előtt.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;DE!&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;A hazám Európa&lt;/strong&gt;, ami szerintem a világ legszebb kontinense. Én nem gondolkozok országhatárokban és nemzet 
+        államokban. Számomra a Bihari-hegyek, Erdély végtelen erdei, az Alpok egésze, a holland szélmalmok, a svájci hegyi 
+        legelők, a Loire völgye, Saint-Tropez a csendőreivel együtt, vagy a zord norvég fjordok is ugyanúgy a hazám, mint a 
+        Hortobágy, vagy a Dél-Dunántúl. Minden szép, kevésbé szép, vagy épp csúnya, imádott vagy gyűlölt, izgalmas és unalmas 
+        részével együtt, az egész úgy ahogy van ‘CUZÁMMEN’, ‘CAKKUMPAKK’.&lt;/p&gt;
+        &lt;p&gt;A történelem amúgy is mindenkit összeköt. Aki nem így gondolja, az még egy üres szobában is csak az ellenségeket keresné. 
+        A történelem során már annyiszor változtak a határok (mindegyik országé), hogy tök fölösleges habzó szájjal pocskondiázni
+        a másikat vélt vagy valós sérelmek miatt, hisz mindannyian Európában vagyunk.&lt;/p&gt;
+        &lt;p&gt;Én nem utálom a románokat Trianon miatt. Sem az ukránokat ugyan emiatt. Sem a horvátokat az alattunk 
+        lakó idióta honfitársaik miatt, akik minden este lármáznak. Sem semelyik nemzetet Európában. És hiszem, hogy ezeken a 
+        helyeken is csak egy elhanyagolható számú ultranacionalista pocskondiázza - többek között - a magyarokat. Mert mindenhol
+        vannak ilyenek. És azért, mert valakik a &lt;strong&gt;tetteik révén&lt;/strong&gt; (vagy a testszaguk miatt - lásd az előző írásomat) határozott 
+        ellenszenvet keltenek bennem, még nem fogok utálni kollektíve egy egész népet.&lt;/p&gt;
+        &lt;p&gt;És mi sem bizonyítja jobban, hogy nem csak egy kis ország, hanem egész Európa is lehet a hazám, mint a tény, hogy 
+        magyarok mindenhol vannak.&lt;/p&gt;
+        &lt;iframe width=&quot;580&quot; height=&quot;327&quot; src=&quot;https://www.youtube.com/embed/BeSCX85w4P0?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        &lt;h1 id=&quot;akkor-mégis-mi-hiányzik-magyarországról&quot;&gt;Akkor mégis mi hiányzik Magyarországról???&lt;/h1&gt;
+        &lt;p&gt;Egyetlen dolog: &lt;strong&gt;a gyerekkorom.&lt;/strong&gt; Olyan élményekben volt részem a ‘80-as években, amik alapjaiban határozták meg azt, 
+        aki ma vagyok.&lt;/p&gt;
+        &lt;p&gt;Vannak szép és kevésbé szép emlékek is, de egyértelműen a 1984-1990. évi iskolai nyári szünetek viszik el a pálmát. 
+        Minden tekintetben tökéletesek voltak: a nyaralások, a kirándulások, a gyönyörű és hibátlan időjárás, a nagyszülőknél 
+        töltött hetek, a weekend-telkes szabadidők (nekem legalábbis, mert én nem kapáltam), a fáról cseresznyézés, az uborka 
+        locsolás által keletkezett sárban dagonyázás, a krumplibogár gyűjtés, a leveli béka vadászat, a fára mászások, a 
+        lakótelepes játszóterezés, a bandában biciklizés a telepi kölykökkel (egynek se tudtam a nevét, mégis velük lógtam 
+        mindig), a &lt;em&gt;Szünidei Matiné&lt;/em&gt;, a strandolások, a tele rajzolt füzetek, a hortobágyi hídivásárok stb., stb.&lt;/p&gt;
+        &lt;p&gt;Élmények végeláthatatlan sora. Imádtam gyerek lenni a 80-as években Debrecenben. De az már régen volt, soha nem tér 
+        vissza, soha nem fogom tudni újra átélni azokat. Csupán egy rakás szép - vagy csak megszépült - emlék maradt, amiről majd 
+        mesélhetek Thomasnak alkalomadtán.&lt;/p&gt;</content><author><name>Iván Gábor</name></author><category term="naplo" /><category term="toplista" /><category term="magyarorszag" /><summary type="html">Kattintás vadász bevezető: &quot;Sosem találja ki, mi végzett az első helyen! Itt az elképesztő lista&quot;</summary></entry><entry><title type="html">10 dolog, amit kevésbé szeretek Németországban</title><link href="http://localhost:4000/naplo/10_dolog_amit_kevesbe_szeretek.html" rel="alternate" type="text/html" title="10 dolog, amit kevésbé szeretek Németországban" /><published>2018-03-22T14:00:00+01:00</published><updated>2019-03-08T11:05:36+01:00</updated><id>http://localhost:4000/naplo/10_dolog_amit_kevesbe_szeretek</id><content type="html" xml:base="http://localhost:4000/naplo/10_dolog_amit_kevesbe_szeretek.html">&lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;https://www.tz.de/muenchen/stadt/diese-rechte-haben-mvv-fahrgaeste-fall-einer-stoerung-6652066.html&quot;&gt;TZ&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;p&gt;Szeretek panaszkodni. Igazából én vagyok &lt;strong&gt;A panaszkodó&lt;/strong&gt;. Ha kinyitod a szótárat a panasz szónál, az én fényképem van
+        ott illusztrációként. Ennek megfelelően kéretik ezt a listát kellő humorérzékkel kezelni. Jöjjön tehát a személyes
+        hiszti-listám. A felsorolásból sok minden megtalálható Magyarországon is, de itt valahogy halmozottan, és arányaiban is
+        többet találkozok ezekkel.&lt;/p&gt;
+        &lt;h1 id=&quot;10---Önmagukat-többnek-hirdető-események&quot;&gt;#10 - Önmagukat többnek hirdető események&lt;/h1&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/10_dolog/10_dolog_10.png&quot; alt=&quot;A kép csak illusztráció!&quot; /&gt;
+        &lt;figcaption&gt;A kép csak illusztráció!&lt;br /&gt;Ettől függetlenül lehet, hogy ez is szar volt :D&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;http://www.kreuznachernachrichten.de/&quot;&gt;Kreuznacher Nachrichten&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;p&gt;Nem vészes, de azért nem épp kellemes szembesülni a dologgal. Sokszor van, hogy a városban
+        mindenfele ki van plakátolva, hogy ilyen, meg ilyen hiper szuper szenzációs kiállítás / rendezvény / akármi lesz, és tökre
+        kedvet kap az ember, felvillanyozódik, időt szakít rá, elmegy, kifizeti a belépőt, és kap egy tök átlagos valamit.
+        Ilyen például a müncheni &lt;strong&gt;Sea Life&lt;/strong&gt;, ami közelében sincs a Camponás Tropicariumnak, mégis úgy van beállítva, mintha
+        sehol máshol a világon nem látható dolgokat mutatnának. De futottunk már bele siralmasan hétköznapi sörsátorba
+        &lt;code class=&quot;highlighter-rouge&quot;&gt;Bierfest&lt;/code&gt; néven, amihez éppen odaraktak 2-3 céllövölde szerű izét. Lehet, hogy csak az én ingerküszöböm túl magas, vagy
+        csak többet várok a dolgoktól, mindenesetre az ilyenek kissé csalódást keltő dolgok számomra.&lt;/p&gt;
+        &lt;h1 id=&quot;9---közlekedési-lámpák&quot;&gt;#9 - Közlekedési lámpák&lt;/h1&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/10_dolog/10_dolog_09.png&quot; alt=&quot;Ilyen lámpák is vannak Münchenben&quot; /&gt;
+        &lt;figcaption&gt;Ilyen lámpák is vannak Münchenben&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;https://www.antenne.de/nachrichten/bayernreporter/zum-csd-2016-muenchens-ampeln-leuchten-wieder-schwul/lesbisch&quot;&gt;Antenne Bayern&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;p&gt;Számomra megdöbbentő, hogy egy ilyen, az agyát &lt;em&gt;en bloc&lt;/em&gt; gondolkodásra használó nép nem tud legalább ellesni egy értelmes
+        forgalomirányító rendszert.&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;A gyalogosok számára&lt;/strong&gt;: a zöld lámpa minden előjelzés nélkül átvált pirosra. Nem villog, hogy “hé haver, mindjárt piros,
+        ne indulj el / igyekezzél”, csak úgy poroszosan egyből. Szerencsére azért adnak 5-10 másodpercet még mielőtt rád eresztik
+        az autókat. De ez még mindig jobb, mint amit anno Londonban láttam. Majd valaki biztos leírja az elhalványodó zöld lámpák
+        zavarba ejtő mibenlétét.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Az autók számára&lt;/strong&gt;: se szeri se száma azon nagy forgalmú kereszteződéseknek, ahol a szembe sávok egyszerre kapnak
+        (teli)zöldet. Jó annak, aki jobbra megy, vagy egyenesen. A balra fordulók, meg inkább forduljanak fel. Jobb esetben fordulónként
+        5-6 jármű át tud jutni. De először ott ragadnak az út közepén, és csak akkor tudják befejezni a kanyarodást, amikor már az
+        egyenesen haladók elfogytak (vagy piros lámpát kaptak). Szerencsére azért itt adnak elég időt. Persze, ha van egy jól
+        megtermett csuklós busz a fordulóban, akkor te már szinte biztos, hogy nem fogsz tudni utána menni.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;h1 id=&quot;8---közlekedési-táblák&quot;&gt;#8 - Közlekedési táblák&lt;/h1&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/10_dolog/10_dolog_08.png&quot; alt=&quot;Tilos tilos tilos&quot; /&gt;
+        &lt;figcaption&gt;Tilos tilos tilos&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;https://www.ksta.de/ratgeber/finanzen/recht/autofahrer-oft-verwirrt-was-ist-der-unterschied-zwischen-parken-und-halten--29293562&quot;&gt;Kölner Stadt-Anzeiger&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;p&gt;Szerintem itt van a világon a legsűrűbben használva a &lt;em&gt;megállni tilos&lt;/em&gt; táblácska. Kis fehér nyilacskával jelezve,
+        hogy a tábla előtt, vagy után, vagy előtt és után érvényes-e a tiltás. Vannak utcák, ahol minden kocsikihajtó után ki
+        van rakva. Számomra furcsa, de legalább egyértelmű.&lt;/p&gt;
+        &lt;p&gt;Ugyanakkor, ahol nincs kirakva ez a tábla, ott kegyetlenül ki is használják ezt, és parkolnak, mintha nem lenne holnap.
+        Fürstenfeldbruckban nem egy helyen található olyan, párhuzamos közlekedésre kijelölt utca, amin busz is közlekedik,
+        &lt;strong&gt;miközben mind a két oldalon parkolnak&lt;/strong&gt;, ezzel egy busz szélességűre szűkítve az utat.&lt;/p&gt;
+        &lt;h1 id=&quot;7---megértő-emberek&quot;&gt;#7 - “Megértő” emberek&lt;/h1&gt;
+        &lt;p&gt;Ez sem olyan eget verő probléma, inkább mutatja az itt élők jószándékát, hogy próbálnak segíteni neked a nyelvtanulásban.
+        Ugyanis, amikor beszélsz egy némettel, és a létező legudvariasabb formában - amit még egy német se használna - jelzed, hogy
+        a németed koránt sem anyanyelvi szintű, és megkéred, hogy ha volna olyan kedves egy hangyányival lassabban beszélni, akkor
+        ő megértően azt mondja, hogy semmi probléma, majd ugyanúgy folytatja, mint előtte. Agyrém :D&lt;/p&gt;
+        &lt;h1 id=&quot;6---idióta-utasok&quot;&gt;#6 - Idióta utasok&lt;/h1&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/10_dolog/10_dolog_06.png&quot; alt=&quot;Münchner Kindl&quot; /&gt;
+        &lt;figcaption&gt;Münchner Kindl&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;https://www.youtube.com/playlist?list=PL3a2ANQF6IY1z11OZiw8JhZirpoiAcNof&quot;&gt;Unterwegs mit dem Münchner Kindl&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Leszállásnál&lt;/strong&gt;: értem én, hogy csúcsforgalom van, emiatt neki már csak az ajtóban maradt hely, de könyörgöm, legyen
+        már annyi esze, hogy a következő megállóban leszáll, helyet adva azoknak, aki ott szeretnének leszállni, és majd utána
+        simán visszaszáll. Miért olyan nagy kérés ez? De nem. Ő ott áll az ajtóban, és kerülgetni kell a szűkös helyen.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Felszállásnál&lt;/strong&gt;: sokaknak ez valami hobbi lehet, hogy amikor beáll a szerelvény a megállóba, akkor pontosan beállnak
+        az ajtó elé, nem foglalkozva azzal, hogy vannak leszállók. Nagy dirrel-durral félrehúzódik ugyan, de a fél ajtót még így
+        is elfoglalja, mert az az ő privilégiuma, hogy elsőként szállhasson fel. Tűzzel-vassal küzd érte, és amikor ez sikerül,
+        megáll az ajtóban, hogy kellő alapossággal tudja kiválasztani, hogy hova üljön le. És nem zavarja, hogy ezzel feltart
+        mindenkit maga mögött, de persze épp csak annyira, hogy a még a hátsó ajtónál felszállók is előre tudjanak jönni
+        elfoglalni az üres helyeket.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Utazás közben&lt;/strong&gt;: Sokan indokolhatatlanul hangosan hallgatják a zenéjüket, ami nem zavarna, ha nekem tetsző zenéket
+        hallgatnának :D&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;De hogy mennyire számítanak ezek a köz problémáinak, azt jól jelzi, a müncheni közlekedési vállalat (MVG) külön kis
+        “oktató” videókat készített, amiket a metrón és néhány buszon szoktak vetíteni. Ezeket a kép alatti linken is meg lehet nézni.&lt;/p&gt;
+        &lt;h1 id=&quot;5---street-view-paranoia&quot;&gt;#5 - Street View Paranoia&lt;/h1&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/10_dolog/10_dolog_05a.png&quot; alt=&quot;Street View lefedettség&quot; /&gt;
+        &lt;figcaption&gt;Street View lefedettség&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;https://www.reddit.com/r/interestingasfuck/comments/3hv4dc/google_street_view_coverage_in_western_europe/&quot;&gt;Reddit&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;p&gt;A Google Street View-t tartom a világ második leghasznosabb találmányának a GPS után. Utóbbi abban segít, hogy eljuss a
+        címre, előbbi meg abban, hogy megnézhesd előre, hogy mit is kell majd keresni, hogy ne kolbászolj fölöslegesen, mint egy
+        idióta.&lt;/p&gt;
+        &lt;p&gt;Bár a német nép a mondás szerint nyitott és barátságos, ennek fényében nem értem, hogy mirefel ez az iszonyatos hiszti a
+        Google Street View szolgáltatással kapcsolatban. Hogy ez központi döntés-e, vagy tényleg az emberek akaratát tükrözi,
+        azt nem tudom biztosan, de az utóbbit erősíti, hogy ahol még fel is lett térképezve egy terület közel 10 évvel ezelőtt,
+        ott is sok helyen ki van satírozva az épület.&lt;/p&gt;
+        &lt;p&gt;Az, hogy rendszámokat, meg emberek arcát elmossák, az teljesen rendben van. De az, hogy egy utcában, közterületről szabad
+        szemmel is látható bérház felét ki kell törölni, azt nem tudom mire vélni.&lt;/p&gt;
+        &lt;p&gt;Magán házaknál még érteném is, de azoknál se szokás magas tégla
+        fallal körbe venni a telket. Sőt számomra meglepő látni a mai napig is, hogy
+        sok helyen épp csak akkora a kerítés, hogy a “kisunoka” ki ne másszon. Van, ahol persze óriás sövényekkel zárják el magukat
+        a külvilágtól, de ez inkább csak zajszűrésre jó, mintsem a kíváncsi szemek távol tartására. Szóval, aki arra jár, az
+        simán beláthat még a házba is, mert a függöny se nagy divat.&lt;/p&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/10_dolog/10_dolog_05b.png&quot; alt=&quot;Nem ezt a házat keresed&quot; /&gt;
+        &lt;figcaption&gt;Nem ezt a házat keresed&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;https://www.google.de/maps/@48.1815253,11.5661174,3a,60y,34.78h,94.26t/data=!3m6!1e1!3m4!1sH8ieWR_271AP7dss45pkew!2e0!7i13312!8i6656&quot;&gt;Google Street View&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;p&gt;Állítólag annak idején, amikor megnyíltak a határok kelet felé megugrott a betörések száma, és amikor a Google házalt a
+        Street View-val, sokan beparáztak, hogy akkor ezután sokkal könnyebben célpontokká válnak, szóval itt is volt egy
+        “gyünnek a migráncsok és kifosztanak” hiszti. De hiszem, hogy ez azóta már lecsengett (vagy csak burkát öltött), de a
+        másik oldalon, a Google sem akar már extra órákat pazarolni képek satírozgatásával. Így viszont nem hiszem, hogy egyhamar
+        lesz teljes lefedettség.&lt;/p&gt;
+        &lt;p&gt;Addig is itt van édesapám - azóta már archivált - várakozása a normálisan kalibrált közlekedési lámpánál:&lt;/p&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/10_dolog/10_dolog_05c.png&quot; alt=&quot;Édesapám, 2012-ben&quot; /&gt;
+        &lt;figcaption&gt;Édesapám, 2012-ben&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;https://www.google.de/maps/@47.5288752,21.6250482,3a,18.5y,125.39h,75.97t/data=!3m7!1e1!3m5!1sGs8jHxcjqqD_cR2V0r5WLg!2e0!5s20120501T000000!7i13312!8i6656&quot;&gt;Google Street View&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;h1 id=&quot;4---az-emberiség-50-árnyalata&quot;&gt;#4 - Az emberiség 50 árnyalata&lt;/h1&gt;
+        &lt;p&gt;Mondhatni a problémám forrása én magam vagyok, illetve a megátalkodottan alacsony tolerancia szintem. Mert az én
+        problémám az “emberi egyéniségek” és a “hozott kultúrák”, amik néha jók, és színesítik a képet, néha viszont csak
+        zavaróak, amiket lehet, hogy más észre sem vesz csak én.&lt;/p&gt;
+        &lt;p&gt;Mindenesetre ezen dolgokról részben tehetnek az emberek saját maguk (vagy tehetnének ellene), részben nem, de
+        nekem mindenképpen el kell viselnem azokat, mint ahogy másoknak az enyémeimet kell elviselniük:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;A németek szipognak. Nem számít, hogy van náluk zsebkendő, amíg tud tolatni a kis zöld izé, addig nem fújják ki.&lt;/li&gt;
+        &lt;li&gt;Ha magyar embertől származó beszédfoszlányt hallok, akkor elég valószínű, hogy &lt;strong&gt;ő is&lt;/strong&gt; épp panaszkodik :D&lt;/li&gt;
+        &lt;li&gt;Az ázsiaiak, a közel-keletiek és az indiaiak brutális módon csámcsognak… és teli szájjal beszélnek…biztos van kivétel,
+        kérem jelentkezzen.&lt;/li&gt;
+        &lt;li&gt;Az ázsiaiak furakodnak, tolakodnak, nem igazán udvariasak a tömegben…&lt;/li&gt;
+        &lt;li&gt;A fekete-afriakiak a vonaton mindig jó hangosan telefonálnak, hogy mindenki hallja, mennyire szép is a szuahéli nyelv.
+        Engem egy éppen a víz alá nyomott szerencsétlen fuldokló kétségbeesett bugyborékolására emlékeztet, de ez legyen az én
+        problémám…&lt;/li&gt;
+        &lt;li&gt;A közel-keleti népek jellemző habitusa az “óbégatós” távbeszélgetés tömegközlekedési eszközön… mint egy gégerákos
+        koncert zene nélkül: csak hörögnek és krákognak…&lt;/li&gt;
+        &lt;li&gt;Általánosságban a nem európaiak általános testhigiéniája / étkezési szokása / természetes test-kipárolgása annyira
+        eltérő, hogy számomra már sokszor a büdös kategóriába esnek. Senkit sem akarok megbántani, de sajnos (vagy szerencsére)
+        elég érzékeny a szaglásom, és a szúrós / csípős / marú szagok eléggé negatívan befolyásolják a közérzetemet. Ugyanez a
+        helyzet, amikor, ha valaki lóhalálában fut a tömegközlekedési eszközhöz, és pont velem szemben áll meg vagy ül le, akkor
+        szinte biztos, hogy nem állt módjában fogat mosnia korábban. Ezt a rám irányított teliszájjal lihegésből szoktam
+        érezni. Pechem van a szagokkal kapcsolatban (is).&lt;/li&gt;
+        &lt;li&gt;Sok a &lt;em&gt;cenzúrázott, vulgáris minőségjelzős mondatszerkezet&lt;/em&gt; függő, aki nem bírja kivárni, hogy kiérjen az állomásról,
+        hanem már a szűk peronon, a tömegben rágyújt a cigire (ami persze, ha szigorúan vesszük a szabályokat, többnyire tilos),
+        és naná, hogy az összes füst az én pofámba landol…Ugyanez vonatkozik az illatosított fing-párát szívókra is.
+        Tisztelet a többséget képviselő, kulturált, civilizált kivételeknek.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;De az is 1000%, hogy én is benne vagyok egy ehhez hasonló csoportban, amiről nem tudok.&lt;/p&gt;
+        &lt;h1 id=&quot;3---banki-átutalás&quot;&gt;#3 - Banki átutalás&lt;/h1&gt;
+        &lt;p&gt;Bár a banki szolgáltatásokkal nagyrészt elégedett vagyok, de a belföldi (németországi) &lt;strong&gt;banki átutalás sebességével&lt;/strong&gt;
+        már nem. Nem vagyok ugyan egy banki szakember, de annyit tudok, hogy Magyarországon van valami GIRO2 nevű
+        elszámolásforgalmi rendszer szerűség, ami miatt a napközbeni többszöri elszámolásnak köszönhetően legfeljebb 4 órán
+        belül megérkezik az átutalt összeg egyik számláról a másikra bármelyik belföldi bankfiók között.&lt;/p&gt;
+        &lt;p&gt;Nos Németországban ilyen nincs. Itt még mindig van, hogy 1-2 munkanap kell ehhez a bankok között. Ha én a TargoBankos
+        számlámról utalok péntek délelőtt 10 órakor egy Sparkasse-s számlára, akkor az hétfő délutánra fog csak odaérni.
+        Pontosan ugyanezen okból kifolyólag, nagyjából én vagyok az utolsó a cégnél, aki örülhet, hogy megérkezett a fizetés.&lt;/p&gt;
+        &lt;h1 id=&quot;2---tömegközlekedés&quot;&gt;#2 - Tömegközlekedés&lt;/h1&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/10_dolog/10_dolog_02.png&quot; alt=&quot;A tömeg menne, de nincs mivel&quot; /&gt;
+        &lt;figcaption&gt;A tömeg menne, de nincs mivel&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;https://www.bild.de/regional/muenchen/s-bahn/s-bahn-mit-dauerproblemen-54960622.bild.html&quot;&gt;Bild&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;p&gt;A &lt;strong&gt;müncheni, és környéki tömegközlekedés&lt;/strong&gt;, HA NEM KLAPPOL MINDEN. Amikor a gépezetbe porszem kerül, kártyavárként dől
+        össze a precíz rendszer. Ennek több összetevője egymást erősíti.&lt;/p&gt;
+        &lt;p&gt;Először is München tömegközlekedési hálózata csillag rendszerű. Biztos jó ötlet volt annak idején, és költséghatékonyabb
+        is, mint a pókhálós, de lássuk be: a csillag ágai között nem nagyon van mód mozogni, és ha a közepét éri a baj, akkor az
+        már az egészre kihatással lesz.&lt;/p&gt;
+        &lt;p&gt;Másod sorban a müncheni S-Bahn hálózat egy két pályás törzsvonalon szeli keresztül a várost, részben a föld alatt.
+        Namármost, ha ezen a törzsvonalon bárhol is csak egy apró gebasz van, például kiég egy forgalomirányító lámpa izzója, akkor
+        megáll az egész, és keleti irányban az Ostbahnhof-ig, míg nyugati irányban Pasing Bahnhof-ig gyűrűzik a dugó.&lt;/p&gt;
+        &lt;p&gt;Az Ostbahnhof viszonylag központi helyen van, ahol rengeteg városi busznak is van végállomása, van taxiállomás is,
+        plusz az egyik legfontosabb villamos is arra jár, na meg nem utolsó sorban van metró is. Szóval van menekülési útvonal,
+        nagy áteresztő képességgel.&lt;/p&gt;
+        &lt;p&gt;Természetesen, ami engem jobban érint az pont a másik oldalon, Pasingnál van. Ott nincs metró. Van néhány sehova se vivő
+        busz, amik inkább ún. “betápláló” járatok, vagyis arra jók, hogy a vonathoz szállítsák a lakóövezetekből az utasokat.&lt;/p&gt;
+        &lt;p&gt;Aztán meg ott van egy szem árva villamos - ironikus módon pont az, ami az Ostbahnhofhoz is jár -, de könnyen belátható,
+        hogy dugó esetén, amikor &lt;strong&gt;percenként&lt;/strong&gt; nagyságrendileg úgy 1000-1500 munkába igyekvő rohamozza meg a villamosmegállót,
+        azzal egy 10 percenként járó, 200-akárhány férőhelyes villamos nem sok mindent tud kezdeni. Kezdetben én is kísérleteztem a
+        heringjárattal (érdekes volt magukból kikelt németeket látni), de ma már csak simán kivárom a végét a vonaton, vagy
+        ha nincs remény a belátható időn belüli újra indulásra, akkor próbálok alternatív, több átszállásos csatlakozással
+        eljutni egy metróig. Évente 1-2 ilyet még elviselek bosszankodás nélkül, de sajnos ennél ez gyakoribb, emiatt a második
+        helyre soroltam.&lt;/p&gt;
+        &lt;h1 id=&quot;1---mobilinternet&quot;&gt;#1 - Mobilinternet&lt;/h1&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/10_dolog/10_dolog_01.png&quot; alt=&quot;Lakott területen visszaesik 3G-re&quot; /&gt;
+        &lt;figcaption&gt;Lakott területen visszaesik 3G-re&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;https://play.google.com/store/apps/details?id=com.wilysis.cellinfolite&amp;amp;hl=hu&quot;&gt;Képernyőkép a Network Cell Info applikációból&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;p&gt;Az abszolút győztes, ami nálam kiborítja a bilit napi szintem az az &lt;strong&gt;O2 telefon szolgáltató Mobil Internet hálózati lefedettsége&lt;/strong&gt;.
+        Botrányosan rossz München környékén. Nem meglepő módon rendszerint akkor szeretném használni a szolgáltatást,
+        amikor munkába megyek, vagy onnan jövök. Vagyis, amikor rengeteg másik ember is. 1 órát utazok egy irányba, szóval
+        lenne időm netezgetni, ha a technológia engedné. De akik ezeket tervezik, szerelik és tesztelik, szerintem egyikük sem
+        gondolt rá, hogy egy 80-140 km/h sebességgel robogó S-Bahnon akar valaki a telefonjáról netezni. Fürstenfeldbruck és
+        München Marienplatz megállók között alig van szakasz, ahol mindig, és állandó folytonossággal lenne gyors internet elérésem.
+        Hiába mutatja a telefon, hogy 4G, vagy H+, vagy H, sokszor akkor se töltődik az oldal 5 Kb/s sebességnél gyorsabban, ami
+        azért még 1998-ban is lassúnak számított. Az &lt;em&gt;Eichenau&lt;/em&gt; megállóhely egyenesen egy telekommunikációs fekete lyuk ilyen
+        szempontból. Se ki, se be semmi. Még az is kétséges, hogy baj esetén tudnék-e segélyhívást kezdeményezni.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;&lt;p&gt;
+        &lt;em&gt;2019.03.08.&lt;/em&gt;&lt;br /&gt;
+        Eichenau megkapta a 4G-s tornyát! Olyan príma lett a vétel és a sebesség, hogy így már az előtte és utána levő szakaszok
+        tűnnek lassúnak. 
+        &lt;/p&gt;&lt;/blockquote&gt;
+        &lt;p&gt;Néhányan próbáltak azzal fogást találni az érvelésemen, hogy a mobilnet sebessége nem térerő függő, hanem felhasználó
+        szám függő. Ez igaz is részben, csakhogy nekem furcsamód mindig ugyanott tűnik el a kapcsolat, függetlenül attól, hogy
+        sűrűn lakott területről, vagy egy félreeső megállóról van szó. És mindig ugyanott lesz gyors ismét. Ilyen például a
+        Marienplazt bunkerkomplexuma, ahol a mínusz negyedik szinten a metróban jó tempójú 4G van, és működik flottul is az egész,
+        de a mínusz kettedik szinten, már csak Edge (ami 2G ugyebár).&lt;/p&gt;
+        &lt;p&gt;Mára már megtanultam, hogy hol működik jól a rendszer, ott szoktam gyorsan előtölteni az olvasnivalókat szűkösebb időkre.&lt;/p&gt;</content><author><name>Iván Gábor</name></author><category term="naplo" /><category term="muenchen" /><category term="toplista" /><summary type="html">Úgy fair a dolog, ha a pozitív listát követi egy negatív is.</summary></entry><entry><title type="html">9 dolog, amit szeretek Németországban</title><link href="http://localhost:4000/naplo/9_dolog_amit_szeretek.html" rel="alternate" type="text/html" title="9 dolog, amit szeretek Németországban" /><published>2018-03-16T11:31:43+01:00</published><updated>2019-03-08T10:39:31+01:00</updated><id>http://localhost:4000/naplo/9_dolog_amit_szeretek</id><content type="html" xml:base="http://localhost:4000/naplo/9_dolog_amit_szeretek.html">&lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;https://www.carathotels.de/muenchen/hotel/&quot;&gt;Carathotel München&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;h1 id=&quot;miért-csak-kilenc&quot;&gt;Miért csak kilenc?&lt;/h1&gt;
+        &lt;p&gt;Kapásból csak ennyi jött össze. Ha nekiállnék agyalni, meg erőltetném, biztos találnék még akár 20 olyat is, ami beleférne
+        a listába, de annak meg mi értelme van, hogy például &lt;em&gt;“Szeretem a sörkerteket.”&lt;/em&gt;…?&lt;/p&gt;
+        &lt;p&gt;Szóval a kilences lista:&lt;/p&gt;
+        &lt;h1 id=&quot;9---tv-adás&quot;&gt;#9 - TV adás&lt;/h1&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/9_dolog/9_dolog_09.png&quot; alt=&quot;Adásszünet&quot; /&gt;
+        &lt;figcaption&gt;Adásszünet&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;A lista végével kezdem és haladok a legfontosabbak felé. A 9. legjobb dolog számomra Németországban, hogy
+        alaphelyzetben &lt;strong&gt;nincs magyar nyelvű televíziós adás&lt;/strong&gt;. Esetleg a Duna TV, de azt még Magyarországon se néztük sose.
+        Kezdetben nehéz volt feladni a napi függőségeinket, és még egy ideig kétségbeesetten próbálkoztunk mindenféle online
+        streamek nézésével, de ezek körülményessége és minősége, valamint annak a felfedezése, hogy az agysorvasztó magyar
+        média foshegyen túl is van élet, lassan kiürítette a szervezetünkből az éjjel-nappal dopamint… Nem is hiányzik már.&lt;/p&gt;
+        &lt;p&gt;Igen, tudom, van műholdas UPC, meg hasonló huncutságok, de ezekbe már szándékosan nem akartam belemenni. Tudtam, hogy
+        ha a netes adásokról leszokok, akkor már sikerül túllépni ezen a problémán. És így is lett.&lt;/p&gt;
+        &lt;p&gt;Van ugyan TV előfizetésünk (mert anélkül már nem lehet Internetet beköttetni), de leginkább csak a babacsatornákat
+        nézzük Thomassal, ha úgy adódik, hogy nem tudunk kimozdulni.&lt;/p&gt;
+        &lt;h1 id=&quot;8---tömegközlekedés&quot;&gt;#8 - Tömegközlekedés&lt;/h1&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/9_dolog/9_dolog_08.png&quot; alt=&quot;Az U6-os metró&quot; /&gt;
+        &lt;figcaption&gt;Az U6-os metró&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;http://www.muenchen.de/aktuell/2017-12/fahrtzeiten-ubahn-bus-tram-weihnachten-silvester.html&quot;&gt;München.de&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;p&gt;A &lt;strong&gt;müncheni, és környéki tömegközlekedés&lt;/strong&gt;, HA MINDEN KLAPPOL. Mert olyankor mint egy óramű: minden jön időben, az
+        átszállások között minimálisan kell várakozni (persze, csak ha jól tervez az emberfia). A járművek tiszták, kényelmesek.
+        Ismétlem: ha minden klappol.&lt;/p&gt;
+        &lt;h1 id=&quot;7---közútállapotok&quot;&gt;#7 - Köz(út)állapotok&lt;/h1&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/9_dolog/9_dolog_07.png&quot; alt=&quot;A romantikus út&quot; /&gt;
+        &lt;figcaption&gt;A romantikus út&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;https://www.wertheim.de&quot;&gt;Stadtverwaltung Wertheim&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;p&gt;Kifejezetten élmény olyan utakon autózni, amiket nem tarkítanak kátyúk és foltozások. Természetesen nem
+        azt állítom, hogy minden mindenhol hibamentes, sőt, pont a szomszéd utcát az elmúlt 4 évben többször is feltúrták, ami
+        miatt kissé hepehupás. De azért az tény, hogy az átlagot tekintve nagyon jó minőségűek az utak. Autókáztunk már sok felé,
+        sose volt panasz. És nem csak az autópályák meg a főutak, hanem a mellékutak is teljesen rendben vannak. Gondolom azokon
+        a kisebb forgalom kevesebb romlást is eredményez, de inkább szeretném ezt betudni annak, hogy egyszer kellett jól
+        megcsinálni.&lt;/p&gt;
+        &lt;h1 id=&quot;6---politika&quot;&gt;#6 - Politika&lt;/h1&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/9_dolog/9_dolog_06.png&quot; alt=&quot;Merkelnéasszony&quot; /&gt;
+        &lt;figcaption&gt;Merkelnéasszony&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;http://www.sueddeutsche.de/politik/bildstrecke-jahresrueckblick-angela-merkel-1.313464-7&quot;&gt;Süddeutsche Zeitung&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;p&gt;Börtönéből szabadult sas lelkemnek, mint éhezőnek egy falat kenyér, annyira jól esik, hogy &lt;strong&gt;a napi politika nem mászik
+        bele az ember arcába&lt;/strong&gt;. Ennyi, ezen nincs mit tovább magyarázni, lépjünk is tovább.&lt;/p&gt;
+        &lt;h1 id=&quot;5---autópark&quot;&gt;#5 - Autópark&lt;/h1&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/9_dolog/9_dolog_05.png&quot; alt=&quot;München, Maximilianstraße&quot; /&gt;
+        &lt;figcaption&gt;München, Maximilianstraße&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;https://www.pinterest.de/pin/3659243425966857/&quot;&gt;Pinterest&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;p&gt;Tudom, hogy nem fair ilyennel előállni, hisz egyrészt Európa vezető gazdaságában élünk, másrészt azon belül is az
+        ország egyik legtehetősebb régiójában, szóval biztosan lehetne találni ellenpéldát házon belül is. De mivel itt élünk, és
+        ezt látjuk, erről alkotunk véleményt és ezek indukálnak bennünk pozitív avagy negatív élményeket.&lt;/p&gt;
+        &lt;p&gt;Egyszerűen leírhatatlanul lélekemelő, hogy nem kell naponta ezrével látni az
+        első generációs ócska Suzukikat, a szakadt Ladákat, a horpadt Daewookat, meg a többi low-budget alsókategóriás, és
+        legalább 15 éves roncsot, ráadásul mindet tetőtől talpig szutykosan. Mert sajnos Magyarországon ezt látom.&lt;/p&gt;
+        &lt;p&gt;Itt viszont alig látok koszos autót. Tudom ez egyrészt környezeti adottság, mert itt sokkal kevesebb a por (több a
+        füves, sziklás terület, plusz a hegyek is megfogják az afrikai sivatagi poros esőket), emiatt kevesebb sár is képződik.
+        Ugyanakkor itt nem lehet csak úgy egy traktoroknak 2 tonna sárral a keréken felmennie az utakra. De az
+        is igaz, hogy eső után 5 perccel már tömve vannak az autómosók. Mi magunk is legalább havonta 1 alkalommal
+        lemostatjuk az autónkat, mert tényleg ciki, ha koszos. És az autó állagát is óvjuk vele. Szóval itt erre van idő,
+        pénz, energia, és nem utolsó sorban igény.&lt;/p&gt;
+        &lt;h1 id=&quot;4---fitt-és-mosolygós-emberek&quot;&gt;#4 - Fitt és mosolygós emberek&lt;/h1&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/9_dolog/9_dolog_04.png&quot; alt=&quot;Nem ritka látvány&quot; /&gt;
+        &lt;figcaption&gt;Nem ritka látvány&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;http://www.businessinsider.de/&quot;&gt;Business Insider&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;p&gt;Mindenfele. Nem azt mondom, hogy mindenki, mert rendszerint a Kelet-Európainak még a szar is
+        keserű, ahogy mondani szokták, de általánosságban a németek, a németeknek látszó, a kellően integrálódott importfiak,
+        és a nyelvük alapján inkább a nyugati kultúrkörbe tartozók igenis érzik ezt az életnek nevezett hazárdjátékot, és nem
+        félnek élvezni annak apró örömeit.&lt;/p&gt;
+        &lt;p&gt;Külön jó látni a 60-as korosztályt nem ritkán teljes menetfelszerelésben felszállni az S-Bahnra, legyen szó túrázásról,
+        mountain bike-ozásról vagy egyéb szabadidős sportról. Ilyen nyugdíjas szeretnék én is lenni…!&lt;/p&gt;
+        &lt;h1 id=&quot;3---schnitzel&quot;&gt;#3 - Schnitzel&lt;/h1&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/9_dolog/9_dolog_03.png&quot; alt=&quot;A gasztronómiai csoda&quot; /&gt;
+        &lt;figcaption&gt;A gasztronómiai csoda&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;https://www.gutekueche.at/wiener-schnitzel-artikel-1089&quot;&gt;GuteKueche.at&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;p&gt;Hogy &lt;strong&gt;Wiener&lt;/strong&gt;, vagy csak &lt;strong&gt;Wiener Art&lt;/strong&gt; az mindegy is, mert az csak arról szól, hogy múgatott vagy
+        röfögött előtte. Tudni kell, hogy édesanyámat tartom a világ legjobb szakácsának, és a &lt;em&gt;rántott húst&lt;/em&gt;, ahogy ő csinálja
+        már kiskölyök korom óta imádom: vastag, puha, átsült, szaftos, ízletes, ropogós bundával.&lt;/p&gt;
+        &lt;p&gt;Na, de ahogy itt csinálják (az igazi &lt;strong&gt;Gasthof&lt;/strong&gt;-okban, és nem a &lt;strong&gt;Vinzenzmurr&lt;/strong&gt;-szerű kifőzdékben), az egy másik liga.
+        Citrommal csepegtetve, áfonyaszósszal, tepsis burgonyával, és egy jó hideg, habzó &lt;strong&gt;Radler&lt;/strong&gt;-ral.
+        Bocsi, anyu, ez van. Ugye azért még szeretsz?&lt;/p&gt;
+        &lt;h1 id=&quot;2---bajor-alpok&quot;&gt;#2 - Bajor Alpok&lt;/h1&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2018/9_dolog/9_dolog_02.png&quot; alt=&quot;Hegyes, hölgyes vidék ez&quot; /&gt;
+        &lt;figcaption&gt;Hegyes, hölgyes vidék ez&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;p&gt;&lt;sub&gt;Fotó: &lt;a target=&quot;_blank&quot; href=&quot;http://noplacelikehomes.blogspot.de/2013/06/&quot;&gt;No place like homes&lt;/a&gt;&lt;/sub&gt;&lt;/p&gt;
+        &lt;p&gt;Tudom, hogy elcsépelt frázisnak, klisének, közhelynek hangzik, de imádom ezt a részét Európának. Megtagadva
+        minden nemzetközi megállapodást, és figyelmen kívül hagyva az országhatárokat, csupán a természeti- és kulturális
+        gyökereket figyelembe véve, számomra Dél-Bajorország és Észak-Tirol, úgy ahogy van &lt;strong&gt;Lederhosen&lt;/strong&gt;-estől, &lt;strong&gt;Drindl&lt;/strong&gt;-östől,
+        a sör-kolbász-perec szentháromság bűvkörében egy, és oszthatatlannak számít.&lt;/p&gt;
+        &lt;p&gt;Valamilyen megmagyarázhatatlan bűvölet lengi körbe e régiót, ami ellenállhatatlanul fogságba ejtette a szívemet már
+        gyerekkoromban, amikor először láttam a &lt;em&gt;Sissi&lt;/em&gt; trilógiát, meg a &lt;em&gt;Muzsika hangját&lt;/em&gt;, meg a számtalan
+        kosztümös-kardozós-huszáros (itt is voltak ám huszárok!) filmet, amik nem feltétlenül a Habsburg-ok által elnyomott
+        magyarság keserédes sorsáról, és hősies lázadásáról szóltak. Vagy ott volt még a &lt;em&gt;Derrick&lt;/em&gt; is, ami mai szemmel nézve nem
+        fest túl hízelgő képet Münchenről a sok gyilkosságával, de ellenpéldaként mindannyiunk kedvence &lt;em&gt;Pumukli&lt;/em&gt; is müncheni,
+        bár sajnos Éder mester műhelyét már nem volt módomban felkeresni…&lt;/p&gt;
+        &lt;p&gt;Fiatal felnőttként persze szombat késő esténként a Sat1 ismeretterjesztő műsorait nézve mélyreható ismeretekre tettem
+        szert a Bajor-Alpok hagyományaival kapcsolatban is, amik csak tovább érlelték bennem a meg nem fogalmazódott vágyat,
+        hogy nekem itt a helyem…de ez már más lapra tartozik :D&lt;/p&gt;
+        &lt;h1 id=&quot;1---a-családom&quot;&gt;#1 - A családom&lt;/h1&gt;
+        &lt;p&gt;Nincs kérdés az első helyet illetően. &lt;strong&gt;Zsike és Thomas&lt;/strong&gt;. Zsike nélkül nem lennék sehol, vele együtt értem el mindazt a
+        jót, ami most körülvesz: azt, hogy kiköltözhettünk ide, van egy jó munkám, van egy jó albérletünk egy gyönyörű helyen,
+        kedves szomszédokkal, van egy szép családi autónk, és itt van nekünk a kis Thomas is. Viszont az is biztos, hogy ha
+        nem költözünk ki, és marad minden a régiben: a lakáshitel, a stresszes munka, és az általános magyar viszonyok, akkor
+        gondolni sem mertünk volna a családbővítésre.&lt;/p&gt;</content><author><name>Iván Gábor</name></author><category term="naplo" /><category term="muenchen" /><category term="toplista" /><summary type="html">Már rögtön az elején pontosítanom kell, hisz nem állíthatom, hogy a listám mind a 357 385,71 km²-re igaz. Helyesen: 9 dolog, amit szeretek Dél-Bajorországban.</summary></entry><entry><title type="html">Haza megyek otthonról</title><link href="http://localhost:4000/naplo/haza_megyek_otthonrol.html" rel="alternate" type="text/html" title="Haza megyek otthonról" /><published>2017-12-30T20:20:00+01:00</published><updated>2019-03-08T11:24:28+01:00</updated><id>http://localhost:4000/naplo/haza_megyek_otthonrol</id><content type="html" xml:base="http://localhost:4000/naplo/haza_megyek_otthonrol.html">&lt;p&gt;Adva vagyon a karácsonyi szezon, megspékelve a lakáseladás körüli mizériával, ami azt
+        a kényszermegoldást szülte, hogy Zsike és Thomas kicsit Magyarországon telelnek, amíg le
+        nem zongorázzuk az adásvételt - tudvalevőleg egy másfél éves gyerekkel 1100 km-t
+        autózni nem éppen leányálom, ha a gyerek rossz passzban van. Lekopogom, a hazautat jól
+        bírta a kis Thomas, amiért sok puszi, örök hála és üdvrivalgás járt köszönetképp…&lt;/p&gt;
+        &lt;p&gt;Szóval ők maradnak, én meg haza vonatozok, és majd jövök, amikor kell.&lt;/p&gt;
+        &lt;p&gt;Zsike nem szereti, ha a pénzről beszélek. Az elmúlt 10 évben hallotta már elégszer,
+        megértem, hogy a fülén jön ki a téma. Szóval az utazás anyagi vonzatairól csak annyit
+        jegyeznék meg, hogy a Debrecen-Budapest InterCityre az első- és a másodosztály között
+        csupán alig 1500 Ft volt a különbség - ami 4,8€, vagy pékségtől függően 3 vagy 4 &lt;strong&gt;&lt;em&gt;Butterbreeze&lt;/em&gt;&lt;/strong&gt; ára.
+        Hogy ez sok vagy kevés? Nem tisztem eldönteni, viszont az tény, hogy a legendás,
+        gyerekkori sláger képregény, a &lt;strong&gt;Kockás&lt;/strong&gt; magazin 51. számmal &lt;em&gt;folytatódó&lt;/em&gt; kiadása
+        1490 Ft.-ba kerül.&lt;/p&gt;
+        &lt;p&gt;Ami meg a Budapest-München RailJet-et illeti, nem tudom, hogy sikerült kifognom, de első
+        osztályon, egyéni helyválasztással, vörös szőnyeggel, és bőrgatyás, rezesbandás fogadóbizottsággal
+        együtt is &lt;em&gt;csak&lt;/em&gt; 94,80 € volt a jegy. A pofám leszakad - ahogy Tibi bátyám mondotta volt mindig.&lt;/p&gt;
+        &lt;p&gt;Nem volt kérdéses tehát, hogy a hazautamat első osztályon teszem meg. Igaz, nem egy Orient
+        Express - ami rajta van a bakancs listámon - de azért mégsem a szokványos utazási forma.
+        És ha bele gondolok, így elég nagy valószínűséggel kerülöm el idegen családok idegen sírós
+        gyerekeit, akiktől rendszerint idegenkedni szoktam, mert az idegeimre mennek. Egy 12 órás
+        útnál legalábbis.&lt;/p&gt;
+        &lt;h2 id=&quot;654---mÁv-start&quot;&gt;6:54 - MÁV Start&lt;/h2&gt;
+        &lt;p&gt;Szüleim javaslatára hallgatva, nem a logikusnak tűnő Debrecen-Szolnok-Budapest Nyugati
+        viszonylatra vettem jegyet, hanem a Debrecen-Miskolc-Budapest Keletire, ami két okból is
+        praktikus.&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;A szolnoki vonalon pályamunkálatok zajlanak, amik kétségessé tennék a pontos célba érést.&lt;/li&gt;
+        &lt;li&gt;A RailJet is a Keleti Pályaudvarról fog indulni, úgyhogy nem kell átcaflatni a belvároson,
+        hanem helyben adott lesz az &lt;strong&gt;&lt;em&gt;umsteigen möglichkeit&lt;/em&gt;&lt;/strong&gt;.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;Igaz, így egy órával tovább tart az út, ugyanakkor egy órával kevesebbet is kell várni
+        a RailJet indulására. Szóval mindenképpen nyerő húzás volt.&lt;/p&gt;
+        &lt;p&gt;És hogy mivel töltöm az utazást? Amikor épp megunom bambán bámulni a magyar sztyeppék
+        végtelenbe tűnő, ágas-bogas akácosait és a belvíz-áztatta szántóit két település között,
+        akkor épp vagy ezt a cikket szerkesztem, vagy a blogot fejlesztem tovább.&lt;/p&gt;
+        &lt;h2 id=&quot;750&quot;&gt;7:50&lt;/h2&gt;
+        &lt;p&gt;Már közel egy órája zakatol a vonat. A Tisza Tokajnál elég magasan áll, hajóvonták találkozása tilos,
+        de a vonat simán
+        átsuhant a felette magasodó hídon, hogy aztán egy acélos balost dobva befaroljon a tokaji
+        vasútállomásra. A magyar hagyományoknak megfelelően a régi gőzös délcegen áll, és dacol
+        az idő múlásával. Büszkén hirdeti, hogy őt még az ózdi acélművek kohóiból puszta kézzel
+        kotorták ki a Sztálin renddel kitüntetett brigádok hős dolgozói. Munkás ököl, vasököl
+        ugyebár. Óóó, azok a sosem volt régi szép, dicsőséges idők…!&lt;/p&gt;
+        &lt;p&gt;Az állomásról kigördülve egy &lt;em&gt;afrikai töketlen fecske&lt;/em&gt; szakértelmével szemrevételezem a
+        tokaji szőlészetek katonás rendben sorakozó tőke-seregét, amik évről-évre világhíres
+        nedűikkel öregbítik Magyarország jóhírét a borkedvelők körében.&lt;/p&gt;
+        &lt;h2 id=&quot;800&quot;&gt;8:00&lt;/h2&gt;
+        &lt;p&gt;Szerencs előtt, s után a köd lett az úr az sínpályán, ami önkéntelenül is felébreszti bennem a filmrajongót,
+        ugyanis mindenkori kedvenc filmjeim top listáján előkelő helyet élvez John Carpenter
+        horror klasszikusa, &lt;strong&gt;A köd&lt;/strong&gt;, amely az alábbi Edgar Allen Poe idézettel indul:&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;Hát minden-minden e világon&lt;br /&gt;
+        álomba ködlő furcsa álom?&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;&lt;em&gt;Kosztolányi Dezső fordításában&lt;/em&gt;&lt;/p&gt;
+        &lt;p&gt;Közben, ennek kapcsán eszembe jutott egy ízig-vérig magyar szóvicc, miszerint, ha
+        Szegeden is ekkora köd van, akkor biztos előbújik a &lt;strong&gt;KÖD-MÖN&lt;/strong&gt;.&lt;/p&gt;
+        &lt;h2 id=&quot;830&quot;&gt;8:30&lt;/h2&gt;
+        &lt;p&gt;Miskolc. Azt hallottam a hiradóba’, hogy erre nem szeretik a Debrecenieket (se). Ha így
+        is van, elnézem nekik, mert itt legalább egy szép, vörös-téglás, klasszicista állomás épület
+        áll, és nem az az ótvar, szocreál, szürke-beton borzadály, mint Debrecenben, amit az Isten
+        (meg apám) tudja melyik NDK-s pályaudvar mintájára húztak fel a háború után.&lt;/p&gt;
+        &lt;p&gt;Pedig volt nálunk is egy impozáns, szemet gyönyörködtető, igazi klasszikus pályaudvar épület,
+        legyező formájú főbejárati boltívvel, órával, mindennel. Amit aztán ‘44-ben előbb az amcsik
+        bombáztak porig, majd a ruszkik is csak úgy ráadásként, mert zavarta őket a stílus,
+        az elegancia, és az igényesség.&lt;/p&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2017/haza_megyek/debreceni_nagyallomas.jpg&quot; alt=&quot;A debreceni vasútállomás 1894-1944&quot; /&gt;
+        &lt;figcaption&gt;A debreceni vasútállomás 1894-1944&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;h2 id=&quot;925&quot;&gt;9:25&lt;/h2&gt;
+        &lt;p&gt;Egy újabb eseménytelen 55 perc a tejködön keresztül. Ezen a ponton szükségét érzem
+        megjegyezni, hogy én a menetirány szerinti jobb oldalon ülök. De balról (dél, dél-kelet) pont olyan
+        sunyin süt a nap, hogy a ködben szétszóródva egy bazi nagy energiatakarékos izzónak
+        tűnik, ami pont a szemembe világít. De mégse rongyolhatok át a másik oldalra, hogy
+        behúzzam az ott ülők orra elött a függönyt… Hol vannak most a kesze-kusza akácosok,
+        amik meg tudnák törni e vakító fény aljas támadását?!? Sebaj, a hátralevő egy órát - hacsak
+        nem következik be valami tényleg érdekfeszítő esemény - zenehallgatással fogom eltölteni.&lt;/p&gt;
+        &lt;h2 id=&quot;1015&quot;&gt;10:15&lt;/h2&gt;
+        &lt;p&gt;Ez már valahol &lt;del&gt;Bivalybasznád&lt;/del&gt; Budapest külső lesz, mert egyre több a szemét a rekettyésben.
+        Szerettem volna utazós képeket csinálni, de sajnos a magyar vasút első osztálya csak a
+        beltérre vonatkozik, a kocsik kívül olyan minősíthetetlenül koszosak, mintha csak egy működő vulkánhoz
+        tettek volna kirándulást tegnapelőtt. Lehet, hogy amit eddig ködnek hittem, az szimplán
+        csak az út pora volt?&lt;/p&gt;
+        &lt;p&gt;Nem nagyon kavarja meg az állóvizet az ilyesfajta filozofikusnak ható bambulás, ezért
+        mielőtt megaludna a tej a számban, lassan elkezdek szedelőzködni, leltárt készítek a
+        holmijaimról, hogy pontosan annyi minden van-e a táskámban, mint induláskor stb., stb.&lt;/p&gt;
+        &lt;p&gt;Az átszállási idő alatt próbálok valami energiában, és tápanyagban gazdag élelmiszert
+        keresni, hisz az út kétharmada még hátra van.&lt;/p&gt;
+        &lt;h2 id=&quot;1123---railjet&quot;&gt;11:23 - RailJet&lt;/h2&gt;
+        &lt;p&gt;Már vagy fél órája a Keleti Pályaudvaron vagyok, ebéd gyanánt az új nemzeti ebédet,
+        Gyros-t kértem pitában. Amit egyébként hívhatnának simán “grillezett pulykahús, zöldséggel,
+        csípős öntettel, lapos cipóban”-nak is.&lt;/p&gt;
+        &lt;p&gt;Azóta már a RailJet-en ülök - mit “ülök”! Terpeszkedek! -
+        és ámulok, hogy az első osztály TÖMVE VAN. És leszámítva azt az Afrika gyöngyszemét,
+        aki velem szemben ül, mindenfelől magyar szófoszlányokat csípnek el a kétségbeejtően
+        átlagos hallójárataim.&lt;/p&gt;
+        &lt;p&gt;Még pár perc, és még távolabb kerülök Zsikétől és a kis Thomastól, aki mintha csak előre
+        érezte volna, hogy egy ideig nem fog látni, az utóbbi napokban szinte bogáncs módjára
+        csimpaszkodott rám. Hiányozni fognak. Jobban, mint hinnék… Egy hónap… csak én,
+        a macska, meg az Xbox. Valahogy csak túlélem, hehehe. Aztán majd 5 perc játék után
+        sírva kucorodok be a sarokba. Mert én egy ilyen érzelgős vágómarha vagyok.&lt;/p&gt;
+        &lt;h2 id=&quot;1151&quot;&gt;11:51&lt;/h2&gt;
+        &lt;p&gt;A vonat elindult, s komótosan billeg tova a váltórengetegen, hogy aztán kalapos úrsofőr 
+        módjára lépdeljen át óvatosan az &lt;del&gt;északi&lt;/del&gt; &lt;strong&gt;DÉLI&lt;/strong&gt; vasúti összekötő hídon, ami ránézésre már egy
+        tourette szindrómás veréb napi esedékes őrjöngésétől is képes atomjaira hullani.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2018.03.16.&lt;/em&gt;&lt;br /&gt;
+        Ádám - a kollégám - volt szives jelezni, hogy az a híd valójában, a déli összekötő, amire
+        magam is ráeszméltem volna, ha a balra bambulás közben kitekintek jobbra is, mert ott csücsült 
+        mellette életnagyságban a Rákóczi híd. &lt;br /&gt;&lt;br /&gt;
+        Ez azért sokat elmond, hogy a Kopaszi gátat már fel se ismertem.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;Széles a Duna,&lt;br /&gt;magos a partja!&lt;br /&gt;Nincs olyan vasúti híd,&lt;br /&gt;mi bele ne szakadna…&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h2 id=&quot;1220&quot;&gt;12:20&lt;/h2&gt;
+        &lt;p&gt;Találtam a laptopon egy sakk programot, de látszik, hogy nincs hozzászokva, hogy egy ilyen
+        stratégiai géniusszal hozza őt össze a sors. 3 perc alatt elvesztettem a seregem felét…
+        Lehetett volna kicsit kíméletesebb is. Sajnos ebben nincs &lt;strong&gt;IDDQD&lt;/strong&gt; kód (ami az örök élet /
+        összes fegyver titkos csaló kódja a &lt;em&gt;Doom&lt;/em&gt; című, csöppet sem erőszakos, családbarát
+        videójátéknak az 1990-es évekből). Ellenben, a beállításoknál lehet állítani az
+        erősséget, és amint a szintemre hozom (max 1 lépésre engedem előre tervezni), akkor
+        máris kimagaslanak elvitathatatlan kvalitásaim e történelmi játékban.&lt;/p&gt;
+        &lt;h2 id=&quot;1330&quot;&gt;13:30&lt;/h2&gt;
+        &lt;p&gt;A vonat lassan eléri a pontot, ahol nem is olyan rég még a szabadságtól elválasztó vasfüggöny
+        próbálta bent tartani a népet a karámban.&lt;/p&gt;
+        &lt;p&gt;A horizonton egy ideje már felsejlenek Don
+        Quijote fáradhatatlan szélmalmai, csak ezek liszt helyett már a XXI. század kenyeréhez
+        őrlik a mágneses térben mozgatott villamos vezetők által indukált feszültséget.&lt;/p&gt;
+        &lt;h2 id=&quot;1400&quot;&gt;14:00&lt;/h2&gt;
+        &lt;p&gt;Egyre mélyebben hatolnak a disszidensek a Habsburg birodalom belsejébe, miután sikeresen
+        túlélték a határellenőrzés okozta pillanatnyi izgalmakat. Glock 9-essel felszerelt,
+        jól szituált határellenőrök nézték meg minden kedves utas iratát, miközben közöttük
+        szlalomozva ellenőrizte a kalauz bácsi a menetjegyeket, bérleteket. Mily precíz rendszer
+        ez! Micsoda összhang! Már-már keringőnek is hívhatnánk azt a hatékony mozdulatsort,
+        amivel akadálytalanul tovasuhantak a kocsin dolguk végeztével.&lt;/p&gt;
+        &lt;h2 id=&quot;1421&quot;&gt;14:21&lt;/h2&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;S nyögte a RailJet bús hadát&lt;br /&gt;Bécsnek büszke vára.&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Nyögte, nem nyögte, tény, hogy a korábbi fejállomás helyett, most a vadiúj, áteresztő
+        főpályaudvarra gurultunk be. Egyelőre minden tipp-topp, csak elvétve látok az új díszburkolatba
+        beletaposva egy-egy kósza rágógumit.&lt;/p&gt;
+        &lt;p&gt;Viszont most figyelni kell, hogy a sok leszálló - köztük
+        Afrika gyöngye is - nehogy az én felbecsülhetetlen értékű karácsonyi ajándékommal - Xbox
+        fejhallgató - távozzon. A félelmem sajnos nem alaptalan, a velem átellenben ülő
+        családtól meg a Keletiben meglovasítottak egy mobiltelefont, amíg az indulásra vártunk.&lt;/p&gt;
+        &lt;p&gt;Gyors létszámellenőrzés: útlevél, vonatjegy, mobil, laptop, táska, kabát. Minden megvan.&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;Tűz, Csucsu!&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h2 id=&quot;1500&quot;&gt;15:00&lt;/h2&gt;
+        &lt;p&gt;Látszik, hogy az éjjel nem aludtam valami jól, igazából, hajnal kettőkor felébredtem,
+        és utána már csak forgolódtam, és próbáltam még egy kicsit aludni, mert ötkor kelni
+        kellett. Most viszont lassan vasvillával kell kitámasztanom a szemhéjamat, úgyhogy
+        kihasználva a RailJet első osztályának inkluzív pincér-szolgálatát, rendeltem egy
+        &lt;em&gt;Espresso a’ la kurvagyorsan, bitte&lt;/em&gt;. Nem vagyok nagy kávézós, csak a Latte Macchiato-t
+        tudom meginni (sok sok cukorral, amíg karamellás tej ízű nem lesz), de most a cél nem
+        az élmény-kávézás magas élvezeti faktorral, hanem hogy vagy a koffein, vagy a pocsék
+        íz kiűzze az álmot a szememből. A hátra levő három és fél órát már muszáj lesz valahogy
+        kibírni.&lt;/p&gt;
+        &lt;h2 id=&quot;1530&quot;&gt;15:30&lt;/h2&gt;
+        &lt;p&gt;A kávé-trükk úgy tűnik egyelőre megtette a hatását, a gonosz álommanók vinnyogva
+        iszkoltak el a közelemből, miközben a vonat Linz felé suhan a hófödte szántókon keresztül.
+        Eszebe is jut egy dalocska, amit még kisdobosként énekeltünk a kisvasúton utazva:&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;Hegyek között, völgyek között zakatol a vonat,&lt;br /&gt;én a legszebb lányok közül téged választalak!&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Küldeném e nótát sok szeretettel &lt;del&gt;Latyakos Istvánnénak&lt;/del&gt; Kocsis Erzsikének Bagamérba, és
+        üzenném még, hogy “&lt;strong&gt;A z&lt;/strong&gt;ura” hiányolja nagyon, meg csókótassa őtet.&lt;/p&gt;
+        &lt;figure&gt;
+        &lt;img src=&quot;/assets/img/blog/2017/haza_megyek/hegyek_kozott.jpg&quot; alt=&quot;Havas, táj-jellegű kép.&quot; /&gt;
+        &lt;figcaption&gt;Havas, táj-jellegű kép.&lt;/figcaption&gt;
+        &lt;/figure&gt;
+        &lt;h2 id=&quot;1600&quot;&gt;16:00&lt;/h2&gt;
+        &lt;p&gt;A természet lágy hívó szavát inkább hívnám most ordenáré üvöltözésnek, annyira szükségét
+        érzem megszemlélni a helységet, ahova a király is gyalog jár. De vajon merjem itt hagyni a cuccaimat?
+        Elvileg Salzburgig már nem állunk meg, ami még a kijelző szerint 52 percre van. Mindezt
+        csak a magam megnyugtatására állapítottam meg, hogy amíg én magamon könnyítek, addig ha
+        valaki más netalántán a holmijaimon könnyítene, akkor legyen időm megtalálni és mérettől függően
+        az alábbi opciók valamelyikét eszközölni:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;leverni a veséjét egy szívlapáttal, és a fájdalomtól kocsonyaként remegő test szorításából kicsavarni az eltulajdonított értékeimet (nyikhaj kiscsicska)&lt;/li&gt;
+        &lt;li&gt;verbálisan inzultálni, hátha sikerül visszavenni a jussomat (magamforma átlagmanus)&lt;/li&gt;
+        &lt;li&gt;elnézést kérni a zavarásért és Békés, Boldog Új Évet kívánni (tarkopasz, konyhakredenc-méretű becsületes vállalkozó úr)&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;h2 id=&quot;1610&quot;&gt;16:10&lt;/h2&gt;
+        &lt;p&gt;Öt literrel könnyebben tartok egy gyors létszámellenőrzést: útlevél, vonatjegy, mobil, laptop, táska, kabát. Minden megvan.&lt;/p&gt;
+        &lt;p&gt;Nem paranoid vagyok, csak megrögzötten bizalmatlan az emberi fajjal szemben. Fox Mulder
+        FBI különleges ügynök szavaival élve:&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;Trust no one.&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Ami magyarul annyit tesz: &lt;em&gt;Ne bízz senkiben.&lt;/em&gt; Miközben e szavak visszhangzanak a fejemben -
+        mint egy nagyobb volumenű, életre szóló jó tanács terjedelmes kontextusából kiragadott
+        kvintesszencia atomi bölcselete -, azalatt a nap utolsó sugarai kétségbeesetten próbálnak
+        még további vidám színeket karcolni a festői Tirol hegyvonulataiba. A csata elveszett, a Napkirály
+        lebukott a horizont mögé, ahonnan erőt gyűjtve nemsokára kelet felől újabb támadást indíthat.&lt;/p&gt;
+        &lt;h2 id=&quot;1655---3-perc-késésben&quot;&gt;16:55 - 3 perc késésben&lt;/h2&gt;
+        &lt;p&gt;&lt;strong&gt;&lt;em&gt;Sóvár&lt;/em&gt;&lt;/strong&gt;. Amiért utoljára &lt;em&gt;Mr. H.&lt;/em&gt; &lt;strong&gt;sóvárgott&lt;/strong&gt; - Salzburgs Gott !!!! kész, végem van -
+        a nem túl messzi, sőt tiszta időben látótávolságban levő Berchtesgaden-i Sasfészekből.
+        De ugyanez az ellenállhatatlan szépségű város adott otthont az egyik legszebb
+        nótás-romantikus musical filmnek is, &lt;em&gt;A muzsika hangja&lt;/em&gt;-nak.&lt;/p&gt;
+        &lt;p&gt;Az állomáson feltehetőleg újabb határellenőrzésre lehet számítani, legalábbis az újonnan
+        felszállókkal együtt érkezett pár Glock 9-essel felszerelt rendőrbácsi is.&lt;/p&gt;
+        &lt;h2 id=&quot;1730&quot;&gt;17:30&lt;/h2&gt;
+        &lt;p&gt;Élek a gyanúperrel, hogy az elkövetkező egy óra eseményei nem fogják érdemben
+        megváltoztatni sem a történelmet, sem pedig a mondanivalómat. Amikor kitekintek az
+        ablakon, csak a távoli települések kósza fényei derengenek a messzi távolban, egyébként
+        meg olyan sötétség telepedett a tájra, amilyenhez foghatót csak a közszolgálati televízió
+        híreit szerkesztők elméjében találni.&lt;/p&gt;
+        &lt;p&gt;Ezen felbuzdúlva köszönöm meg mindenki figyelmét, aki volt oly’ bátor, érdeklődő és
+        türelmes, hogy eljusson idáig, ebben a nem éppenséggel a rövidségével virtuskodó bejegyzésben.&lt;/p&gt;
+        &lt;p&gt;Megtehettem volna, hogy pusztán a móka kedvéért a jelenleginél is értelmetlenebb
+        töltelék mondatokkal tűzdelem tele az írásomat, tudvalevőleg tudományos kísérletek sora, és
+        számos doktori disszertáció a bizonyíték rá, hogy az emberek 90%-a meglepődik, ha egy
+        mondat nem úgy fejeződik be, ahogy azt ő töltöttkáposzta.&lt;/p&gt;</content><author><name>Iván Gábor</name></author><category term="naplo" /><category term="utazas" /><category term="vonatok" /><category term="munchen" /><category term="debrecen" /><summary type="html">Nem tudom, hogy egy last-minute akció, vagy csak a szerencsés időpont választás miatt, de úgy alakult, hogy a Debrecen-München távot nagyon baráti áron, és első osztályon volt szerencsém megtenni.</summary></entry><entry><title type="html">10 év</title><link href="http://localhost:4000/naplo/10_ev.html" rel="alternate" type="text/html" title="10 év" /><published>2017-12-19T15:02:23+01:00</published><updated>2019-03-07T23:27:11+01:00</updated><id>http://localhost:4000/naplo/10_ev</id><content type="html" xml:base="http://localhost:4000/naplo/10_ev.html">&lt;h1 id=&quot;2007-december-19&quot;&gt;2007. december 19.&lt;/h1&gt;
         &lt;p&gt;Mondhatnám, hogy úgy emlékszek az egészre, mintha csak ma történt volna. De ez nem igaz. Nem emlékszek a részletekre. Nem emlékszek rá,
         hogy kezdődött el. Az még megvan, hogy előtte egy őszi napon elmentünk a lakásbörzére Budapesten. Nézelődtünk, tervezgettünk.
         Az is megvan, hogy aztán jártuk a bankokat, hogy hol adnak hitelt használt ingatlanra minimális kezdőtőkével. Az OTP, az Erste
@@ -105,112 +722,822 @@
         &lt;p&gt;És a jövő? A hitel után egy kicsivel még könnyebb lesz. Aztán majd meglátjuk. Ahogy a Terminátor 2-ben is mondták:&lt;/p&gt;
         &lt;blockquote&gt;
         &lt;p&gt;Nincs végzet, csak ha magad is bevégzed.&lt;/p&gt;
-        &lt;/blockquote&gt;</content><author><name>Iván Gábor</name></author><category term="naplo" /><category term="lakashitel" /><category term="chf" /><category term="tapasztalat" /><category term="bank" /><summary type="html">Kereken ma 10 éve, hogy jövőképpel, tervekkel, naivan és tudatlanul aláírtunk egy Svájci Frank alapú jelzáloghitel szerződést. Aztán jött, aminek jönnie kellett...</summary></entry><entry><title type="html">Első lépés: Munka</title><link href="http://localhost:4000/hasznos/elso_lepes.html" rel="alternate" type="text/html" title="Első lépés: Munka" /><published>2014-01-06T17:28:00+01:00</published><updated>2019-03-07T23:15:36+01:00</updated><id>http://localhost:4000/hasznos/elso_lepes</id><content type="html" xml:base="http://localhost:4000/hasznos/elso_lepes.html">&lt;h1 id=&quot;a-tartalomból&quot;&gt;A tartalomból&lt;/h1&gt;
+        &lt;/blockquote&gt;</content><author><name>Iván Gábor</name></author><category term="naplo" /><category term="lakashitel" /><category term="chf" /><category term="tapasztalat" /><category term="bank" /><summary type="html">Kereken ma 10 éve, hogy jövőképpel, tervekkel, naivan és tudatlanul aláírtunk egy Svájci Frank alapú jelzáloghitel szerződést. Aztán jött, aminek jönnie kellett...</summary></entry><entry><title type="html">Hatodik lépés: Utómunkálatok</title><link href="http://localhost:4000/hasznos/hatodik_lepes.html" rel="alternate" type="text/html" title="Hatodik lépés: Utómunkálatok" /><published>2014-02-06T23:20:00+01:00</published><updated>2019-03-08T11:24:28+01:00</updated><id>http://localhost:4000/hasznos/hatodik_lepes</id><content type="html" xml:base="http://localhost:4000/hasznos/hatodik_lepes.html">&lt;blockquote&gt;
+        &lt;p&gt;Akkor mondhatjuk, hogy megálljunk,&lt;br /&gt;Mert itt van már a Kánaán!&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Na persze ez csak az irodalom előtti főhajtás volt. &lt;strong&gt;Természetesen Németországban sincs kolbászból a kerítés.&lt;/strong&gt; Itt virsliből
+        van, mert azt szeretik jobban. De a tréfát félretéve, most essék szó arról is, amiért idejöttünk: az utómunkálatok.&lt;/p&gt;
+        &lt;h1 id=&quot;a-tartalomból&quot;&gt;A tartalomból&lt;/h1&gt;
         &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&quot;/hasznos/elso_lepes.html#linkedin&quot;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;/hasznos/elso_lepes.html#fejvadaszok&quot;&gt;Fejvadászok (toborzók)&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;/hasznos/elso_lepes.html#nyelv&quot;&gt;Nyelv&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;/hasznos/elso_lepes.html#tervezes&quot;&gt;Tervezés&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;/hasznos/elso_lepes.html#interju&quot;&gt;Interjú&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;/hasznos/elso_lepes.html#tesztfeladat&quot;&gt;Tesztfeladat&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&quot;/hasznos/elso_lepes.html#szerzodes&quot;&gt;Szerződés&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/hatodik_lepes.html#oep&quot;&gt;OEP&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/hatodik_lepes.html#vegleges-letelepedes&quot;&gt;Végleges letelepedés&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/hatodik_lepes.html#ideiglenes-letelepedes&quot;&gt;Ideiglenes letelepedés&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/hatodik_lepes.html#dokumentumok&quot;&gt;Dokumentumok&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/hatodik_lepes.html#adobevallas&quot;&gt;Adóbevallás&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/hatodik_lepes.html#manualisan&quot;&gt;“Magad, Uram, ha szolgád nincsen!”&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/hatodik_lepes.html#ugyfelkapu&quot;&gt;Ügyfélkapu&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
-        &lt;p&gt;Esetemben ez nem volt ilyen egyszerű. Egy lakáshitellel a nyakamban esélyem nem volt arra, hogy annyit összespóroljak,
-        amiből eléldegélhetek és fizethetem a hitelt, amíg munkát nem találok. Ráadásul, ha nincs munkája az embernek, akkor -
-        tapasztalatom és fórumokon olvasottak alapján - NAGYON NEHÉZ lakást találni. Sőt ki merem jelenteni, hogy szinte lehetetlen.&lt;/p&gt;
-        &lt;p&gt;Így nekem nem volt más választásom, mint első lépésként munkát találni. Webfejlesztőként, 10 év tapasztalattal erre egész
-        jó esélyem mutatkozott. Elsőre Angliát céloztam meg, még ki is menten 4 napra, hogy interjúkra menjek, de az ottani
-        feltételek nem voltak összeegyeztethetőek a költségvetésemmel. Aztán szerencsémre bejött Németország is a képbe.&lt;/p&gt;
-        &lt;p&gt;Nos, amit a munkataláláshoz érdemes megtenni, ha informatikus vagy:&lt;/p&gt;
-        &lt;h2 id=&quot;linkedin&quot;&gt;&lt;a name=&quot;linkedin&quot;&gt;&lt;/a&gt;LinkedIn&lt;/h2&gt;
+        &lt;p&gt;Azzal, hogy az itteni életünket elindítottuk, még rendezni kell az otthoni dolgainkat is. Nem lehet csak úgy eljönni,
+        és ott hagyni mindent, mint “kutya a Szaharát”. Bár rengeteg a frusztrált és csalódott ember, aki dühből, dacból,
+        sértettségből kifolyólag magasról tesz arra, mi marad hátra. Vissza se néz, csak eljön, mindent feléget és csak a jövőbe
+        tekint. Valahol a lelki részét én magam is megértem, különben nem tudtam volna magam rávenni, hogy kijöjjek ide. De
+        kötelezettségeim akkor is vannak, amiket teljesítenem kell. Nem azért, mert kényszer, nem azért, vagy mert feszes a regula,
+        hanem simán csak azért, mert akarom.&lt;/p&gt;
+        &lt;h2 id=&quot;oep&quot;&gt;&lt;a name=&quot;oep&quot;&gt;&lt;/a&gt;OEP&lt;/h2&gt;
+        &lt;p&gt;Az egyik dolog, amit meg kell tenni, hogy tudatod az otthoniakkal, hogy elhagytad az országot. Ezt két esetre szokás bontani:&lt;/p&gt;
         &lt;ul&gt;
-        &lt;li&gt;Töltsd ki a profilodat: ne szégyenlősködj, rakj fel magadról egy rendes képet. Adj meg minél több adatot. Add meg az
-        email címedet és a telefonszámodat. Ha munkát keresel, nem árt, ha meg tudnak találni.&lt;/li&gt;
-        &lt;li&gt;Ne kamuzz az adatokkal. Úgyis kiderül, és csak a saját renomédat fogod rombolni.&lt;/li&gt;
-        &lt;li&gt;Bárki jelöl be, jelöld vissza. Valószínűleg fejvadász. És ha így van, akkor el fog árasztani lehetőségekkel. Feltéve,
-        hogy a profilod meggyőző.&lt;/li&gt;
+        &lt;li&gt;ideiglenes külföldön tartózkodás&lt;/li&gt;
+        &lt;li&gt;végleges külföldi letelepedés
+        &lt;h4 id=&quot;végleges-letelepedés&quot;&gt;&lt;a name=&quot;vegleges-letelepedes&quot;&gt;&lt;/a&gt;Végleges letelepedés&lt;/h4&gt;
+        &lt;/li&gt;
         &lt;/ul&gt;
-        &lt;p&gt;Ha Anglia a célod, bátran ajánlom a &lt;a href=&quot;http://www.londonjobs.co.uk/&quot;&gt;LondonJobs&lt;/a&gt; oldalt. Itt rengeteg féle-fajta munkát találni.&lt;/p&gt;
-        &lt;blockquote class=&quot;update&quot;&gt;&lt;p&gt;
-        ...ha meg Németország, akkor érdemes a LinkedIn mellett/helyett a &lt;a href=&quot;https://www.xing.com&quot;&gt;Xing&lt;/a&gt;et felkeresni,
-        ami a kínaias hangzás ellenére német cégek és munkavállalók közösségi hálója.
-        &lt;/p&gt;&lt;/blockquote&gt;
-        &lt;h2 id=&quot;fejvadászok-toborzók&quot;&gt;&lt;a name=&quot;fejvadaszok&quot;&gt;&lt;/a&gt;Fejvadászok (toborzók)&lt;/h2&gt;
-        &lt;p&gt;Több, mint valószínű, hogy nem fogsz tudni munkát találni fejvadászok nélkül. A külföldiekkel jó tapasztalatom van,
-        segítőkészek, türelmesek. Mindenben segítenek, mert nekik az az érdekük, hogy minél jobb munkát találj. Ők ugyanis csak
-        akkor kapják meg a pénzüket (a te jövendőbeli cégedtől), ha sikerül elhelyezniük téged. Külföldön ez így megy. Persze
-        ehhez nem árt, ha legalább angolul tudsz.&lt;/p&gt;
-        &lt;p&gt;Nem akarok általánosítani, de az én tapasztalatom az, hogy a magyarországi fejvadászok mindenféle szerződésekkel meg
-        pénzekkel akarják bebiztosítani magukat. Még semmit se tettek érted, de már magukhoz akarnak láncolni, nehogy őket
-        megkerülve találj munkát.&lt;/p&gt;
-        &lt;h2 id=&quot;nyelv&quot;&gt;&lt;a name=&quot;nyelv&quot;&gt;&lt;/a&gt;Nyelv&lt;/h2&gt;
-        &lt;p&gt;Az előbb már említettem, hogy fontos, hogy legalább angolul tudj. Nem árt, ha ismered annak az országnak a nyelvét, ahova
-        menni szeretnél, de ennek hiányában az angol tudás lehet a mentőöv. Én magam is így vagyok kint Németországban.&lt;/p&gt;
-        &lt;p&gt;És ismerem az érzést, hogy milyen az, amikor tudsz olvasni az adott nyelven, nagyjából érted, amit mondanak, de nem mersz
-        megszólalni. Ezen sürgősen túl kell lépni. Bármit és bárhogy, csak beszélj. Tudják, hogy nem fogod anyanyelvi szinten
-        beszélni a nyelvüket, épp ezért te se ess kétségbe, ha nyelvtanilag helytelen vagy összekavarod az igeidőket meg a ragozást.
-        Nem számít. Ha nagyjából érthető, akkor érteni fogják. A munkához meg elég. Az informatikában legalábbis.&lt;/p&gt;
-        &lt;h2 id=&quot;tervezés&quot;&gt;&lt;a name=&quot;tervezes&quot;&gt;&lt;/a&gt;Tervezés&lt;/h2&gt;
-        &lt;p&gt;Mit sem ér a munka, ha utólag derül ki, hogy nem lesz elég a fizetés. Külföldön általában éves bruttóban kell megadni a
-        fizetésigényt, ezért nem árt jó előre számolni. A helyzet könnyű, ugyanis külföldön nem divat, hogy zsákbamacska hirdetésekkel
-        pazarolják az munkakeresők idejét, hátha kifognak egy mindenhez értő, de minimálbérért dolgozó balekot. Ez a magyar
-        módszer. Külföldön megadják a hirdetésben, hogy milyen intervallum között fognak fizetni az adott pozícióért.&lt;/p&gt;
-        &lt;p&gt;Amit érdemes megtenni, még akár a konkrét munkakeresés előtt:&lt;/p&gt;
+        &lt;p&gt;Ezzel kezdem, mert erről tudok kevesebbet. Annyit tudok, hogy macerásabb, mert nem csak OEP (Országos Egészség Pénztár)
+        felé kell nyilatkozni, hanem a NAV (ex-APEH) felé is. Ezen kívül rendelkezni kell egy állandó külföldi lakcímmel, illetve
+        bevonják a személyidet is (ha minden igaz).&lt;/p&gt;
+        &lt;p&gt;Több a macera, több az utánajárás, ráadásul szerintem nem is lehet mindent levélben elintézni, és visszacsinálni is nehezebb.
+        Aki emellett dönt, az alaposabban járja körül a témát, olvasson, kérdezzen, hívja fel az illetékes szerveket.&lt;/p&gt;
+        &lt;h4 id=&quot;ideiglenes-letelepedés&quot;&gt;&lt;a name=&quot;ideiglenes-letelepedes&quot;&gt;&lt;/a&gt;Ideiglenes letelepedés&lt;/h4&gt;
+        &lt;p&gt;Ez jelentősen könnyebb. Valamikor talán 2013 tavaszán hozták meg azt a rendeletet, hogy az ideiglenes külföldi tartózkodást
+        már nem kell bejelenteni, és a kint tartózkodás ideje sincs limitálva. Ugyanakkor az OEP-nek jelezni kell, hogy máshol
+        leszel biztosítva, mert két egészség biztosításod nem lehet egyszerre. Ha ezt elmulasztod, akkor jön a bünti, de csak ha
+        felfigyelnek rá. Ismerek embereket, akik nem foglalkoztak a dologgal és azóta sincs semmi bajuk, pedig még jóval a könnyítő
+        rendelet előtt jöttek ki.&lt;/p&gt;
+        &lt;p&gt;Na de hogy azért ne legyen teljes az örömünk, egy meglehetősen kellemetlen kitételt azért tettek: a külföldi biztosítás
+        megkötésétől számított 15 napon belül jelezni kell az OEP felé írásban. Ezzel csak az a baj, hogy a bejelentő lapon nem
+        a szerződés aláírásának idejét kérik, hanem a biztosítás kezdetét.&lt;/p&gt;
+        &lt;p&gt;Viszont az én &lt;em&gt;Krankenversicherung&lt;/em&gt;-os papíromon az áll, hogy biztosítás kezdete a munkába állás napja (vagyis január 1.),
+        annak ellenére, hogy a szerződést magát január 13.-án kötöttem meg és írtam alá. Tehát nekem maradt uszkve kettő napom,
+        hogy Münchenből Budapestre elküldjek egy bejelentőt. Belátható, hogy esélytelen volt. Előbb se tudtam volna megtenni,
+        mert a bejelentőn meg kell adni a külföldi biztosító nevét és a biztosítási számot, ami szintén csak a szerződés ismeretében
+        lehetséges. Meg lehet próbálkozni csalni a dátumokkal:&lt;/p&gt;
         &lt;ul&gt;
-        &lt;li&gt;Túrd fel a netet, hogy a kiválasztott helyen (ország, város) mennyibe kerül az élet: szállás, kaja, bérlet, rezsi.
-        Minden ott van, csak kismillió darabban. Össze kell szedni és összeadni. Segítségképpen majd én is fogok írni adatokat
-        a kiadásaimról egy másik bejegyzésben.&lt;/li&gt;
-        &lt;li&gt;Számold össze, hogy nagyjából mennyi lesz a kiadásod, és toldd meg minimum 10%-kal. Javaslom, hogy ne szállj el, ne
-        számolj bele mindenféle luxus kiadást, hétvégi tivornyákat meg új ruhákat minden héten, és tényleg csak a legszükségesebb
-        minimumot határozd meg. A végén nagyobb lesz a mozgástered.&lt;/li&gt;
-        &lt;li&gt;Számold bele, hogy mennyi az, amit kötelezően haza akarsz küldeni. Nálam ez a lakáshitel miatt kellett.&lt;/li&gt;
-        &lt;li&gt;Keress rá az adott ország bérkalkulátorára, mert sok egyedi tényező befolyásolhatja a béredet. Például, ha van házastársad,
-        de ő “háztartásbeli”, akkor más adósávba kerülsz, és egy nem csekély támogatásra számíthatsz. Anglia, Luxembourg és
-        Németország ilyen, de gondolom, hogy a vasfüggöny nyugati oldalán ez általánosnak mondható.&lt;/li&gt;
-        &lt;li&gt;Ha megvan nagyjából, hogy mennyi nettóra van szükséged, akkor szorozd fel 12-vel, majd addig bűvöld a bérkalkulátort,
-        amíg a bruttó összegre ki nem adja a kívánt éves nettót.&lt;/li&gt;
-        &lt;li&gt;Kerekíts. Mindenki szereti a szép kerek számokat.&lt;/li&gt;
-        &lt;li&gt;Ha megvan az éves bruttó, nézz szét a munkaerőpiacon, hogy a te tudásszintednek megfelelő munkákért mekkora fizetést
-        ajánlanak. Ha beleesik a hirdetésben megjelölt intervallumba, vagy alatta van, akkor szuper, mert a szükséges minimum
-        várhatóan reális cél, és talán kialkudható lesz egy kis extra pénz is.&lt;/li&gt;
-        &lt;li&gt;Ha viszont fölötte van, újra kell kezdeni. Ha sehogy se jön ki, akkor máshol kell szétnézni. Más városban, más országban.
-        Elsődleges cél, hogy megvesd a lábadat az új otthonodban.&lt;/li&gt;
+        &lt;li&gt;Visszadátumozod a bejelentő lapot és majd ráfogod a postára, hogy lassú volt. Ez azon bukhat el, ha a német postán túl
+        precízen pecsételnek, és olvasható lesz a feladás dátuma.&lt;/li&gt;
+        &lt;li&gt;A bejelentő lapon a biztosítás kezdetének az aláírás idejét adod meg. Ez jobban megmagyarázható, hiszen a szerződés
+        előtti időre nem tudsz visszabetegedni. És így azért több időd marad. Viszont lesz egy pár napnyi “lyuk”, amit még az
+        otthoni biztosítódnál töltöttél úgy, hogy fizetésed már nem volt, vagyis nem volt befizetve. Ezt lehet, hogy az OEP kiszámlázza.&lt;/li&gt;
         &lt;/ul&gt;
-        &lt;blockquote class=&quot;update&quot;&gt;&lt;p&gt;Németországot célbavevő határátkelő honfitársaim számára melegen ajánlom a
-        &lt;a href=&quot;https://www.brutto-netto-rechner.info/gehalt/gross_net_calculator_germany.php&quot;&gt;Németországi bérkalkulátor&lt;/a&gt; használatát.
-        &lt;/p&gt;&lt;/blockquote&gt;
-        &lt;h2 id=&quot;interjú&quot;&gt;&lt;a name=&quot;interju&quot;&gt;&lt;/a&gt;Interjú&lt;/h2&gt;
-        &lt;p&gt;Ha a pénzkérdésben eljutottál oda, hogy már vannak olyan ajánlatok, amik megfelelnek, akkor jönnek az interjúk. London
-        mostanában Európa szilícium völgye szerepében tetszeleg, annyi a Startup cég, hogy össze se lehet számolni, és még ehhez
-        képest is sokkal többen keresnek programozói állást. Magyarán túljelentkezés van. Ha nem vagy valami über király szuper
-        programozó, akit világszerte ismernek, akkor nem lesz rá sok esélyed, hogy Skype-on vidd végig az interjúkat. Az angolok
-        szeretik a személyes találkozókat. Persze kivételek mindig akadnak, akár még szerencséd is lehet. Nekem ki kellett mennem.
-        Ezt is vagy három hétig terveztem. Egyeztettem a fejvadásszal, aki három interjút szervezett két napra. A kiutazást meg
-        a szállást nem fizetik, ezeket saját zsebből kell megoldani. Nem szabad finnyásnak lenni, ha nem állsz úgy anyagilag,
-        akkor mindenből a legolcsóbb kell: utazás, szállás, kaja. Azt a pár napot ki lehet bírni.&lt;/p&gt;
-        &lt;p&gt;Németországban a helyzet ennél kiegyensúlyozottabb. Nincs egy városba központosítva, így könnyebb keresni és találni. És
-        ez lehet, hogy csak az én mérhetetlen nagy szerencsém, de interjúzni elég volt Skype-on keresztül is. Persze fontos, hogy
-        tudjon beszélni az ember valamennyire, mert ilyenkor azt mérik fel, hogy tudsz-e majd dolgozni csapatban, meg fognak-e
-        érteni, és te meg fogod-e érteni őket.&lt;/p&gt;
-        &lt;h2 id=&quot;tesztfeladat&quot;&gt;&lt;a name=&quot;tesztfeladat&quot;&gt;&lt;/a&gt;Tesztfeladat&lt;/h2&gt;
-        &lt;p&gt;Nem csak a cég akarja tudni, hogy amit leírtál az önéletrajzban az valós-e, hanem neked is fontos, hogy lásd, hogy mit
-        várnak el tőled. Megint csak azt mondhatom, hogy külföldön értelmesen gondolkoznak és olyan feladatokat küldenek, amik a
-        munkád során is elő fognak jönni, ebből leszűrik, hogy milyen fából faragtak.&lt;/p&gt;
-        &lt;p&gt;A feladatok rendszerint érdekes, ötletes és jó feladatok voltak, amikben ki tudtam bontakozni, bele tudtam vinni egy kis
-        rafinériát, fantáziát, és megmutathattam, hogy milyen kódot adok ki a kezemből. Persze volt egy negatív tapasztalat is.
-        Egyszer olyan feladatsort kaptam, hogy csak néztem, mint Rozi a moziban. Annyira (számomra) elvont matematikai algoritmusokat
-        kellett volna csinálni, ami már nem igazán tartozott az én hatás- és érdeklődési körömbe. Mesterséges intelligencia
-        kutatáshoz meg játékfejlesztéshez szükséges tudást igényeltek. Így ennél az ajánlatnál jeleztem a fejvadásznak, hogy ez
-        most egy kicsit más jellegű, mint amit keresek. De ebből sincs baj. Rossz érzés persze, mert egyfajta kudarc élmény, de
-        túl kell lépni, mert végül is nem olyat kértek tőled, amit te szeretnél csinálni. Pedig az a cél, hogy olyan munkát találj,
-        amit el is tudsz végezni, mert kell a pénz, a stabilitás és a biztonságérzet.&lt;/p&gt;
-        &lt;p&gt;Magyarországon ellenben én csak olyanokkal találkoztam, ahol tipikusan az egyetemi ZH-kat idéző, halála szivatás a cél:
-        teljesen életszerűtlen feladatok, soha nem használt funkciók, és “Mi lesz a kimenete?” típusú szösszenetekre kérdeznek rá,
-        amire szerintem minden programozó ugyanazt tenné: begépelné és megnézné, mi lesz a kimenete, és nem pedig fejben fejtegetné
-        vissza a bugyuta kódokat. Persze ezeknek is van hasznuk, de nem az álláskereséskor, hanem az iskolában. Ja és mindezt időre,
-        90 vagy 120 perc alatt.  Hát köszi.&lt;/p&gt;
-        &lt;h2 id=&quot;szerződés&quot;&gt;&lt;a name=&quot;szerzodes&quot;&gt;&lt;/a&gt;Szerződés&lt;/h2&gt;
-        &lt;p&gt;Ha minden jól alakult és mindenen túl vagy, akkor egy szép napon pittyeg majd az email fiókod, hogy jött egy levél,
-        benne a munkaszerződés. Olvasd át alaposan, ha valami nem világos, kérdezd meg a céget, majd, ha minden rendben, írd alá.
-        Gratulálok, megvan az új munkád!&lt;/p&gt;
-        &lt;p&gt;A következő bejegyzésben a lakáskeresésről és a kiköltözésről írok.&lt;/p&gt;</content><author><name>Iván Gábor</name></author><category term="hasznos" /><category term="kezdolepesek" /><category term="munka" /><summary type="html">Sokan csak úgy kimennek külföldre anélkül, hogy tudnák miből fognak tudni megélni. Elhédereznek havernál, ismerősnél vagy rokonnál. Szép kényelmes felállás, könnyebb helyben munkát találni. Jó annak, aki megteheti.</summary></entry></feed>
+        &lt;p&gt;Egy lehelletnyi könnyebbség, hogy az OEP ügyfélszolgálata szerint az is megfelelő, ha te Németországban kitöltöd a
+        bejelentő lapot, majd bescanneled, azt e-mailben hazaküldöd egy rokonnak, vagy barátnak, ő kinyomtatja és feladja postán.
+        Lényegesen gyorsabban (és olcsóbban) elér a célba. Én is így jártam el. Azt mondták, hogy amikor feldolgozásra kerül,
+        fognak küldeni egy levelet, hogy jó, nem jó, akármi.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        Nem küldtek semmit...
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h2 id=&quot;dokumentumok&quot;&gt;&lt;a name=&quot;dokumentumok&quot;&gt;&lt;/a&gt;Dokumentumok&lt;/h2&gt;
+        &lt;p&gt;Íme néhány dokumentum, ami jól jöhet, mert az OEP honlapja nem túl felhasználóbarát, amikor célzottan szeretne az ember
+        bármit is megtalálni rajta…&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;http://www.kormanyhivatal.hu/download/4/88/81000/kontakt%20center%20men%C3%BCpont%20t%C3%A1bl%C3%A1zat.pdf&quot;&gt;OEP telefonos menürendszer&lt;/a&gt; - A
+        könnyebbség kedvéért elmondom, hogy a központi számot kell hívni (+36 1 288 5100), majd amikor elkezdi mondani a magnós néni,
+        hogy “Budapest Főváros Kormányhivatal”, akkor nyomjunk gyorsan egy 3-as gombot, majd, amikor belekezd az “Európa Uniós Ügy…“-be,
+        akkor meg egy 9-es gombot, és kisvártatva bejelentkezik az ügyeletes ügyfélszolgálatos. Érdemes őket reggel 8 és 11 között
+        keresni, mert ha az ügyfélszolgálatos (esetemben) hölgy arra jut, hogy kapcsoljon egy illetékest, akkor azt délben ebédszünet
+        miatt nem lehet elérni, fél kettőkor meg már azért, mert csak háromig lehet őket hívni.&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/pub?id=155F-fCqe7n3LzZ88805h0EgsDl2I-Rs1aVQqUCYVh7s&quot;&gt;E-104-es nyomtatvány&lt;/a&gt; - amiről
+        az ügyfélszolgálatos hölgy nekem esküdözött, hogy nem az kell, hanem a “&lt;em&gt;Bejelentő lap TAJ számmal rendelkező magyar
+        állampolgár részére, aki EGT tagállamban biztosított személy&lt;/em&gt;” című nyomtatvány. Csakhogy az E-104-nek is ez a címe…
+        Mindenki a megfelelő helyen a megfelelő adatokkal töltse ki. Én lakóhelynek és levelezési címnek is a magyarországi
+        címemet adtam meg, elvégre az állandó lakcímem továbbra is az maradt. Hála a lakáshitel miatti röghöz kötésnek…
+        Most egyelőre várom a fejleményeket, hogy küldjék az levelet, hogy megtudjam, hogy akkor most rendben vagyunk-e.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        Itt sem rémlik, hogy kaptam volna bármit is. Ha jól emlékszek, felhívtam megint őket, hogy ugyan mi van már, kell-e izguljak, vagy sem.
+        Végül is nem kellett, mert a rendszerben benne volt, hogy &quot;kiléptetve&quot;.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h2 id=&quot;adóbevallás&quot;&gt;&lt;a name=&quot;adobevallas&quot;&gt;&lt;/a&gt;Adóbevallás&lt;/h2&gt;
+        &lt;p&gt;Mivel előző évben még Magyarországon dolgoztam, ezért most adóbevallást kell tennem. Sajnos az előző munkahelyemen nem
+        akarták megcsinálni az adóbevallást, 600 alkalmazott esetén gondolom elég nagy meló lett volna. Mindegy, tavaly is
+        magamnak csináltam, adtak egy papírt, amin rajta voltak az adatok, aztán letöltöttem a NAV oldaláról a megfelelő
+        nyomtatványt, amiben volt három mező ahova a másik papírról kellett bemásolni számokat. Szépen meg volt jelölve, hogy
+        hányadik sorból kell kiolvasni az ott feltüntetett számot. Egyszerű volt, nagyszerű volt, gyorsan letudtam.&lt;/p&gt;
+        &lt;p&gt;És pont ennek a gyorsaságnak lettem most az áldozata, mert ha azt vesszük, hogy tavaly az év 525 600 percéből
+        (365 nap * 24 óra * 60 perc) csupán kemény 10-et foglalkoztam az adóbevallással, könnyen belátható, hogy mostanra miért
+        ment ki a fejemből az egész.&lt;/p&gt;
+        &lt;p&gt;Két órát szenvedtem a papírokkal, amik sehogy se akartak összepasszolni a hivatkozott adatok szempontjából, mire végül
+        arra a következtetésre jutottam, hogy a cégtől való kilépés alkalmával ezúttal másfajta adóelszámolásos papírt kaptam,
+        mint tavaly.&lt;/p&gt;
+        &lt;h4 id=&quot;az-1-oldalas-adóbevallás&quot;&gt;Az 1 oldalas adóbevallás&lt;/h4&gt;
+        &lt;p&gt;Ha módod van rá, akkor eleve a &lt;strong&gt;13M30&lt;/strong&gt;-as igazoló lapot kérd a cégtől, mert a &lt;strong&gt;1353 ADÓNYILATKOZAT&lt;/strong&gt; című nyomtatvány
+        ennek a lapnak a soraira fog hivatkozni. Beírod a három számot, kinyomtatod, aláírod, postázod, és hátradőlsz.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        Mivel a nyomtatványok számozása minden évben változik, így a fenti leírás csak tájékoztató jellegű.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h2 id=&quot;magad-uram-ha-szolgád-nincsen&quot;&gt;&lt;a name=&quot;manualisan&quot;&gt;&lt;/a&gt;“Magad, Uram, ha szolgád nincsen!”&lt;/h2&gt;
+        &lt;p&gt;Mikor beláttam, hogy ez így - a megfelelő dokumentum, és könyvelői képzettség híján - magasan meghaladja a képességeimet,
+        más megoldás után néztem, és meg is találtam a &lt;strong&gt;1353NY&lt;/strong&gt; nyomtatványban. Ebben kellő alázattal és tapintattal felkérem
+        a mélyen tisztelt Nemzeti Adó- és Vámhivatalt, hogy készítse el helyettem a saját adóbevallásomat. Hogy ezt rosszul
+        tettem-e, azt majd az idő fogja eldönteni. Próba, szerencse.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        Nem tettem rosszul, sőt ez az ajánlott módszer. Igazából nem vagyok biztos benne, de talán már az alapértelmezett is.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h2 id=&quot;Ügyfélkapu&quot;&gt;&lt;a name=&quot;ugyfelkapu&quot;&gt;&lt;/a&gt;Ügyfélkapu&lt;/h2&gt;
+        &lt;p&gt;Egy volt kollégám mondta, hogy erre az egy dologra tényleg érdemes megcsináltatni az Ügyfélkapu regisztrációt, mert így
+        nem kell nyomtatással, meg postázással vacakolni, a digitális aláírásod fog igazolni. És akárhonnan intézhető, ahol van
+        Internet kapcsolat. Viszont az Ügyfélkapu regisztrációhoz időpontot kell foglalni (célszerű a legközelebbi alkalmas
+        hivatalnál, nem kell a lakhely szerinti helyre menni) és személyesen kell igazolni, hogy Te tényleg Te vagy. Úgyhogy ezt
+        mindenképpen még a kiutazás előtt intézzük el. Bár ezt illett volna az Első lépésnél is leírnom, de majd utólag beleszerkesztem.&lt;/p&gt;
+        &lt;p&gt;Azt azért meg kell jegyeznem, hogy nekem csak egyetlen jövedelem forrásom volt, így nem kellett kistermelői bizbaszokat,
+        meg jövedelmen kívüli bevételeket elszámolni. Majd biztos a napi 10 óra munka, meg a 3 óra ingázás mellett még lett volna
+        erőm/kedvem fusizni is… Nekem nem volt – mert a szabadidőm megfizethetetlen -, de sokaknak van, ami miatt mély
+        tisztelettel adózok nekik, és megemelem a kalapomat előttük.&lt;/p&gt;
+        &lt;p&gt;Ezzel elérkeztem a “Kezdő lépések” sorozatom végére. Ha egyik-másik témával kapcsolatban hozzájutok valami új információhoz,
+        akkor természetesen azokat a megfelelő bejegyzésbe bele fogom írni.&lt;/p&gt;</content><author><name>Iván Gábor</name></author><category term="hasznos" /><category term="kezdolepesek" /><category term="burokracia" /><summary type="html">A javával már elkészültünk, és csak két dolgot még kell elintézni, de amint ezeket is letudjuk...</summary></entry><entry><title type="html">Ötödik lépés: Biztosítások</title><link href="http://localhost:4000/hasznos/otodik_lepes.html" rel="alternate" type="text/html" title="Ötödik lépés: Biztosítások" /><published>2014-01-23T14:09:00+01:00</published><updated>2019-03-08T11:24:28+01:00</updated><id>http://localhost:4000/hasznos/otodik_lepes</id><content type="html" xml:base="http://localhost:4000/hasznos/otodik_lepes.html">&lt;p&gt;Németországban kicsit másképp mennek a dolgok. Itt is vannak kötelező dolgok, vannak erősen ajánlott dolgok, és vannak
+        teljesen opcionálisak is.&lt;/p&gt;
+        &lt;p&gt;Hogy mik ezek és miért vannak így?&lt;/p&gt;
+        &lt;h1 id=&quot;a-tartalomból&quot;&gt;A tartalomból&lt;/h1&gt;
+        &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/otodik_lepes.html#nyugdij&quot;&gt;Nyugdíjbiztosítás (&lt;em&gt;Rentenversicherung&lt;/em&gt;)&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/otodik_lepes.html#egeszseg&quot;&gt;Egészségbiztosítás (&lt;em&gt;Krankenversicherung&lt;/em&gt;)&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/otodik_lepes.html#munkaltato&quot;&gt;Mi van, ha nem választunk, és a munkáltatóra bízzuk?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/otodik_lepes.html#valtas&quot;&gt;Mi van, ha valaki mégis más biztosítóhoz akarna menni, mint ahova került?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/otodik_lepes.html#segitseg&quot;&gt;Ki tud ebben segíteni?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/otodik_lepes.html#tennivalok&quot;&gt;Mit kell tudni úgy általában?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/otodik_lepes.html#tappenz&quot;&gt;Táppénz&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/otodik_lepes.html#utomunka&quot;&gt;Miután az Egészségbiztosítás megköttetett…&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/otodik_lepes.html#felelosseg&quot;&gt;Felelősségbizotsítás (&lt;em&gt;Haftpflichtversicherung&lt;/em&gt;)&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/otodik_lepes.html#baleset&quot;&gt;Balesetbiztosítás (&lt;em&gt;Unfallversicherung&lt;/em&gt;)&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/otodik_lepes.html#jogvedelem&quot;&gt;Jogvédelmi biztosítás (&lt;em&gt;Rechtsschutzversicherung&lt;/em&gt;)&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/otodik_lepes.html#egyeb&quot;&gt;Egyéb hasznosságok&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/otodik_lepes.html#koszonet&quot;&gt;Köszönet&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;A II. Világháborút követően ugyebár Németország kettészakadt (nem önként persze), és a magyarul NSZK névre keresztelt
+        felén a szövetséges hatalmak bábáskodtak. Ennyit a történelemről. Viszont ennek egyenes hozadéka, hogy az államapparátus,
+        a jogrendszer, az egészségügy és még ki tudja mi minden a nyugatias minta szerint lett kialakítva. Ez azt jelenti, hogy:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Ha beteg vagy, és nincs egészségbiztosításod, akkor fizetsz mindent. Például egy sima röntgen, minden egyéb szolgáltatástól
+        mentesen állítólag €400, vagy még több.&lt;/li&gt;
+        &lt;li&gt;Ha kárt okozol, és nincs felelősség biztosításod, akkor a gatyádat is leperelik rólad. Például mész a kocsival és
+        eléd szalad e polgármester macskája és te elütöd a lízingelt X5-össel, akkor a polgármester simán beperelhet állatkínzásért.&lt;/li&gt;
+        &lt;li&gt;Ha balesetet szenvedsz, és nincs balesetbiztosításod, akkor bizony fizetsz mindent, ami tartozik bele az egészség
+        biztosításba (vagyis nem minősül szükségszerű orvosi ellátásnak). Az előbbi példánál maradva, ha mondjuk te mégse ütöd
+        el a macskát, hanem félrerántva a kormányt az X5-össel egy szakadékba zuhansz. És bár semmi bajod nem lett, de nem tudsz
+        segítség nélkül kijönni, akkor a mentési költséget ki kell fizetned, ha nincs biztosításod.&lt;/li&gt;
+        &lt;li&gt;Ha feketén dolgozol, akkor semmid se lesz, és nem leszel nyugdíjas se, mert nincs nyugdíjbiztosításod.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;h2 id=&quot;nyugdíjbiztosítás-rentenversicherung&quot;&gt;&lt;a name=&quot;nyugdij&quot;&gt;&lt;/a&gt;Nyugdíjbiztosítás (&lt;em&gt;Rentenversicherung&lt;/em&gt;)&lt;/h2&gt;
+        &lt;p&gt;Ezzel kezdem, ez a legegyszerűbb. Amennyiben alkalmazott vagy (&lt;strong&gt;&lt;em&gt;Angestellte&lt;/em&gt;&lt;/strong&gt;), akkor egy törvényileg-, illetve
+        jogszabályilag előírt nyugdíjbiztosításról (&lt;strong&gt;&lt;em&gt;gesetzliche Rentenversicherung&lt;/em&gt;&lt;/strong&gt;) beszélünk. Ez nem választható, a
+        munkáltató jelent be, te csak majd kapsz valami papírt.&lt;/p&gt;
+        &lt;p&gt;Vállalkozók 3 éven keresztül kijelenthetik magukat ebből, de csak egyszer a működésük során.&lt;/p&gt;
+        &lt;p&gt;Ezen kívül a magán nyugdíjpénztárba (&lt;strong&gt;&lt;em&gt;private Rentenversicherung&lt;/em&gt;&lt;/strong&gt;) bárki fizethet agesetzliche-n felül (ez egy
+        formája már az öngondoskodásnak (&lt;strong&gt;&lt;em&gt;Altersvorsorge&lt;/em&gt;&lt;/strong&gt;), mellyel a nyugdíjadat majd kiegészítheted a korhatár elérésekor.&lt;/p&gt;
+        &lt;h2 id=&quot;egészségbiztosítás-krankenversicherung&quot;&gt;&lt;a name=&quot;egeszseg&quot;&gt;&lt;/a&gt;Egészségbiztosítás (&lt;em&gt;Krankenversicherung&lt;/em&gt;)&lt;/h2&gt;
+        &lt;p&gt;Németországban, ha alkalmazott (&lt;strong&gt;&lt;em&gt;Angestellte&lt;/em&gt;&lt;/strong&gt;) vagy, és az éves bruttó béred meghaladja az 52.500 eurót, akkor
+        választhatsz egy privát biztosítót, ami extra, személyre szabott szolgáltatásokkal kényeztet, és nem mellesleg megállapodás
+        kérdése, hogy mennyit fizetsz be a kasszába.&lt;/p&gt;
+        &lt;p&gt;Ha vállalkozó vagy, akkor a magán egészségpénztár éri meg jobban választani, mert a fizetésedhez képest így sokkal több
+        szolgáltatást kapsz.&lt;/p&gt;
+        &lt;p&gt;De visszatérve az alkalmazotti státuszra. Ha a fizetésed nem éri el ezt az 52.500-at (márpedig a többségnek ez alatt van),
+        akkor bekerülsz a közösbe, amit itt &lt;strong&gt;&lt;em&gt;gesetzliche Krankenversicherung&lt;/em&gt;&lt;/strong&gt;-nak mondanak. Ilyenkor a bruttó bérből
+        egységesen 15,5%-otvonnak le, ami nem kevés. De cserébe, ha van, akkor olyasmiket kapsz, amit otthon csak a TV-ben láttál.
+        Persze senkinek nem kívánom, hogy kórházban kössön ki, de ha így történne, akkor könnyen kaphat külön szobát, és nem
+        hatodmagával kell egy depresszív hangulatú kórteremben fetrengenie az I. Világháborúból visszamaradt hullaszállító ágyakon.&lt;/p&gt;
+        &lt;p&gt;Persze, nem árt, ha a megfelelő egészségpénztárba (&lt;strong&gt;&lt;em&gt;Krankenkasse&lt;/em&gt;&lt;/strong&gt;) fizetünk. Ugyanis ebből nem egy van, hanem rengeteg.
+        Ezekről azt kell tudni, hogy évente készül róluk egy rangsor a tagok visszajelzései, és egyéb mutatók alapján, így mindazok,
+        akik maguk szeretnék kiválasztani, hogy melyik biztosítóhoz mennek, az ő számukra legfontosabbnak ítélt adatok alapján könnyen
+        kinézhetik a legjobbat.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        Az eredeti linket kiszedtem, a 2017-es lista &lt;a href=&quot;https://krankenkassen.focus.de/&quot;&gt;itt&lt;/a&gt; található. Én magam
+        egyébként a &lt;a href=&quot;https://www.hek.de&quot;&gt;&lt;em&gt;HEK - Hanseatische Krankenkasse&lt;/em&gt;&lt;/a&gt;-nál vagyok, és meglehetősen elégedett vagyok
+        a szolgáltatásaival.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Én azt mondom, hogy érdemes a TOP5-ből választani.  Azért mondom, hogy választani, és nem pedig, hogy automatikusan rábökni
+        az elsőre, mert nem biztos, hogy például a &lt;strong&gt;&lt;em&gt;Techniker Krankenkasse (TK)&lt;/em&gt;&lt;/strong&gt; megfelelő választás például egy matematika
+        tanárnak. De ezt csak gondolom, utána kell járni.&lt;/p&gt;
+        &lt;h2 id=&quot;mi-van-ha-nem-választunk-és-a-munkáltatóra-bízzuk&quot;&gt;&lt;a name=&quot;munkaltato&quot;&gt;&lt;/a&gt;Mi van, ha nem választunk, és a munkáltatóra bízzuk?&lt;/h2&gt;
+        &lt;p&gt;Megtehetjük, de nem érdemes. Ha szerencsénk van, akkor a munkahelyen a személyzetisek szólnak majd, hogy gondold át,
+        vagy felajánlják a &lt;a href=&quot;https://www.tk.de&quot;&gt;TK&lt;/a&gt;-t, de állítólag a legtöbb helyen nem teszik, és számomra ismeretlen okból egy
+        &lt;a href=&quot;https://www.aok.de&quot;&gt;AOK&lt;/a&gt; nevezetű biztosítóhoz iratnak be, ami a fenti listán a &lt;del&gt;huszonakárhanyadik helyen van&lt;/del&gt; fent sincs,
+        és minden németországi magyar fórumon óvva intenek tőle. Nem tudom mi az ellenszenv oka, de nem is akartam a saját bőrömön
+        megtapasztalni.&lt;/p&gt;
+        &lt;h2 id=&quot;mi-van-ha-valaki-mégis-más-biztosítóhoz-akarna-menni-mint-ahova-került&quot;&gt;&lt;a name=&quot;valtas&quot;&gt;&lt;/a&gt;Mi van, ha valaki mégis más biztosítóhoz akarna menni, mint ahova került?&lt;/h2&gt;
+        &lt;p&gt;Akkor azt hiszem, a papírok aláírása előtt még megteheti. Azért vagyok bizonytalan, mert nem tudom, hogy van-e bármilyen
+        aláírási procedúra, amikor automatikusan beíratnak valahova. Ha nem lehetséges, akkor sajnos csak másfél év múlva válthat,
+        feltéve, hogy egyetlen napot sem volt munkanélküli. Ha csak egy nap is becsúszott két munkahely között, akkor a számláló újraindul.&lt;/p&gt;
+        &lt;h2 id=&quot;ki-tud-ebben-segíteni&quot;&gt;&lt;a name=&quot;segitseg&quot;&gt;&lt;/a&gt;Ki tud ebben segíteni?&lt;/h2&gt;
+        &lt;p&gt;Bár a TK-nál a kapcsolattartó hölgy beszélt angolul, én mégsem éreztem azt, hogy egy ilyen fontos dolgot rábízhatok a
+        képregényeken, rajzfilmeken, mozifilmeken és programozási dokumentációkon edződött angoltudásomra.&lt;/p&gt;
+        &lt;p&gt;De a végtelen szerencsém megint csak megmutatta, mire képes, ha az életemről van szó, és nem holmi lottó ötösbe vetett
+        ábrándról, és teljesen véletlenül összehozott a sors két magyar ifjúval (mindkettő a László névre hallgat), akik évek
+        óta Németországban élnek, sőt egyikük – mit ad Isten – pont ilyen biztosításos témában sürög-forog. Kell ennél több?&lt;/p&gt;
+        &lt;p&gt;De nem ám az a “minden szart az ember nyakába sóz” típusú legény, hanem tényleg szívvel-lélekkel csinálja, de csak akkor,
+        ha meglátja benned az akarást és a célt. Ebben az országban megteheti az ember, hogy megválogatja, kivel akar együtt dolgozni.
+        És ez itt most nem egy fizetett hirdetés. Ha csak le akarod tudni a dolgot, “Mert kell, oszt csók!”, akkor nem ő lesz a te embered.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        A fenti fiatalember azóta már profilt és országot is váltott, így az ő elérhetőségét nem áll módomban megadni már.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h2 id=&quot;mit-kell-tudni-úgy-általában&quot;&gt;&lt;a name=&quot;tennivalok&quot;&gt;&lt;/a&gt;Mit kell tudni úgy általában?&lt;/h2&gt;
+        &lt;p&gt;Én a HEK-nál (mert “há-e-ká”-nak mondják, és nem “hek”-nek) (&lt;em&gt;Hanseatische Krankenkasse&lt;/em&gt;) kötöttem meg az egészségbiztosításomat,
+        így csak erről tudok beszélni. Mivel minden szerződés egy bizonyos szintig személyre szabott, így nem tudok általános
+        érvényű tényeket mondani, csak a sajátomból szemezgetek.&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Amint azt már említettem, az egészségbiztosítás a bruttó béred 15,5%-át teszi ki. Vagyis államilag kötelező érvényű.&lt;/li&gt;
+        &lt;li&gt;Mivel a befizetett összeg a béredtől függ, így az hogy külön szobát kapsz a kórházban, ha be kell feküdni, vagy “csak”
+        egy ultra-patyolat tiszta, de többágyasat, az függ attól, mennyit keresel, és így mit fizet a biztosítód úgymond az alapokon felül.&lt;/li&gt;
+        &lt;li&gt;Néhány biztosító mindenféle mézesmadzag akcióval csábítja oda az ügyfeleket, az egyik ilyen, hogy a tagoknak minden
+        évben visszafizet egy bizonyos összeget, amennyiben a tárgyévben egyszer sem volt beteg:
+        &lt;ul&gt;
+        &lt;li&gt;a BKK Mobile Oil-nál elérheti a 820€-t is&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;Egyes biztosítók további feltételeket támasztanak a fenti visszafizetésnek:
+        &lt;ul&gt;
+        &lt;li&gt;A BKK-nál a 820€ akkor jár, ha nem voltál beteg egész évben. Ha voltál, akkor csak 320€-t adnak. 200€-t rögtön,
+        további 120€-t amennyiben legalább 12 hónapja vagy már tag. Ha beteg voltál az év során, a betegségedből és az ahhoz
+        kapcsolódó ellátás mértékéből eredően vonnak le százalékos arányban.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;Minden biztosító másban jó.&lt;/li&gt;
+        &lt;li&gt;A HEK-nál például 35 év felett ingyenes a bőrrák szűrés.&lt;/li&gt;
+        &lt;li&gt;A BKK jobb a rákszűrések tekintetében. Például náluk a bőrrák szűrés már 18 éves kortól ingyenes. Egy család esetén
+        nem feltétlenül mellékes ez a szempont.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;h2 id=&quot;táppénz&quot;&gt;&lt;a name=&quot;tappenz&quot;&gt;&lt;/a&gt;Táppénz&lt;/h2&gt;
+        &lt;p&gt;Egy rövid kitérőt tennék a táppénz irányába. Mind ismerjük a hazai, eléggé elszomorító helyzetet táppénz ügyben. Gondolok
+        itt a napok számára és a százalékokra.&lt;/p&gt;
+        &lt;p&gt;Németországban az a felfogás, hogy az ember legyen egészséges, mert csak akkor tud jó munkát végezni. Betegen ne menjen
+        dolgozni, mert nem csak magának árt, de a környezetének is. Emlékszem, hogy az elmúlt 10 évben hányszor fordult elő velem,
+        hogy ha valami miatt otthon kellett maradni, akkor, ha már a legsúlyosabb tünetek elmúltak, még félig gyógyult állapotban
+        is, de azonnal mentem dolgozni, mert:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;féltem, hogy kirúgnak&lt;/li&gt;
+        &lt;li&gt;féltem, hogy a táppénz miatt a fizetésem nem lesz elég a lakáshitelre&lt;/li&gt;
+        &lt;li&gt;féltem…&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;De itt ezt a pozitív szemléletet - miszerint egészségesen dolgozz - a lehető legtöbb módon támogatja az állam: átfogó
+        biztosítási rendszerrel, minőségi orvosi ellátással, és figyelemre méltó táppénzzel:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;az első 6 hétben (egyben vagy darabokban) a táppénz a béred 100%-a, melyet a munkáltató fizet&lt;/li&gt;
+        &lt;li&gt;6 hét utáni következő 72 hétben a Krankenkasse fizeti a bruttód 70%-át.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;Azt viszont nem tudom, hogy mennyire kell félni a kirúgástól, ha beteg az ember. Túlságosan elevenek még az otthon belém
+        oltott (alaptalan?) félelmek. De persze azon vagyok, hogy ne legyek beteg.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        Voltam már táppénzen nem egyszer az elmúlt 4 évben, főleg a rendszeresen kiújuló szemproblémám miatt. A félelem sajnos a
+        mai napig meg van benne, annyira zsigeri szinten égett belém Magyarországon. De a tapasztalat azt mutatja, hogy - legalábbis
+        a cégnél, ahol dolgozok - semmilyen retorzióra nem kell számítani.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h2 id=&quot;miután-az-egészségbiztosítás-megköttetett&quot;&gt;&lt;a name=&quot;utomunka&quot;&gt;&lt;/a&gt;Miután az Egészségbiztosítás megköttetett…&lt;/h2&gt;
+        &lt;p&gt;…kérni kell őket, hogy járjanak utána mi a Társadalombiztosítási számod (&lt;strong&gt;&lt;em&gt;Sozialversicherungnummer&lt;/em&gt;&lt;/strong&gt;). Előfordulhat,
+        hogy az ő véleményük az, hogy ezt nem nekik kell megérdeklődni, de ha semmiképp sem sikerül meggyőzni őket az igazadról,
+        akkor sincs semmi baj, ezt te magad is el tudod intézni, igaz, ez lassabb lesz sajnos.&lt;/p&gt;
+        &lt;p&gt;Szóval, ha ilyen helyzetbe kerülnél, akkor kell írni egy levelet a &lt;a href=&quot;mailto:meinefrage@drv-bund.de&quot;&gt;meinefrage@drv-bund.de&lt;/a&gt;
+        címre a következő szöveggel:&lt;/p&gt;
+        &lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Tárgy: SV-Ausweis
+        Sehr geehrte Damen und Herren,
+        hiermit bitte ich um Vergabe einer SV-Nummer
+        und um die Zusendung einen SV-Ausweises.
+        Mit freundlichen Grüßen,
+        X Y
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;p&gt;A levélhez be kell scannelni mellékletként a Regisztrációs lapodat (&lt;em&gt;Anmeldung&lt;/em&gt;), illetve a személyigazolványad/útleveledet.
+        Egyébként ez utóbbi miatt szerettem mindenhol az útlevelet használni, nem kell a kétoldalas scanneléssel vacakolni.&lt;/p&gt;
+        &lt;p&gt;Ezután elvileg kapsz egy levelet, amiben megkérnek, hogy a kijelölt helyre ragasszak fel egy igazolvány képet, és a
+        mellékelt (felcímzett) borítékban küldd vissza számukra, mert kell majd az azonosító kártyához.&lt;/p&gt;
+        &lt;p&gt;Ha megjön a válasz és megvan a Társadalombiztosítási számod, valamint miután az adóhivataltól is sikerült megkapni az
+        Adóazonosító számot (&lt;em&gt;Steueridentifikations-nummer&lt;/em&gt;) a kitartó visszajárást követően, akkor ezeket le kell adni HR osztályon!&lt;/p&gt;
+        &lt;p&gt;Innentől elvileg nem lesz akadálya, hogy megkapd a fizetésedet.&lt;/p&gt;
+        &lt;h2 id=&quot;felelősségbizotsítás-haftpflichtversicherung&quot;&gt;&lt;a name=&quot;felelosseg&quot;&gt;&lt;/a&gt;Felelősségbizotsítás (&lt;em&gt;Haftpflichtversicherung&lt;/em&gt;)&lt;/h2&gt;
+        &lt;p&gt;A felelősség biztosítás nem kötelező, de határozottan ajánlott. Vannak, akik ilyen-olyan okból nem kötik meg, vagy azért,
+        mert még nem hallottak róla, vagy azért, mert nem tudják kimondani ezt a szép német szót: &lt;em&gt;Haftpflicht&lt;/em&gt;.&lt;/p&gt;
+        &lt;p&gt;Németországban bár sokkal józanabb ítéleteket hoznak a bíróságok, mint odaát a tengerentúlon - és valószínűleg, ha bezárod
+        a macskát a mikrohullámú sütőbe száradni, akkor azért téged hurcolnak meg, és nem a sütő gyártóját - de azért itt sem
+        kell félteni az embereket. Vannak ügyvédi irodák, amik kifejezetten abból élnek, hogy perrel fenyegetőznek, de közös
+        megegyezéssel, meg egy kis pénzért persze eltekintenek a pertől. Lásd a kismillió beszámolót a torrentezés után kapott
+        felszólító levelekről.&lt;/p&gt;
+        &lt;p&gt;Na persze egy felelősség biztosítás a torrentezésre nem terjed ki (tudtommal), de sok más olyan dologra igen, ami ha beüt,
+        akkor súlyos költségektől kímél meg.&lt;/p&gt;
+        &lt;p&gt;Az alap felelősség biztosítás 10.000.000 €-ig fedezi a szerződésben foglalt eseteket. Típustól függ persze, és van, ahol
+        csak kisebb összegig. Itt egy zanzásított lista a teljesség igénye nélkül, pár érdekes/vicces/hasznos esetről, amit fedez:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;munkahelyen okozott kár: például, ha leejtem a céges laptopot és az tönkremegy&lt;/li&gt;
+        &lt;li&gt;bérlésnél: például ha kárt teszek egy bérelt bicikliben&lt;/li&gt;
+        &lt;li&gt;belépőkártyák, kulcsok elvesztése. Például uszodában, szállodában.&lt;/li&gt;
+        &lt;li&gt;ha kerékpárral okozok kár valakinek&lt;/li&gt;
+        &lt;li&gt;ha építkezek, és a szomszédnak okozok valami anyagi kárt&lt;/li&gt;
+        &lt;li&gt;sportolás közben okozok kárt valakinek kivéve a vadászat (hihi)&lt;/li&gt;
+        &lt;li&gt;házi kedvenc által okozott kár: például ha a macskám a főbérlő 200 éves gyapjú huzatos kanapéján feni a körmét&lt;/li&gt;
+        &lt;li&gt;csőtörésnél, ha beázik a szomszéd&lt;/li&gt;
+        &lt;li&gt;ha a garázsban tisztítószereket tárolok és ez valamilyen módon kárt okoz a szomszédnak&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;És még sorolhatnám. Több oldalon keresztül vannak felsorolva az egyes esetek/kategóriák. Viszont az fontos, hogy ez a
+        biztosítás nem csak Németországra érvényes. Ha külföldi tartózkodásom alatt okozok valamilyen kárt, akkor is fizet.&lt;/p&gt;
+        &lt;p&gt;A &lt;em&gt;Haftpflichtversicherung&lt;/em&gt;-ot saját zsebből kell fizetni. Összege havi 5-10 € és kiterjeszthető a családra is. Hát nem
+        megéri, hogy nyugodtan tedd ki a lábad az utcára?&lt;/p&gt;
+        &lt;h2 id=&quot;balesetbiztosítás-unfallversicherung&quot;&gt;&lt;a name=&quot;baleset&quot;&gt;&lt;/a&gt;Balesetbiztosítás (&lt;em&gt;Unfallversicherung&lt;/em&gt;)&lt;/h2&gt;
+        &lt;p&gt;Ez sem kötelező, és ebből következik, hogy ez is saját zsebre fog menni. De ha csak a munkahely és a lakás között mozogsz
+        egész hátralevő életedben (ez egy tipikusan pesszimista magyar jövőkép), akkor ilyesmire nemigen lesz szükséged.&lt;/p&gt;
+        &lt;p&gt;A munkáltató általában köt rád egy nagyon alap baleset biztosítást a Kranken-hez kapcsolva, ami a munkába járás során
+        elszenvedett balesetek költségeit fedezi. De ha nem akkor ér, akkor fizetned kell. Hacsak nincs egy privát biztosításod.&lt;/p&gt;
+        &lt;p&gt;Mivel nem az éves bruttódtól függ a befizetett összeg, hanem havi 20-25 €, így azt hiszem jól gondolom, hogy aki megköti
+        az joggal számíthat azonos feltételekre, mint amiket én is kaptam.&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;egy alap, bármilyen balesetből eredő ellátást 50.000 €-ig fizet.&lt;/li&gt;
+        &lt;li&gt;ha neadjisten 100%-os munkaképtelenséget állapítanak meg, akkor adnak egyszeri 300.000-et.&lt;/li&gt;
+        &lt;li&gt;A munkaképtelenség mértéke függ a foglalkozástól, így a biztosításban mindig fel van tüntetve, hogy mivel foglalkozol.
+        Esetemben webfejlesztő vagyok, így nekem a hüvelykujj elvesztése máris 30%. De ha olyan szakmád van, ahol kevésbé fontos
+        a kezed (például rövidtávfutó), akkor neked “kevesebbet számolnak fel”.&lt;/li&gt;
+        &lt;li&gt;50%-tól kapsz havi rokkantsági nyugdíjat amellett, hogy a lehetőségeidhez képet még tudsz dolgozni.&lt;/li&gt;
+        &lt;li&gt;balesetből eredő kórházi tartózkodásod alatt kapsz naponta 10€-t. Ennyiből én egyébként 4 napi vacsorámat szoktam
+        megvenni a boltban. A negyedik naptól ráadásul 20€-t fizet. Ha esetleg külföldön kerülsz kórházba, akkor már az első
+        naptól jár a 20€.&lt;/li&gt;
+        &lt;li&gt;balesetnél fizetik a mentési költségeket (hegyi mentők, búvárok, helikopter stb) 15.000 €-ig. De ha külföldön kerül
+        erre sor, akkor az összeg határ 30.000€ és még haza is hoznak!&lt;/li&gt;
+        &lt;li&gt;a biztosítás automatikusan kiterjed minden családtagomra az első 6 hónapban, de utána már nekik is külön meg kell kötni.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;Szerintem havi 20-25€-t simán megér, hogy nyugodtan mehessen el az ember hétvégenként kirándulni.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        A családra kiterjesztett változat természetesen drágább, érdemes kidobálni minden olyat, amire nem feltétlenül van szükség.
+        Sokat lehet az ilyen kis apróságokkal spórolni éves szinten.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h2 id=&quot;jogvédelmi-biztosítás-rechtsschutzversicherung&quot;&gt;&lt;a name=&quot;jogvedelem&quot;&gt;&lt;/a&gt;Jogvédelmi biztosítás (&lt;em&gt;Rechtsschutzversicherung&lt;/em&gt;)&lt;/h2&gt;
+        &lt;p&gt;Erről is írok pár szóban, mert a magyar törvényekhez szokott embernek kissé furcsa lehet a kinti élet, ha mindent a
+        megszokásai szerint visz tovább.&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;A jogvédelmi biztosítás célja, hogy ügyfeleinek megóvja a jogos érdekeit illetve képviselje őket perben és azon kívül
+        azokon a területeken amelyekre a biztosítás szól. Azok az ügyfelek akik jogvédelmi biztosítást kötnek, jogosultak az
+        aktuális jogi területet kiválóan ismerő szakemberek szolgáltatásait igényelni az érdekérvényesítés folyamatában, legyen
+        szó büntetőjogi, munka-, vagy akár társadalombiztosítási ügyekről. Ezek a biztosítások olyan kockázati formákat fednek le,
+        amelyeket egyetlen más biztosítási forma sem.&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;De emberi nyelven egyfelől ez annyit tesz, hogy ha te mondjuk torrentezel, és jön a levél, hogy “Lebuktál, pajtás! De nem
+        perelünk, ha aláírsz, hogy sohatöbbetbecsszó, és fizetsz X €-t.”, akkor mielőtt aláírnád ezt, és van egy ilyen biztosításod,
+        akkor ezt igénybe véve egy csapat Petrocelli segít majd neked kimászni abból a gödörből, amibe saját magadat juttattad.&lt;/p&gt;
+        &lt;p&gt;Persze ez a biztosítás nem csak és kizárólag erre jó, de ez az egyik legtipikusabb hiba, amibe hazánkfiai és lányai “megszokásból”
+        beleesnek.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        Állítólag már egyáltalán nem használható a torrentezés kivédésére, mivel az egy nyilvánvaló szabálysértés.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h2 id=&quot;egyéb-hasznosságok&quot;&gt;&lt;a name=&quot;egyeb&quot;&gt;&lt;/a&gt;Egyéb hasznosságok&lt;/h2&gt;
+        &lt;p&gt;Itt pár rövid mondatban kitérek pár pénzügyeket érintő dologra, amik a látóterembe kerültek, de pontosabb információim
+        majd csak később lesznek róla.&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Az első levél, ami  a postaládában landolt, azt az &lt;strong&gt;&lt;em&gt;ARD ZDF Deutschlandradio&lt;/em&gt;&lt;/strong&gt;-tól kaptam hogy fizessem be a TV adót.
+        Negyed évente 52,5€, &lt;del&gt;de elvileg lesz mód kikerülni, ha tényleg nem is nézel TV-t&lt;/del&gt;.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        Elvileg a jövőben lesz valami jogszabály változás ezügyben, de addig is kibírható, fizesd be!
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Ha rendesen be vagy jelentve, és mindent időben fizetsz, vagyis ha te adsz az államnak, akkor azt ő meghálálja.
+        Ezt Laci mondta, és azt is, hogy nem kevés összegeket lehet visszaigényelni az adóból. És itt nem pár száz euróra kell
+        gondolni, hanem akár 1000€-ra, vagy még többre. Karácsonykor jól jön.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        Sok mindentől függ mi mindent lehet leírni az adóból. Ha nem vagy adószakértő, vagy könyvelő, akkor javaslom, keress fel
+        egy könyvelő irodát, akik 100€-ért cserébe mindent kisajtolnak a kiskapukon, amit lehet.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Laci továbbá beszélt nekem a &lt;strong&gt;Riester&lt;/strong&gt;-ről, amit a magam egyszerűségében én csak megtakarításnak hívok. Erről majd
+        egyszer írok egy külön bejegyzést, de a lényege annyi, hogy ha ezt a Riester-t elindítod, és havonta befizetsz nem több,
+        mint 100€-t (azt hiszem állampapírokba lesz “befektetve”), akkor az állam az év végén hozzád vág még nagyjából 900€-t.
+        Persze, ha többet akarsz befizetni (de legfeljebb csak 2100€-t fizethetsz egy év alatt; ez a  52.500€-s éves bruttó bér
+        4%-a), nem fogsz arányaiban többet kapni, ugyanakkor ha kevesebbet fizetsz, akkor már arányosan csökken. Havi 100€-val
+        kimaximalizálhatod a 77,3%-os állami támogatást. Otthon kapsz ilyet?&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        Szakszerű, pontos és frissebb leírást a &lt;a href=&quot;http://nemetorszagi-magyarok.de/infok/riester-rente-nemetorszagban&quot;&gt;Németországi magyarok&lt;/a&gt;
+        portálon lehet olvasni, több más hasznos biztosítási formával egyetemben.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2018.03.16.&lt;/em&gt;&lt;br /&gt;
+        Aki nem tud dönteni, hogy melyik biztosítót válassza, én bártan merem ajánlani az &lt;a href=&quot;https://www.ergo.de&quot;&gt;ERGO&lt;/a&gt;
+        szolgáltatásait. Nekem szinte minden biztosításom náluk van.&lt;br /&gt;&lt;br /&gt;Lakhelynek megfelelő biztosítási ügynököt az alábbi
+        oldalon lehet keresni: &lt;a href=&quot;http://www.ergo.de/de/ResourcesUsability/Vermittlersuche&quot;&gt;http://www.ergo.de/de/ResourcesUsability/Vermittlersuche&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+        Érdemes végigböngészni a találati listát, vannak magyarok, vagy legalábbis magyar nevű kapcsolattartók is.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h2 id=&quot;köszönet&quot;&gt;&lt;a name=&quot;koszonet&quot;&gt;&lt;/a&gt;Köszönet&lt;/h2&gt;
+        &lt;p&gt;Nagyon szépen köszönöm, az önzetlen és ingyenes segítséget, valamint a szakmai helyreigazításokat Flaisz Lászónak és
+        Lányi Lászlónak. Nélkülük valószínűleg fele ennyire se jutottam volna, és mostanra nagy gomolyfelhőkkel kellene megküzdenem.&lt;/p&gt;</content><author><name>Iván Gábor</name></author><category term="hasznos" /><category term="kezdolepesek" /><category term="biztositas" /><summary type="html">Magyarországon nem igazán foglalkoztam a biztosításokkal, mert nem is érdekelt, nem is értettem hozzá, csak fizettem, ami kötelező volt. Meg valahogy sose tudatosult bennem, hogy ezek a legkisebb mértékben is az én érdekeimet szolgálnák. Egyedül a TAJ-kártyás dolognak vettem hasznát.</summary></entry><entry><title type="html">Negyedik lépés: Telefonszám és Bankszámla</title><link href="http://localhost:4000/hasznos/negyedik_lepes.html" rel="alternate" type="text/html" title="Negyedik lépés: Telefonszám és Bankszámla" /><published>2014-01-19T12:18:00+01:00</published><updated>2019-03-08T11:19:55+01:00</updated><id>http://localhost:4000/hasznos/negyedik_lepes</id><content type="html" xml:base="http://localhost:4000/hasznos/negyedik_lepes.html">&lt;p&gt;Ennek a kettőnek a sorrendje elvileg mindegy lenne, de a bankszámlánál is szeretik, ha van az ügyfélnek elérhetősége a
+        postai és az email címén kívül. Így kezdem a telefonnal.&lt;/p&gt;
+        &lt;h1 id=&quot;a-tartalomból&quot;&gt;A tartalomból&lt;/h1&gt;
+        &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/negyedik_lepes.html#mobil&quot;&gt;Mobil szolgáltatók&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/negyedik_lepes.html#pletyka&quot;&gt;Hallomásból tudom&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/negyedik_lepes.html#bakszamla&quot;&gt;Bankszámla&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;h2 id=&quot;mobil-szolgáltatók&quot;&gt;&lt;a name=&quot;mobil&quot;&gt;&lt;/a&gt;Mobil szolgáltatók&lt;/h2&gt;
+        &lt;p&gt;Mobil szolgáltatók: van itt minden, kérem szépen, mint a búcsúban. Leszámítva a Telenort. Nagyon sok szolgáltató nagyon
+        sok szolgáltatást kínál, mindegyik másban erős, lehet válogatni aszerint kinek mi a fontos.&lt;/p&gt;
+        &lt;p&gt;Hallottam egy olyat - nem tudom, mennyi a valóságtartalma -, hogy igazából kiépített mobil hálózattal csak a T-Com (Deutsche Telekom)
+        rendelkezik, minden más szolgáltató az ő hálózatát használja. Hogy akkor ezek a diverzáns mobil szolgáltatók mégis miért
+        tudnak olcsóbbak lenni, mint a T-Com-nál, ha tőlük bérlik a vonalat? Pont azért, mert bérlik. Ha mindenki bérli, akkor
+        a T-Com-nak teljesen mindegy, honnan jön be a pénz: az ügyfelektől, vagy a szolgáltatóktól. Így aztán rossz nyelvek
+        szerint a T-Com nem is igazán az a kimondott ügyfélbarát szolgáltató. De mint mondtam, nem tudom, hogy ez mennyire van így.
+        Kinek-kinek az egyéni döntése kell, hogy legyen, hogy mit miért választ. Elmondom az enyémet.&lt;/p&gt;
+        &lt;p&gt;Alapvetően én az a saját káromon tanuló típus vagyok, vagyis bárkinek és bárminek képes vagyok feltétel nélkül bizalmat
+        szavazni. De csak egyszer. Mert, ha viszont csalódok valamiben (vagy valakiben), akkor azt hosszú évekre képes vagyok
+        tiltólistára rakni, és csökönyösen elfordítani a fejemet tőle, még akkor is, ha később ettől megint csak én járok
+        rosszabbul. Ez volt otthon is. De hiába akartam hátat fordítani az aktuális csalódásnak, egy idő után elfogytak a lehetőségek,
+        és nem marad választás. Telefon kellett, így hiába lett nagyon elegem a sok évi piros-kék-magenta triumvirátus méregdrága
+        antiszolgáltatásaiból - amikor a szomszédban töredék árakon lehetett telefonálni és internetezni -, muszáj volt választani.&lt;/p&gt;
+        &lt;p&gt;Épp emiatt itt Németországban gondolkodás nélkül választottam inkább egy ismeretlen szolgáltatót. Hogy mi alapján döntöttem?
+        Nagyon egyszerű, ugyanakkor szakmailag megindokolhatatlan döntést hoztam: munkából hazafele menet, amelyik elsőre megtetszett.
+        Így lettem most az O2 ügyfele. Bementem a boltba, kerestem valakit, aki tud angolul és kértem egy SIM kártyát. Ekkor
+        jött az első fontos információ, amire nem figyelmeztetett senki: &lt;strong&gt;ELŐFIZETÉST CSAK BANKSZÁMLA BIRTOKÁBAN VEHETSZ.&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;Szóval, ha te a havidíjas szolgáltatást preferálod, akkor előbb a bankot intézed, bár kicsit 22-es csapdája, ha ott meg
+        kérik a német mobilszámot, de csak magyar van. Megoldás: veszel egy SIM-et és egy feltöltőkártyát, majd, amikor megvan a
+        bankszámla is, megint bemész, és átkonvertálod az csomagodat feltöltősből előfizetőssé. Egyszerű, nemigaz?&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;SIM kártya&lt;/strong&gt;: egyszeri kiadás: 9.99€&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Feltöltőkártya&lt;/strong&gt;: mivel nekem fontosabb az állandó Internet elérés, minthogy sok percet telefonálhassak, ezért az
+        otthon megszokott 500 MB-os limittel választottam csomagot, viszont így ez most 15€ volt. Ha majd átmegyek előfizetősbe,
+        akkor egy olyan csomagot választok, ahol 2-3 GB a forgalmazási limit, és az sem fog többe kerülni. Ja és nem kell hűség
+        időzni sem. Persze, ha van hűség idő, akkor jobbak a feltételek. Itt azért több mindenből lehet választani.&lt;/p&gt;
+        &lt;p&gt;Amikor megveszed a SIM kártyát, természetesen kell szerződést kötni. Ehhez viszont kelleni fog a szokásos Regisztrációs
+        lap (&lt;strong&gt;&lt;em&gt;Anmeldung&lt;/em&gt;&lt;/strong&gt;), és a személyigazolvány/útlevél, ugyanis még nem vagy fél éve az országban. Aztán mivel nem akartam,
+        hogy a régi számomon ne érjen el senki, főleg ne az otthoni banki SMS szolgáltatás a pénzmozgásról, így bementem az első
+        Saturnba (pont volt egy 200 méterre), és megvettem a legolcsóbb maroktelefont, amit árultak, ez 16€ volt.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        Na most ez az egész úgy &lt;em&gt;en bloc&lt;/em&gt; megváltozott. Ahány hely, annyiféle intézési mód. Van, ahol nem kérnek semmilyen &lt;em&gt;Anmeldungot&lt;/em&gt;,
+        sőt van olyan bank(fiók), ahol nem is követelik meg a telefonszám létét. Szóval mindenki nézzen szépen körbe a piacon,
+        válassza ki, ami neki kell, és azt vegye meg, véletlenül se ragaszkodjon ahhoz, amit én itt leírtam, mert nem tudhatom, hogy
+        az adott helyen és időben mi a trend. Ez csak az én sztorim volt 4 éve, akként tessen rá tekinteni.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h2 id=&quot;hallomásból-tudom&quot;&gt;&lt;a name=&quot;pletyka&quot;&gt;&lt;/a&gt;Hallomásból tudom&lt;/h2&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Ha te az a fajta vagy, aki a telefont a leghagyományosabb funkcióra használod, vagyis beszélsz rajta, és leginkább
+        Magyarország irányába szeretnél telefonálni, akkor neked a &lt;a href=&quot;https://mobile.lebara.com/de/de/&quot;&gt;Lebara Mobil&lt;/a&gt; kell.&lt;/li&gt;
+        &lt;li&gt;Ha csak netezni akarsz, akkor jól jöhet az &lt;strong&gt;Alditalk Internet Flatrate&lt;/strong&gt; csomagja (igen, ez az az Aldi). Bár erről
+        hallottam már olyat, hogy sokkal hamarabb leszámolják a limitet, mint amit valójában forgalmaztál.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;Nagyjából 10-20 perc, és máris egy +49-es mobilszám boldog tulajdonosa leszel.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        Az elmúlt 4 évben sok minden változott, fogalmam sincs, hogy van-e még a fent említett Alditalk csomag. Illetve több, mint
+        valószínű, hogy vannak újabbak, és jobbak is. Lebarát a párom használ, de őszintén szólva fogalmam sincs, hogyan számolják
+        el a havi feltöltés. Minden hónap 12. napján rátolok 20€-t, és az nagyjából bejárja, de előfordul, hogy hamarabb &quot;fogy&quot; ki
+        a nafta a csomagból. Nem sikerült kideríteni, hogy milyen limit szerint, mert a telefon szerint se a beszélgetési idő, sem
+        pedig az adatforgalom nem lépte át a szerződésben foglaltakat.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h2 id=&quot;bankszámla&quot;&gt;&lt;a name=&quot;bakszamla&quot;&gt;&lt;/a&gt;Bankszámla&lt;/h2&gt;
+        &lt;p&gt;Bankszámlát se sokkal bonyolultabb nyitni, mint ahogy telefonszámot szerezni. Bankból Münchenben - és gondolom ez Németország
+        szerte így van - annyi van, mint macskán a szőr. Viszont, hogy ne legyünk teljesen elveszve, a bankok fogták magukat és
+        úgynevezett &lt;strong&gt;&lt;em&gt;Cash poolokba&lt;/em&gt;&lt;/strong&gt; szerveződtek. Ha van egy számlád egy banknál, ami valelyik &lt;em&gt;Cash poolhoz&lt;/em&gt; tartozik, akkor
+        az összes másik, ugyanahhoz a &lt;em&gt;Cash poolhoz&lt;/em&gt; tartozó bank ATM-jeiből ingyen tudsz pénzt felvenni. Ha viszont másikhoz tartozik,
+        akkor 5€-ba kerül. Ezért érdemes megnézni, hogy a mozgáskörzeteden belül milyen bankok vannak, azok mely &lt;em&gt;Cash poolhoz&lt;/em&gt;
+        tartoznak, és ennek megfelelően érdemes választani. Mert szolgáltatásokban viszont egymásra licitálnak, szinte teljesen
+        mindegy, melyiket választja az ember. Ha nem tudsz dönteni, akkor már olyan apróságok billenthetik ki a mérleg nyelvét,
+        mint a nyitva tartási idő, vagy hogy tetszik-e a bank logója.&lt;/p&gt;
+        &lt;p&gt;Én egy egyszerű folyószámlát (&lt;strong&gt;&lt;em&gt;Girokonto&lt;/em&gt;&lt;/strong&gt;) szerettem volna nyitni, SMS szolgáltatással, netbankkal, alacsony költéséggel,
+        hitelkártyával. Nos majdnem minden teljesült, leszámítva a hitelkártyát, de ez máshol se teljesült volna két olyan okból
+        kifolyólag, ami tökéletesen lefedi egymást:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;nem tartózkodok 6 hónapja az országban&lt;/li&gt;
+        &lt;li&gt;a munkahelyen most kezdtem a 6 hónapos próbaidőt, és próbaidőre nem adnak hitelkártyát.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;Vagyis 6 hónap múlva lehet csak visszatérni a hitelkártya témára. Addig is felajánlották a számlahitel lehetőségét, amit
+        én köszönettel visszautasítottam, mert én szeretek mindig csak annyival gazdálkodni, ami a rendelkezésemre áll, másrészt
+        a hitelkártyát csak az online vásárlások miatt szerettem volna igénybe venni.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        A 6 hónap is, meg a próbaidó is lejárt, így most már van hitelkártyám. Eredetileg az online vásárláshoz kellett, de azóta
+        már szinte mindenhol lehet használni a PayPal-t is (még az XBox előfizetéshez is), így az egyetlen felhasználási módja az
+        maradt számomra, hogy pénzt vegyek fel &quot;idegen&quot; ATM-ekből.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Itt Németországban van egy érdekes dolog, amire többen is felhívták a figyelmemet. Bár azt nem tudom, hogy minden banknál
+        így van-e, de a hitelkártyával nem tudsz vásárolni a boltban. Benzinkút, gyógyszertár stb. az mind ok, de a boltokban
+        (Aldi, Lidl, &lt;del&gt;Tengelmann&lt;/del&gt;, Edeka) nem működik, csak a rendes bankkártya. Ennek az okát nem tudom, de sejteni vélem,
+        hogy a kifizetéssel lehet kapcsolatban.&lt;/p&gt;
+        &lt;p&gt;Másik érdekes dolog, ami viszont nagyon fog tetszeni, ha igaz, hogy hitelkártyával ingyenes a készpénzfelvétel az ATM-ekből
+        &lt;em&gt;Cash pooltól&lt;/em&gt; függetlenül az egész országban. Sőt talán az egész euró övezetben is, de ennek majd még utána fogok nézni
+        alaposabban. De hogy még jobbat mondjak, itt nem zargatnak azzal, hogy hónap 15-ig fizesd vissza, amit a hitelkártyáról
+        felvettél, vagy költöttél, hanem beállíthatod, hogy a számládról maximum mekkora összeggel rendezzék a kártyatartozásodat.
+        Tök jó, nem? Ja, azt meg már csak zárójelben említem, hogy nincs kamat a hitelkártya tartozásra (jelenlegi információim
+        szerint). Ezek után megértem, hogy miért van akkora nagy bajban a német gazdaság. Ja, hogy nincs is bajban? Nahát!&lt;/p&gt;
+        &lt;p&gt;A bankszámla nyitáshoz itt is nagyjából a már megszokott iratok kellenek:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;regisztrációs lap (&lt;strong&gt;&lt;em&gt;Anmeldung&lt;/em&gt;&lt;/strong&gt;)&lt;/li&gt;
+        &lt;li&gt;útlevél&lt;/li&gt;
+        &lt;li&gt;munkaszerződés - mert, ha egy bizonyos összeg fölött van a havi nettód, akkor annyira ingyen van az egész számlavezetés,
+        SMS szolgáltatás, a pénzátutalás, a netbank meg minden, hogy otthon a “díjnullázó bekaphassa”.&lt;/li&gt;
+        &lt;li&gt;telefonszám – lehetőleg +49&lt;/li&gt;
+        &lt;li&gt;email cím&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;Amennyiben olyankor mész számlát nyitni, mint én, vagyis este 7-kor, akkor nem fogják tudni egyből megcsinálni a számládat,
+        ugyanis fel kell hívniuk a &lt;strong&gt;SCHUFA&lt;/strong&gt;-t, hogy leellenőrizzék, hogy nem vagy-e rajta valami adóslistán, vagy valami hasonló.
+        Ámde a SCHUFA-nál is csak 6-ig dolgoznak. Semmi baj, egyeztetnek veled időpontot másnapra, vagy amikor neked jó, és várni
+        fognak. Mikor odamentem időre, azonnal fogadtak, nem kellett várnom. Ugye mondtam, hogy minden furmányos kerülőutat, és
+        buktatót megjárok? De nem is baj, hadd edződjön kicsit az életrevalóságom…&lt;/p&gt;
+        &lt;p&gt;Nos, ha ez is megvan, és mindent aláírtál, akkor kapsz egy halom papírt rajta BIC és az IBAN számoddal. Ezeket is le kell
+        majd adni a munkahelyeden a HR osztályon. Viszont minden egyebet (bankkártya, PIN kód, netbank hozzáférés) majd szepen
+        egyesével fognak postázni. Ugye kiírtad már a nevedet a postaládára???&lt;/p&gt;
+        &lt;p&gt;Nagyjából ennyit akartam hirtelen elmondani a mobilról és a bankszámláról. Nem vette igazán igénybe a kreativitásomat
+        ezen szolgáltatások beszerzése; az SCHUFA-s lekérdezés miatti csúszás ellenére is minden olajozottan, flottul ment. Kicsit
+        még szokatlan érzés… A következő bejegyzés már tényleg a biztosításokról fog szólni. Már meg van írva, csak átküldtem
+        szakértői véleményezésre egy újdonsült ismerősömnek.&lt;/p&gt;</content><author><name>Iván Gábor</name></author><category term="hasznos" /><category term="kezdolepesek" /><category term="bank" /><category term="telefon" /><summary type="html">Először azt gondoltam, hogy a Biztosításokról írok a negyedik lépésben, de miközben írtam a szöveget, rájöttem, hogy a szerződéskötésnél végig szükség volt a telefonszámra meg a bankszámla számra is. Így most egy huszáros vágással kitérek ezekre, és beszúrom a biztosítások elé.</summary></entry><entry><title type="html">Harmadik lépés: Regisztráció</title><link href="http://localhost:4000/hasznos/harmadik_lepes.html" rel="alternate" type="text/html" title="Harmadik lépés: Regisztráció" /><published>2014-01-11T19:05:00+01:00</published><updated>2019-03-08T11:19:56+01:00</updated><id>http://localhost:4000/hasznos/harmadik_lepes</id><content type="html" xml:base="http://localhost:4000/hasznos/harmadik_lepes.html">&lt;h1 id=&quot;a-tartalomból&quot;&gt;A tartalomból&lt;/h1&gt;
+        &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/harmadik_lepes.html#regisztracio&quot;&gt;Regisztráció (&lt;em&gt;Anmeldung&lt;/em&gt;)&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/harmadik_lepes.html#adopapirok&quot;&gt;Adópapírok&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/harmadik_lepes.html#finanzamt&quot;&gt;A Finanzamtról&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;Először röviden, aztán részleteiben. A lakhelyet be kell jelenteni a helyi szerveknél. Ők adnak egy igazolást. Ezzel
+        tudunk bankszámlát nyitni, biztosításokat kötni. A bejelentéssel párhuzamosan elindul egy háttérfolyamat, aminek a vége
+        az lesz, hogy lesz adószámod és fizetéshez jutsz. Egyszerű, nem? Nem.&lt;/p&gt;
+        &lt;h2 id=&quot;regisztráció-anmeldung&quot;&gt;&lt;a name=&quot;regisztracio&quot;&gt;&lt;/a&gt;Regisztráció (&lt;em&gt;Anmeldung&lt;/em&gt;)&lt;/h2&gt;
+        &lt;p&gt;Amint azt említettem, a lakhelyet be kell jelenteni. De nem ám akármikor, hanem a költözést követő két héten belül.
+        Én javaslom, hogy minél hamarabb, mert az összes közül ez megy a leggyorsabban. Ha elmulasztod, és kiderül, akkor bünti
+        jár érte, sok-sok euró. 500 azt hiszem.&lt;/p&gt;
+        &lt;p&gt;Tehát amint megvan a bérleti szerződés (&lt;strong&gt;&lt;em&gt;Mietvertrag&lt;/em&gt;&lt;/strong&gt;), be kell slattyogni a legközelebbi hivatalba, amit itt
+        &lt;strong&gt;&lt;em&gt;Bürgerbüro&lt;/em&gt;&lt;/strong&gt;-nak hívnak. Ha nem Münchenben, hanem egy környékbeli kisebb településre költözünk, akkor ez valószínűleg
+        egybe esik a városházával (&lt;strong&gt;&lt;em&gt;Rathaus&lt;/em&gt;&lt;/strong&gt;).&lt;/p&gt;
+        &lt;p&gt;Ha nem tudjuk hova kell menni, akkor a Google-ban rá kell keresni a következő kulcsszavakkal:&lt;/p&gt;
+        &lt;pre&gt;&lt;code style=&quot;text-align:center !important;&quot;&gt;anmeldung bürgerbüro [város]&lt;/code&gt;&lt;/pre&gt;
+        &lt;p&gt;Ha megvan a cím, akkor nosza lehet menni elintézni. Sajnos eléggé helyhez kötött, vagyis, ha nem Münchenben laksz, akkor
+        nem tudod Münchenben elintézni ezt, bár én korábban olyan információval rendelkeztem, hogy de, azonban ez téves információ volt.&lt;/p&gt;
+        &lt;p&gt;De talán ez nem is annyira nagy baj. Tapasztalatból beszélek. Először egy müncheni hivatalba mentem be, ahol 3 óra várakozás
+        után a hölgy sajnálkozva közölte, hogy ahol én lakok (Schäftlarn), nem tartozik München közigazgatási körzetébe. Fogalmam
+        sincs ezt hogy sikerült kihámoznom, hisz én nem tudok németül, a hölgy meg elég minimálban tolta az angolt…&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        A közigazgatási körzet másnéven járás. Hogy mi az? Adva van az ország: Németország. Németországon belül
+        van 16 tartomány, saját fővárossal, parlamenttel, alkotmánnyal és költségvetéssel. Az egyik ilyen - mellesleg a legnagyobb, és
+        a leggazdagabb - tartománya Bajorország, vagy hivatalos nevén &lt;em&gt;Bajor Szabadállam&lt;/em&gt;, aminek fővárosa München. Bajorországban
+        jelenleg 71 járás és 25 járási jogú város található. Minden járás több települést foglal magába, és rendelkezik egy székhellyel.
+        Általában az ilyen járási székhelyekre kell menni a regisztáción túli ügyeket intézni (pl.: adószám, német rendszám stb).
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;De hogy mennyire jól járhat az, aki egy kis településre költözik, azt az mutatja, hogy nekem másnap reggel úgy sikerült
+        7:51-re elintéznem a regisztrációt Schäftlarnban, hogy a városháza csak 8:00-kor nyit. De amíg az ajtóban várakoztam,
+        addig legalább szembejött velem a fél hivatal (voltak vagy 5-en), és mindegyikük köszönt, és érdeklődött, hogy mi járatban
+        vagyok, majd udvariasan közölték, hogy 8-kor nyitnak (ezt a hanglejtésből és az “áht úhr”-ból okoskodtam ki). De én
+        mindegyiküknek külön elmondtam az előre betanult szöveget, hogy:&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;Ich bin von Ungarn nach Deutschland umgezogen. Ich möchte mich anmelden.&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Biztos jól mondtam, mert probléma mentesen sikerült elintézni a bejelentést. Amúgy utólag láttam a weblapon, hogy az
+        egyikük – aki mellesleg kinyitotta nekem az ajtót 8 előtt – nem más volt, mint a polgármester (&lt;strong&gt;&lt;em&gt;Bürgermeister&lt;/em&gt;&lt;/strong&gt;)
+        személyesen. Idegen vagyok egy idegen helyen és a nyelvet se beszélem, mégis tárt karokkal vártak. Meghatódtam.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        Azóta már elköltöztem Schäftlarnból, egy másik, hasonló természeti kvalitásokkal rendelkező, de nagyobb városba, de ott is
+        ugyanolyan pozitív tapasztalatokat szereztem a gyors ügyintézést illetően.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Na de a regisztrációhoz szükséges iratok:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;bérleti szerződés (&lt;strong&gt;&lt;em&gt;Mietvertrag&lt;/em&gt;&lt;/strong&gt;) – hogy lássák van lakás&lt;/li&gt;
+        &lt;li&gt;munkaszerződés (&lt;strong&gt;&lt;em&gt;Arbeitsvertag&lt;/em&gt;&lt;/strong&gt;) – hogy lássák, tudod majd fizetni a lakást&lt;/li&gt;
+        &lt;li&gt;személyigazolvány (&lt;strong&gt;&lt;em&gt;Personalausweis&lt;/em&gt;&lt;/strong&gt;), vagy útlevél (&lt;strong&gt;&lt;em&gt;Reisepass&lt;/em&gt;&lt;/strong&gt;)&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;A regisztrációs lapon a következőket kell megadni:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;em&gt;Tag des Einzugs&lt;/em&gt;&lt;/strong&gt; (érkezés dátuma) – amikor megérkeztél a bőröndökkel lakhatási céllal, és nem az, amikor aláírtad a
+        bérleti szerződést (kivéve, ha még aznap megtörtént). Formátuma: &lt;em&gt;nn.hh.éé&lt;/em&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;em&gt;Wohnung [Straße, Hausnummer, PLZ, Hausnummer]&lt;/em&gt;&lt;/strong&gt; - Lakcím (utca, házszám, irányítószám és város)&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;em&gt;Bisherige Hauptwohnung&lt;/em&gt;&lt;/strong&gt; - Jelenlegi (magyarországi) lakcím. Ne felejtsük el a végére odaírni, hogy “&lt;em&gt;Ungarn&lt;/em&gt;”.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;em&gt;Familienname, Vorname(n)&lt;/em&gt;&lt;/strong&gt; – Családnév, Keresztnév(-ek)&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;em&gt;Familienstand&lt;/em&gt;&lt;/strong&gt; - A hivatalos családi állapot. Hivatalosan én nem vagyok házas, így nekem az “egyedülállót”
+        (&lt;strong&gt;&lt;em&gt;Ledig&lt;/em&gt;&lt;/strong&gt;) kellett beírnom. A többit nézd ki a szótárból, bocsi…&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;em&gt;Geschlecht&lt;/em&gt;&lt;/strong&gt; - Nemi hovatartozás. M, mint Manus, és W, mint Wadmacska.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;em&gt;Geburtsdatum&lt;/em&gt;&lt;/strong&gt; - Születési dátum. Formátuma itt is: &lt;em&gt;nn.hh.éé&lt;/em&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;em&gt;Geburtsort&lt;/em&gt;&lt;/strong&gt; - Születési hely: város, ország (esetemben &lt;em&gt;Ungarn&lt;/em&gt;).&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;em&gt;Staatsangehöigkeit(en)&lt;/em&gt;&lt;/strong&gt; - Állampolgárság(ok). Nekem &lt;em&gt;Ungarisch&lt;/em&gt;.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;em&gt;Religion&lt;/em&gt;&lt;/strong&gt; - Vallás. Ha van is, ne írd be, húzd ki, mert, ha beírod, akkor plusz egy kis járulékot számolnak majd
+        fel a bruttó béredből.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;em&gt;Benötigen Sie eine Lohnsteuerkarte?&lt;/em&gt;&lt;/strong&gt; - Szükséged van adókártyára? Naná! A válasz &lt;strong&gt;[X] ja&lt;/strong&gt;.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;em&gt;Pass- und Ausweisdaten&lt;/em&gt;&lt;/strong&gt; - Útlevél- és Személyigazolvány adatai. Itt elég csak az egyiket megadni, én úgy vettem
+        észre, hogy ha mindkettőt odanyújtom, akkor jobb szeretik az útlevelet elvenni.
+        &lt;ul&gt;
+        &lt;li&gt;Személyi esetén így kell megadni, pl.: PA-123456AB (ahol 123456AB a személyigazolvány száma)&lt;/li&gt;
+        &lt;li&gt;Útlevél esetén pedig így: RP-AB123456 (ahol AB123456 az útlevélszám)&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;em&gt;Ausstellungsbehörde&lt;/em&gt;&lt;/strong&gt; - Kiállító hatóság. Útlevél esetén ez a “BM Központi Hivatal”. Úgyse értik, de beírtam…&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;em&gt;Ausstellungsdatum&lt;/em&gt;&lt;/strong&gt; - A kiállítás dátuma. Szokásos &lt;em&gt;nn.hh.éé&lt;/em&gt;.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;em&gt;Gültig bis&lt;/em&gt;&lt;/strong&gt; - Érvényesség dátuma. Szintén &lt;em&gt;nn.hh.éé&lt;/em&gt;.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;&lt;em&gt;Unterschrift der meldepflichtigen Person&lt;/em&gt;&lt;/strong&gt; - A regisztráló személy aláírása.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;Van még egy tonna mező, amikkel nekem nem kellett foglalkoznom, mert egyik sem vonatkozott rám. Ha neked van középső
+        neved, vagy doktori fokozatod, vallásod, amit mégis bejelentenél, vagy férj/feleség, gyerek, háziállat, akkor ezeknek is
+        valószínűleg megtalálható a megfelelő mezője az űrlapon. Nézd el nekem, hogy ezeket már nem sorolom fel.&lt;/p&gt;
+        &lt;p&gt;Ha minden rendben, akkor kezedbe kapod az igazolást (&lt;strong&gt;&lt;em&gt;Anmeldebestätigung&lt;/em&gt;&lt;/strong&gt;), egy lepecsételt, újrahasznosított papírt,
+        amivel már boldogan kezdheted intézni a többi ügyedet.&lt;/p&gt;
+        &lt;p&gt;Viszont előtte meg kell tenned egy apró, de annál fontosabb dolgot: &lt;strong&gt;ki kell írnod a nevedet a postaládára&lt;/strong&gt;. Ha nincs
+        kint a neved, akkor a postás nem fogja odarongyolni a neked küldött borítékokat, ha nem találja meg a címzettet, vagy
+        ha a nyakán maradt egy félrecímzett boríték, mint ahogy az  kishazánkban szokás. Ha nincs név, nem jönnek meg a papírok,
+        amik a regisztrációval indukált folyamatok végtermékeként látnak majd napvilágot. Pedig neked azok a papírok kelleni fognak.&lt;/p&gt;
+        &lt;h2 id=&quot;adópapírok&quot;&gt;&lt;a name=&quot;adopapirok&quot;&gt;&lt;/a&gt;Adópapírok&lt;/h2&gt;
+        &lt;p&gt;A regisztráció alkalmával nem biztatnak semmi jóval: az adataid bekerültek a rendszerbe, de az adózáshoz szükséges
+        iktatást a Bonn-i központ fogja végezni, ahol valószínűleg még múlt századi, könyvtár-kartotékos módszerrel dolgozhatnak,
+        ugyanis a papírok “szokásos” elkészülési ideje három hét. Így már érhető, hogy miért sürgetek mindenkit, hogy mindent
+        minél hamarabb intézzen el, sőt ha módja van, akkor a beköltözés és a munkába állás között teljen el egy-két hét.
+        Sajnos nekem erre nem volt lehetőségem. De miért kell sürgetni? Azért, mert Németországban a fizetések az adott hónap 29.
+        napjáig kifizetésre kerülnek. Ennek fényében a könyvelésnek az adott hónap 15.-ig napjáig, rendelkeznie kell minden
+        alkalmazott fizetési adataival és kész.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        Korábban úgy tudtam, hogy ez egy általánosan elterjedt &quot;szabály&quot;, de igazából cége válogatja. Mindenki érdeklődje meg magának.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Igaz, van egy olyan lehetőség a törvény szerint, hogy a munkáltató az új alkalmazottnak az első hat hétben adószám nélkül
+        is adhat fizetést, ezzel azonban nem minden cég hajlandó élni sajnos. Az a biztos, ha 15.-éig mindent elintézel.&lt;/p&gt;
+        &lt;p&gt;Na de hogy lehet lerövidíteni a három hetes folyamatot? Kis utánajárással és nem kis szerencsével. A hatalmas
+        időintervallum nagy része ugyanis szerintem az ide-oda postázások miatt lehet, legalábbis számomra ez az információ
+        kristályosodott ki, a helyzetet elemezve…&lt;/p&gt;
+        &lt;p&gt;Ha az ember fogja magát, és a regisztrációt követő 5-10 munkanap során minden reggel hajlandó ott strázsálni az adóhivatal
+        ügyfélszolgálatánál (&lt;strong&gt;&lt;em&gt;Finanzamt Servicezentrum&lt;/em&gt;&lt;/strong&gt;), akkor a kedves munkatársak készségesen megnézik, hogy bekerült-e
+        már a nevünk a rendszerbe. Ha igen, az azt jelenti, hogy van adóazonosító számunk (&lt;strong&gt;&lt;em&gt;Steueridentifikationsnummer&lt;/em&gt;&lt;/strong&gt;) is,
+        ami nagyon jó, mert a cégünk munkaügyi osztályának csupán erre lesz szüksége a fizetéshez. Az adószám (&lt;strong&gt;&lt;em&gt;Steuernummer&lt;/em&gt;&lt;/strong&gt;),
+        és az adókártya (&lt;strong&gt;&lt;em&gt;Lohnsteuerkarte&lt;/em&gt;&lt;/strong&gt;) majd postán megjön, nem létszükséglet, gondolom, majd az adóbevallások során lesz rá szükség.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        Adókártyám azóta sincs, valószínűleg egy letűnt kor hagyatéka lehet azok számára, akik kaptak ilyet. Az adószám meg egy
+        A/4-es lap fejlécében lesz, amit postafordultával kapunk meg.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Apropó adóbevallás. Németországban nem kötelező adóbevallást tenni. Mégis mindenkinek jól felfogott érdeke. Miért?
+        Mert még a mezei alkalmazottak is kérhetnek adó visszatérítést. Ennek összege nem ritkán eléri, vagy meghaladja a havi
+        nettó fizetésedet. Felfogható úgy is, mint egyfajta 13. havi fizetés. Persze ez egyénenként változik, függ attól, mit
+        dolgozik, mennyi a bruttó keresete, szerződéses vagy határozatlan idejű alkalmazott, netán egyéni vállalkozóról vagy
+        egy cégről van-e szó.&lt;/p&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        Adóbevallás tétele bizonyos esetben kötelező. Például, ha megváltoztatjuk az eredeti adóketegóriánkat. És még valószínűleg
+        sok egyéb esetben is, amiről még nem tudok...
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Szóval, ha megvan az adóazonosító szám (&lt;strong&gt;&lt;em&gt;Steueridentifikationsnummer&lt;/em&gt;&lt;/strong&gt;) még időben, akkor megnyugodhatunk, mert az
+        egyik legkritikusabb és legidőigényesebb feladatot sikeresen megléptük. A továbbiakban el kell intézni még a telefonszámot,
+        a bankszámlát és a biztosításokat (&lt;strong&gt;&lt;em&gt;Versicherung&lt;/em&gt;&lt;/strong&gt;). Ezek a 4., és 5. lépések lesznek, a bankot és a telefont
+        rövidségük miatt egybevontam. Folytatása következik.&lt;/p&gt;
+        &lt;h2 id=&quot;a-finanzamtról&quot;&gt;&lt;a name=&quot;finanzamt&quot;&gt;&lt;/a&gt;A Finanzamtról&lt;/h2&gt;
+        &lt;p&gt;A &lt;em&gt;Finanzamt_ról még annyit, hogy ha München járásban laksz, akkor több, mint valószínű, hogy neked is a
+        _Finanzamt München_be kell menned, ami a &lt;a href=&quot;https://www.google.de/maps/place/Deroystra%C3%9Fe+6,+80335+M%C3%BCnchen/@48.1453718,11.5430531,17z/data=!3m1!4b1!4m5!3m4!1s0x479e76067c10fe4b:0xa6ad146af2137eba!8m2!3d48.1453718!4d11.5452418&quot;&gt;Deroystraße 6.&lt;/a&gt;
+        alatt található. 5 perc alatt megközelíthető a _Hackerbrücke S-Bahn&lt;/em&gt; megállójából, ahol szinte minden S-Bahn megáll
+        valamint sok busz és villamos is megfordul erre. A bejárat ugyan nem az utcafronton van, de mégsem nehéz megtalálni,
+        mert rendesen ki van táblázva, hogy mi merre.&lt;/p&gt;
+        &lt;p&gt;Amit az ügyintézéssel kapcsolatban tanácsolni tudok:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;A &lt;strong&gt;&lt;em&gt;Servicezentrum&lt;/em&gt;&lt;/strong&gt; minden hétköznap 7:30-kor nyit (pontban, és ugye nem 9-kor, mint otthon, hogy ne tudj ügyet intézni
+        munka előtt), de érdemes odamenni 7:15-re, esetleg 7:00-re, de nem korábban. A lényeg, hogy legyél ott az első 10
+        odaérkező között, mert nagyjából ennyi ember fog nyitáskor az “első körbe” bejutni (amire ugyancsak egyből nyitáskor
+        kerül sor, tehát nem pumpálják fel a tömeget, mint otthon, hanem azonnal dolgoznak).&lt;/li&gt;
+        &lt;li&gt;Legyen nálad a regisztrációs lapod (&lt;strong&gt;&lt;em&gt;Anmeldung&lt;/em&gt;&lt;/strong&gt;) és az útleveled.&lt;/li&gt;
+        &lt;li&gt;Amint bejutsz, nehogy egyből a szemben lévő pulthoz szaladj érdeklődni, mi merre (ezt már megtettem helyetted), hanem
+        a kis faburkolatos hasáb alakú oszlopon nyomd meg a gombot a “sorszám”ért. Aztán várd, hogy a kijelzőn megjelenjen,
+        hogy melyik betűhöz kell menned. Mert itt nem számoznak, hanem A-tól Z-ig vannak az ügyfélfogadó asztalok.&lt;/li&gt;
+        &lt;li&gt;Minden ott dolgozó azt fogja mondani, hogy csak kicsit beszél angolul, annyi bőven elég lesz. De biztos, ami biztos az
+        alábbi két rém egyszerű mondattal bevágódhatsz. A célnak legalábbis megfelel:&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;Dies ist meine Anmeldung. Ich möchte ein Steueridentifikationsnummer.&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;&lt;em&gt;ejtsd: stójer-identifikácionsz-nummer&lt;/em&gt;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Sok helyen tévesen adókártyát és adószámot említenek. Véletlenül se ezeket kérd, mert azt mondják, hogy ezeket majd
+        csak postafordultával kapod meg. A lényeg, hogy te itt és most csak adóazonosító számért jöttél, és nem többért.
+        A munkáltatónak egyelőre ennyi kell, hogy adhasson fizut.&lt;/li&gt;
+        &lt;li&gt;Ha azt mondja, hogy nincs még benne a gépben, akkor ne csüggedj, másnap megint be kell menni.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;Én magam második próbálkozásra sikerrel jártam, így szerencsére belefértem a 15.-i határidőbe. És nem mellesleg 5 munkanap
+        alatt elkészült az, amit eredetileg 2-3 hétre prognosztizáltak.&lt;/p&gt;</content><author><name>Iván Gábor</name></author><category term="hasznos" /><category term="kezdolepesek" /><category term="burokracia" /><summary type="html">Megvan a munka, megvan a lakás. Egy tökéletes világban ennyi elég is volna, de sajnos még Európa vezető gazdasága sem mentes a keszekusza bürokráciától, így van egy rakás dolog, amit el kell intézni. Ez a lépés annyira fontos, hogy teljességgel megkerülhetetlen.</summary></entry><entry><title type="html">Második lépés: Lakás</title><link href="http://localhost:4000/hasznos/masodik_lepes.html" rel="alternate" type="text/html" title="Második lépés: Lakás" /><published>2014-01-09T14:20:00+01:00</published><updated>2019-03-08T11:19:56+01:00</updated><id>http://localhost:4000/hasznos/masodik_lepes</id><content type="html" xml:base="http://localhost:4000/hasznos/masodik_lepes.html">&lt;h1 id=&quot;a-tartalomból&quot;&gt;A tartalomból&lt;/h1&gt;
+        &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/masodik_lepes.html#tapasztalatok&quot;&gt;Tapasztalatok&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/masodik_lepes.html#kereses&quot;&gt;Merre keress?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;/hasznos/masodik_lepes.html#tanacsok&quot;&gt;Jótanácsok&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;Ha a magam helyzetéből indulok ki, akkor nagyjából a legrosszabb start pozíciót vázolom fel szerintem, ennél csak jobb lehet.&lt;/p&gt;
+        &lt;h2 id=&quot;tapasztalatok&quot;&gt;&lt;a name=&quot;tapasztalatok&quot;&gt;&lt;/a&gt;Tapasztalatok&lt;/h2&gt;
+        &lt;p&gt;Pontokba szedve, betolok mindent, amit az elmúlt három hónapban tapasztaltam. Legalábbis mindent, amire most így hirtelen
+        vissza tudok emlékezni.&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Ha nincs nagyjából 5000 euród, akkor felejtsd el, hogy önálló lakást veszel ki. Münchenben az általánosan elfogadott
+        módszer, hogy a tulaj előre kér 3 havi kauciót ezt kiköltözéskor visszaadja, de akkor is marha sok, tekintve, hogy egy
+        ultra mini garzon is 600-700 euró körül mozog az úgynevezett &lt;strong&gt;&lt;em&gt;Inneraum&lt;/em&gt;&lt;/strong&gt;-on belül, ami a tulajdonképpeni város. Ha neten
+        találtad a hirdetést, akkor jó eséllyel kerül rá ügynöki jutalék is, amit szintén te fizetsz (év végén visszaigényelhető
+        az adóból), aminek az összege a havi lakbér 2,36-szorosa, ha jól tudom. Vagyis közel öt és félhavi lakbért kell kifizetni
+        csak azért, hogy beköltözz.&lt;/li&gt;
+        &lt;li&gt;Könnyebb megoldás, ha szobát bérelsz. Ezt kint, lakóközösségnek (&lt;strong&gt;&lt;em&gt;Wohngemeinschaft&lt;/em&gt;&lt;/strong&gt;-nak) hívják. Ilyenkor töredéke
+        a lakbér, sok esetben nincs kaució és/vagy ügynöki jutalék. Viszont nagyon hamar elkapkodják.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Ha felveszed valakivel a kapcsolatot, és ő előleget kér biztosíték gyanánt, netán megemlíti a Western Union-t, mint
+        pénzküldési lehetőséget, akkor lépj tovább, csalókba futottál.&lt;/strong&gt;&lt;/li&gt;
+        &lt;li&gt;A lakáskereső oldalakon szokott lenni “&lt;em&gt;prémium tag&lt;/em&gt;” előfizetési lehetőség (nagyjából 10 euró 10 napra, amivel
+        találkoztam). Ha szorít az idő, akkor vállald be, mert többnyire csak így juthatsz közvetlen kapcsolathoz (értsd:
+        telefonszám) a hirdetővel.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Nem érdemes levelezéssel vacakolni&lt;/strong&gt;, mert nem fogják tartogatni a lakást. Olyan hirdetést keress, ahol van telefonszám.
+        Akkora a túljelentkezés, hogy egy, maximum két nap alatt minden hirdetés elavul. Eleve alig válaszolnak, és nekem a
+        válaszok többsége az volt, hogy már kiadta másnak.&lt;/li&gt;
+        &lt;li&gt;Ha beszélsz a hirdetővel (&lt;em&gt;landlord&lt;/em&gt;), kérdezz rá mindenre: Viheted-e a háziállatodat? Viheted-e a párodat?
+        Lehet-e dohányozni? Bútorozott-e? Ez tényleg fontos, mert a képeken (már ha vannak) sok esetben a jelenleg ott lakó emberke
+        holmiját/bútorait látod. Aztán amikor meg költöznél nincs ott semmi, csak egy szék. De a legfontosabb kérdés:
+        &lt;strong&gt;Lesz-e szabályos bérleti szerződés?&lt;/strong&gt; Ennek hiányában ugyanis nem fogod tudni teljesíteni a &lt;a href=&quot;/hasznos/harmadik_lepes.html&quot;&gt;Harmadik lépést&lt;/a&gt;
+        (ami az adószámmal kapcsolatos és ezáltal a fizetéssel, nyugdíjjal, mindennel), és így borul az egész külföldi élet terved.&lt;/li&gt;
+        &lt;li&gt;Ne utasítsd el élből, hogy a várostól messzebb költözz. &lt;strong&gt;Keress lakásokat/szobákat az S-Bahn-ok nyomvonalán&lt;/strong&gt;. Ez a
+        helyi HÉV, az otthonról is ismert piros vonatokkal. Pikk-pakk bevisznek a városba, és nemcsak a szélére, hanem a kellős
+        közepére, ahonnan mindent el lehet érni.&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;A “vidéki lakások” tagadhatatlan előnye, hogy olcsóbbak&lt;/strong&gt;, és nem mellesleg ha olyan helyre tévedsz, mint én
+        Schäftlarn-ba, akkor iszonyatosan gyönyörű is, csendes és a tiszta a levegő, és mindenki köszön és mosolyog, aki szembe
+        jön veled. Hátránya viszont, hogy drágább a bérlet, és nem 5 percet fogsz utazni.&lt;/li&gt;
+        &lt;li&gt;Ha sikerül telefonon megállapodni és tervezed, hogy kijössz megnézni, lepapírozni a dolgot, akkor &lt;strong&gt;tárazz be még 3-4
+        másik megnézendő lakást is&lt;/strong&gt;, mert simán képes beröfögni az indulás előtt 5 órával, hogy&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;Bocs, kiadtam másnak a szobát.&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;blockquote class=&quot;update&quot;&gt;
+        &lt;p&gt;
+        &lt;em&gt;2017.12.21.&lt;/em&gt;&lt;br /&gt;
+        Annyit fűznék a témához így 4 év után, hogy meglátásom szerint itt München környékén jelenleg
+        még nehezebb lakáshoz jutni. Családdal, gyerekkel, nem német hangzású névvel szinte már kilátástalan szélmalomharc az
+        egész. Legalábbis a többség lakbér igényeit nézve. És mindezt annak ellére, hogy a törvény szerint nem diszkriminálhatnak
+        a származási országod miatt, de lássuk be, hogy ha mindenhova legalább húszszoros a túljelentkezés, akkor esélytelen a
+        bíróság előtt bizonyítani, hogy diszkrimináció áldozata lettél.
+        &lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h2 id=&quot;merre-keress&quot;&gt;&lt;a name=&quot;kereses&quot;&gt;&lt;/a&gt;Merre keress?&lt;/h2&gt;
+        &lt;p&gt;Én a következő oldalakon néztem hirdetéseket:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;http://www.wg-gesucht.de/&quot;&gt;wg-gesucht&lt;/a&gt; - nem túl szép oldal, de alap felhasználóknak is megmutatja a hirdető telefonszámát,
+        ezért hasznos. És nagyjából van angol verziója is. Negatívum, hogy viszonylag szedett-vetett adatokkal vannak ellátva a
+        hirdetések, nem sok hasznos infó olvasható ki.&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;http://www.easywg.de&quot;&gt;easywg&lt;/a&gt; - szép, sok hirdetés van, viszont csak a belépésig tud angolul. Ezt még át lehet hidalni
+        egy Google fordítóval, de ami bosszantóbb, hogy nem tudsz egész Münchenben keresni, hanem be kell jelölnöd, hogy melyik
+        városrészek érdekelnek. Jó eséllyel erről halvány lila gőze sincs az embernek. Be se tudod jelölni mindet, mert csak
+        húszat enged egyszerre. Trükközéssel (többszöri keresés, mindig más városrészekre) megoldható, de macerás. Viszont itt
+        is vannak telefonszámok, így ha a szükség hajtja az embert, akkor érdemes vesződni vele.&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;http://www.immowelt.de&quot;&gt;immowelt&lt;/a&gt; - szép, jó a keresője, a hirdetésekhez rendesen meg vannak az adatok, van térkép és
+        a legtöbb esetben még a szobáról feltöltött képek is értékelhetőek. Amennyiben viszont, ha a hirdető nem írja bele a
+        szövegbe a saját elérhetőségét (mobil, email, Facebook), akkor csak a rendszeren keresztül tudod felvenni vele a kapcsolatot.
+        Ez kicsit hátrány, mert még arról sem kapsz infót, hogy elolvasta-e a levelet. Ennek ellenére ajánlom, mert erről az
+        oldalról kaptam a legtöbb választ. Ez se tud angolul.&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;http://www.immobilienscout24.de&quot;&gt;immobilienscout24&lt;/a&gt; - ezen a legprecízebb talán az információ kiszolgálás, ellenben
+        nekem elég kevés találatot adott, pedig elég nagy terület- és értéktartományban kerestem. De ha nincs más, akkor nosza,
+        ez is jobb a semminél.&lt;/li&gt;
+        &lt;li&gt;Bár én nem jártam sikerrel, de érdemes megpróbálkozni a nem egyetlen példányban fellelhető “Müncheni magyarok” Facebook
+        csoportokban is körbekérdezni. 99%-ban jó szándékú, segítőkész honfitársakba botlasz majd.&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;h2 id=&quot;jótanácsok&quot;&gt;&lt;a name=&quot;tanacsok&quot;&gt;&lt;/a&gt;Jótanácsok&lt;/h2&gt;
+        &lt;p&gt;Saját helyzetem miatt nekem nem volt választási lehetőségem, de ha egy mód van rá, akkor igyekezz szem előtt tartani a következőket:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Csak akkor kezdj januárban az új munkahelyen, ha egész decemberben szabad vagy és ki tudsz jönni lakást nézni, mert
+        ezek a jó népek itt nem fognak veled foglalkozni a két ünnep között. Mindenki nyaral, meg ünnepel, hirtelen nem lesz
+        nekik fontos kiadni a szobákat. Nekem mázlim volt, hogy találtam egy bérlőt, aki keres maga mellé bérlőtársat. De ilyen
+        szerencsére senki se apelláljon.&lt;/li&gt;
+        &lt;li&gt;Úgy általában kerüld a tipikusan ünnepes-szabadságos időszakokat, mert a költözés után bele kell vesd magad a bürokrácia
+        bugyraiba, ami itt sem fenékig tejfel: a szünet az szünet, nem dolgoznak. Amikor mégis, akkor is ráérősek, kényelmesek,
+        sorban állás van és várakozás. Ellenben végig korrektek, segítőkészek és mosolygósak. Legalábbis ez a tapasztalatom. De
+        ha nem hagysz elég időt a költözés és a munkába állás között (mint én: csak 3 napot, amiből 2 a Szilveszter volt), akkor
+        nagyon nehezen fogsz tudni minden szükséges papírt beszerezni 15 nap alatt, hogy fizetést kaphass. De minderről csak a
+        &lt;a href=&quot;/hasznos/harmadik_lepes.html&quot;&gt;következő bejegyzésben&lt;/a&gt;.&lt;/li&gt;
+        &lt;li&gt;Ha év közben költözöl, akkor figyelned kell majd a kettős adózásra, vagyis, amikor az adott adóévben két országba is
+        fizeted az adót meg a járulékokat. Szerencsére engem ez nem érint a szilveszteri költözés miatt, ezért nem is tudom miért
+        lehet problémás, de az biztos, hogy szinte minden fórumon megemlítették.&lt;/li&gt;
+        &lt;li&gt;Ha a szükség az úr, akkor ne nézd, hogy pók van a sarokban és büdös a hűtő. A kezdeti időszakot át kell vészelni.&lt;/li&gt;
+        &lt;li&gt;Ha nem két bőrönddel a kezedben költözöl, mint én, hanem esetleg van kocsid is, akkor pakolj be olyan dolgokat is,
+        amikre elsőre nem feltétlenül gondolnál: seprű, lapát, ruhaszárító, ágynemű, poharak. Oké, hogy meg lehet venni mindent
+        itt is, viszont most abból indultunk ki, hogy korlátozott anyagi forrásokkal vágsz bele a dologba és az első fizetés még
+        nagyon messze van. Én meg se merem mondani, hogy ilyen egyszeri kiadásokra mennyit költöttem.
+        Ha megvan a szoba és beköltöztél, pihenj egyet, és légy büszke, hogy a legnehezebb lépést megtetted: &lt;strong&gt;átlépted a vasfüggönyt. Gratulálok!&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;Viszont ne ülj túl sokáig a babérjaidon, mert rengeteg dolgot kell még elintézni, mire sikerül megvetni a lábadat. Az
+        elkövetkezendő egy hónap szinte minden napja kritikus fontosságú lesz.&lt;/p&gt;</content><author><name>Iván Gábor</name></author><category term="hasznos" /><category term="kezdolepesek" /><category term="lakhatas" /><summary type="html">Ha megvan a munka, akkor el kell kezdeni lakást keresni. De mielőtt belevágsz jó, ha a következőkkel tisztában vagy Münchennel kapcsolatban. Iszonyatos a túlkereslet a lakások iránt. Ha van rokon vagy ismerős, akkor próbáld összehozni, hogy nála lakhass pár hetet, amíg lakást keresel. Helyben könnyebb intézni az ilyesmit, mint távolról. Ha viszont úgy állsz, mint én, hogy se rokon, se ismerős nincs az adott városban, akkor készülj fel a mérhetetlen szopásra, mert abból kijut majd rendesen.</summary></entry></feed>

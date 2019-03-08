@@ -121,18 +121,10 @@
                 <section>
                     <h2>Címkék</h2>
                     {% include tags.html %}
-                    {%- assign tagSlugSize = tagSlugs | size -%}
-                    {%- if tagSlugSize > 5 -%}
-                    <h3><a href="/cimkek/">Több</a></h3>
-                    {%- endif -%}
                 </section>
                 <section>
                     <h2>Archívum</h2>
                     {% include dates.html %}
-                    {%- assign dateSlugSize = dateSlugs | size -%}
-                    {%- if dateSlugSize > 5 -%}
-                    <h3><a href="/archivum/">Több</a></h3>
-                    {%- endif -%}
                 </section>
             </div>
         </nav>
