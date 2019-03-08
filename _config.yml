@@ -1,20 +1,44 @@
 title: Thomas von Fürstenfeld
-
 lang: hu
+locale: hu_HU
+author: 'Iván Gábor'
+author_slug: '/gabor.ivan/'
+author_avatar: '/assets/img/gabor.ivan.jpg'
+author_cover: '/assets/img/gabor.ivan-cover.jpg'
+author_introduction: 'Férje egy csodálatos asszonynak, apja egy nagyszerű fiúnak, gazdája egy gyönyörű macskának. Foglalkozását tekintve web-fejlesztő egy németországi, de nemzetközi vizekre merészkedő fiatal E-kereskedelemmel foglalkozó cégnél.'
+description: ''
+subject: ''
+copyright: ''
 
-baseurl: ""
+homepage: 'https://thomas.von.fuerstenfeld.blog'
 
-url: "https://thomas.von.fuerstenfeld.blog"
+default_categories: ['Home']
+default_tags: ['']
+
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: 'default'
+      page_categories: ['Home']
+      page_tags: ['']
+      page_type: 'post_list'
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+      layout: 'post'
+      page_type: 'post_view'
 
 destination: docs
 
-facebook_username:
-
-twitter_username:
-
-github_username:
-
-linkedin_username:
+facebook_appid: 2178081495757871
+facebook_username: ivan.gabor.80
+twitter_username: gaborivan1980
+github_username: Gixx
+linkedin_username: gaborivan
 
 future: true
 
@@ -29,6 +53,9 @@ env: production
 
 excerpt_separator: <!--more-->
 
+reversed_categories:
+  - hasznos
+
 markdown: kramdown
 
 permalink: /:categories/:title.html
@@ -37,27 +64,32 @@ autopages:
   enabled: true
   tags:
     layouts:
-      - postlist.html
-    permalink: /tags/:tag/
-    title:  'Címke: :tag'
-    slugify:
-      mode: 'ascii'
-      cased: false
+      - taglist.html
+    title: ''
+    permalink: /cimkek/:tag/
     enabled: true
   categories:
     layouts:
-      - postlist.html
+      - categorylist.html
+    title: ''
     permalink: /:cat/
-    title:  'Kategória: :cat'
     enabled: true
   collections:
     enabled: false
 
+jekyll-archives:
+  enabled:
+    - month
+  layouts:
+    month: 'datelist'
+  permalinks:
+    month: '/archivum/:year-:month/'
+
 pagination:
   enabled: true
-  per_page: 5
+  per_page: 6
   offset: 0
-  permalink: '/page/:num/'
+  permalink: '/oldal/:num.html'
   title: ':title - :num. oldal'
   limit: 0
   sort_field: 'date'
@@ -77,7 +109,7 @@ plugins:
   - jekyll-paginate-v2
 
 jekyll_tidy:
-  exclude: ["robots.txt"]
+  exclude: ['robots.txt']
   compress_html: false
 
 sass:

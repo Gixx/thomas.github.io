@@ -1,0 +1,17 @@
+---
+layout: default
+pagination:
+    enabled: false
+page_type: all_dates
+title: 'Archívum'
+---
+{%- include variables.html -%}
+<header><h2>Archívum</h2></header>
+<section>
+    <ul>
+    {%- for dateSlug in dateSlugs -%}
+    {%- assign dateLabel = dateLabels[forloop.index0] -%}
+        <li><a class="date date-{{ dateSlug }}{% if dateSlug == currentDateSlug %} current{% endif %}" href="/archivum/{{ dateSlug }}/">{{ dateLabel | strip }}</a></li>
+    {%- endfor -%}
+    </ul>
+</section>

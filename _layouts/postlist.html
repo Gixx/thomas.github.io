@@ -2,36 +2,14 @@
 layout: default
 pagination:
     enabled: true
+page_type: post_list
 ---
+{%- include variables.html -%}
 
-<!-- _layouts/postlist.html -->
-<header><h2>{{ autopages.display_name | default: page.title }}</h2></header>
+<section class="list">
+    {%- for post in paginator.posts -%}
+        {% include post-list-element.html post=post %}
+    {%- endfor -%}
+</section>
 
-{% for post in paginator.posts %}
-<article>
-    <header>
-        <h3>{{ post.title | escape }}</h3>
-        {% assign m = post.date | date: "%-m" | minus: 0 %}
-        <span>
-        {{ post.date | date: "%Y" }}. {{ site.data.hu.months[m] }} {{ post.date | date: "%-d" }}.
-        </span>
-    </header>
-    {{ post.excerpt }}
-    {% if post.excerpt != post.content %}
-    <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-    {% endif %}
-</article>
-{% endfor %}
-
-{% if paginator.total_pages > 1 %}
-<footer>
-    <p>
-        {% if paginator.previous_page %}
-            <a rel="prev" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-        {% endif %}
-        {% if paginator.next_page %}
-            <a rel="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-        {% endif %}
-    </p>
-</footer>
-{% endif %}
+{% include pagination.html %}

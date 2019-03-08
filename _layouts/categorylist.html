@@ -1,0 +1,35 @@
+---
+layout: default
+pagination:
+    enabled: true
+page_type: category_list
+---
+{%- include variables.html -%}
+
+{%- assign reversedOrder = false -%}
+{%- for category in site.reversed_categories -%}
+    {%- if category == currentCategorySlug -%}
+        {%- assign reversedOrder = true -%}
+        {%- break -%}
+    {%- endif -%}
+{%- endfor -%}
+
+<section class="post">
+    <article>
+        <h1>Kategória: {{ currentCategoryLabel }}</h1>
+    </article>
+</section>
+
+<section class="list">
+    {%- if reversedOrder -%}
+        {%- for post in paginator.posts reversed -%}
+            {% include post-list-element.html post=post %}
+        {%- endfor -%}
+    {%- else -%}
+        {%- for post in paginator.posts -%}
+            {% include post-list-element.html post=post %}
+        {%- endfor -%}
+    {%- endif -%}
+</section>
+
+{% include pagination.html %}

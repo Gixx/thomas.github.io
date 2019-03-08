@@ -1,7 +1,6 @@
-<!-- _includes/responsive-image.html -->
 <picture>
-    {% for i in resized %}
+    {%- for i in resized -%}
     <source media="(min-width: {{ i.width }}px)" srcset="/{{ i.path }}">
-    {% endfor %}
+    {%- endfor -%}
     <img src="/{{ path }}">
 </picture>

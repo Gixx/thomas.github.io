@@ -1,13 +1,40 @@
 ---
 layout: default
+page_type: post_view
 ---
 
-<!-- _layouts/post.html -->
-<article>
-    <header>
-        <h2>{{ page.title | escape }}</h2>
-    </header>
-    <section>
-        {{ content }}
-    </section>
-</article>
+<section class="post">
+    <article>
+        <header>
+            <h1>{{ page.title | escape }}</h1>
+        </header>
+
+        <p class="meta">
+            {%- assign m = page.date | date: "%-m" | minus: 0 -%}
+            {%- assign postMonth = site.data.hu.months[m] -%}
+            {%- capture postDate  -%}
+                {{ page.date | date: '%Y' }}<br>{{ postMonth }}&nbsp;{{ page.date | date: '%e' }}.<br> {{ page.date | date: '%R' }}
+            {%- endcapture -%}
+            <span class="date">{{ postDate }}</span>
+        </p>
+        <p class="lead">
+            {{ page.excerpt }}
+            {%- if page.illustration != '' -%}
+            <br>
+            <img src="/assets/img/post-illustration-placeholder.jpg" data-src="/assets/img/blog/{{ page.date | date: '%Y' }}/{{ page.illustration }}">
+            {%- endif -%}
+        </p>
+
+        <div class="body">
+            {{ page.content | remove: page.excerpt }}
+        </div>
+
+        <div class="footer">
+            <a class="author" href="{{ page.author_slug | default: site.author_slug }}index.html"><img src="{{ page.author_avatar | default: site.author_avatar }}" alt="{{ page.author | default: site.author }}"></a>
+            <h5>A szerzőről</h5>
+            <div class="details">
+                {{ page.author_introduction | default: site.author_introduction }}
+            </div>
+        </div>
+    </article>
+</section>
