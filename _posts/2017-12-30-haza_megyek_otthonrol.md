@@ -9,7 +9,7 @@ illustration: 'haza_megyek/haza_megyek.png'
 illustration_share: 'haza_megyek/haza_megyek_600x600.png'
 category: 'naplo'
 categoryLabel: 'Napló'
-tags:   [utazas, vonatok, munchen, debrecen]
+tags:   [utazas, vonatok, muenchen, debrecen]
 tagLabels: [Utazás, Vonatok, München, Debrecen]
 excerpt: 'Nem tudom, hogy egy last-minute akció, vagy csak a szerencsés időpont választás miatt, de úgy alakult, hogy a Debrecen-München távot nagyon baráti áron, és első osztályon volt szerencsém megtenni.'
 summary: 'Egy kellően hosszú utazás kellően hosszú lenyomata.'

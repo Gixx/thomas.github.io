@@ -7,14 +7,13 @@ title: 'Címke gyűjtemény'
 ---
 
 {%- include variables.html -%}
-
 <section class="post">
     <article>
         <h1>Címke gyűjtemény</h1>
         <div class="column">
                 {%- assign group = '' -%}
-                {%- assign sorted_tags = tagSlugs | sort -%}
-                {%- for tagSlug in sorted_tags -%}
+                {%- assign sortedTagSlugs = tagSlugs | sort -%}
+                {%- for tagSlug in sortedTagSlugs -%}
                     {%- assign index = -1 -%}
                     {%- for ts in tagSlugs %}
                         {%- if ts == tagSlug -%}
