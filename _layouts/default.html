@@ -42,6 +42,7 @@
         <meta property="og:title" content="{{ title }}">
         <meta property="og:url" content="{{ site.homepage }}{{ page.url }}">
         {% if page.page_type == 'post_view' %}
+        <meta name="date" content="{{ page.date | date_to_xmlschema }}">
             {% if page.illustration_share %}
         <meta property="og:image" content="{{ site.homepage }}/assets/img/blog/{{ page.date | date: '%Y' }}/{{ page.illustration_share }}">
         <meta property="og:image:width" content="600">
@@ -50,8 +51,10 @@
         <meta property="og:description" content="{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape | strip }}">
         <meta property="fb:admins" content="{{ site.facebook_username }}">
         <meta property="fb:app_id" content="{{ site.facebook_appid }}">
-        <meta property="article:author" content="https://www.facebook.com/{{ site.facebook_username }}">
         <meta property="og:type" content="article">
+        <meta property="article:author" content="https://www.facebook.com/{{ site.facebook_username }}">
+        <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+        <meta property="article:tag" content="blog"/>
         {% else %}
         <meta property="og:description" content="{{ description }}">
         <meta property="og:type" content="website">
@@ -91,6 +94,14 @@
         <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/thomas/favicon-16x16.png">
         <link rel="manifest" href="/assets/img/thomas/manifest.json">
         <meta name="msapplication-config" content="/assets/img/thomas/browserconfig.xml">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="msapplication-starturl" content="/">
+        <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
+        <meta name="application-name" content="{{ site.author }}">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i">
@@ -99,6 +110,7 @@
         <link rel="stylesheet" href="/assets/css/site.css">
         <link rel="stylesheet" href="/assets/css/library/syntax.css">
         <link rel="stylesheet" href="/assets/css/library/emojione.min.css">
+
     </head>
     <body{% if page.page_type == 'post_view' %} class="blog-post"{% endif %}>
         <header>
