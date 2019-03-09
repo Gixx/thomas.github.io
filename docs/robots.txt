@@ -50,6 +50,14 @@
         <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/thomas/favicon-16x16.png">
         <link rel="manifest" href="/assets/img/thomas/manifest.json">
         <meta name="msapplication-config" content="/assets/img/thomas/browserconfig.xml">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="msapplication-starturl" content="/">
+        <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
+        <meta name="application-name" content="Iván Gábor">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i">
@@ -58,6 +66,7 @@
         <link rel="stylesheet" href="/assets/css/site.css">
         <link rel="stylesheet" href="/assets/css/library/syntax.css">
         <link rel="stylesheet" href="/assets/css/library/emojione.min.css">
+
     </head>
     <body>
         <header>
@@ -98,7 +107,7 @@ Disallow: /
 
 User-agent: *
 Allow: /
-Sitemap: http://localhost:4000/sitemap.xml
+Sitemap: /sitemap.xml
 
         </main>
         <footer>
