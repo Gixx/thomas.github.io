@@ -38,6 +38,13 @@
 {%- endcapture -%}
 {%- assign tagLabels = tagLabels | split: ',' | uniq -%}
 
+{%- assign tagSlugSize = tagSlugs | size -%}
+{%- assign tagLabelSize = tagLabels | size -%}
+{%- if tagSlugSize != tagLabelSize -%}
+    {%- include ./stopBuild.html -%}
+{%- endif -%}
+
+
 {%- assign currentTagSlug = '' -%}
 {%- assign currentTagLabel = '' -%}
 {%- if page.autopages && page.page_type == 'tag_list' -%}
