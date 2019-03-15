@@ -21,7 +21,7 @@ page_type: post_view
             {{ page.excerpt }}
             {%- if page.illustration != '' -%}
             <br>
-            <img src="/assets/img/post-illustration-placeholder.jpg" data-src="/assets/img/blog/{{ page.date | date: '%Y' }}/{{ page.illustration }}">
+            <img src="/assets/img/post-illustration-placeholder.jpg" data-src="/assets/img/blog/{{ page.date | date: '%Y' }}/{{ page.illustration }}" alt="{{ post.title | escape }}">
             {%- endif -%}
         </p>
 

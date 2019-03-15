@@ -35,7 +35,7 @@
 
     <div class="preview">
         {%- if post.illustration != '' -%}
-        <a href="{{ post.url | relative_url }}"><img src="/assets/img/post-illustration-placeholder.jpg" data-src="/assets/img/blog/{{ post.date | date: '%Y' }}/{{ post.illustration }}"></a>
+        <a href="{{ post.url | relative_url }}"><img src="/assets/img/post-illustration-placeholder.jpg" data-src="/assets/img/blog/{{ post.date | date: '%Y' }}/{{ post.illustration }}" alt="{{ post.title | escape }}"></a>
         {%- endif -%}
         <h1><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
         <p>{{ post.excerpt }}</p>
