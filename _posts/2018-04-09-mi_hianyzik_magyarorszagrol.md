@@ -13,6 +13,7 @@ tags:   [toplista, magyarorszag]
 tagLabels: [Toplista, Magyarország]
 excerpt: 'Kattintás vadász bevezető: "Sosem találja ki, mi végzett az első helyen! Itt az elképesztő lista"'
 summary: ''
+description: 'Sokan kérdezték, hogy ki az a Thomas. Ím itt a válasz.'
 ---
 
 <sub>Fotó: <a target="_blank" href="https://www.pexels.com/photo/broken-heart-love-sad-14303/">burak kostak @ Pexels</a></sub>

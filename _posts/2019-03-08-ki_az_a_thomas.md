@@ -13,6 +13,7 @@ tags:   [thomas]
 tagLabels: [Thomas]
 excerpt: 'A blog megújulása után a tesztközönség értetlenül állt a blog címe előtt.'
 summary: ''
+description: 'Sokan kérdezték, hogy ki az a Thomas. Ím itt a válasz.'
 ---
 
 A blog megújulása után a tesztközönség értetlenül állt a blog címe előtt. Úgyhogy most egy röpke szösszenet erejéig megállok, hogy magyarázatot adjak a talányra.
