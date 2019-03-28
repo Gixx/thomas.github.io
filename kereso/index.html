@@ -1,0 +1,23 @@
+---
+layout: default
+pagination:
+    enabled: false
+page_type: post_list
+exclude_path: ['gabor.ivan','archivum','cimkek','kereso','robots.txt','assets','sitemap.xml','feed.xml','index.html','oldal']
+---
+{%- include variables.html -%}
+
+<section id="search-results" class="list"></section>
+
+<script src="/assets/js/search.js"></script>
+<script type="application/javascript">
+    window.searchPages = {
+    {% for page in site.posts %}
+        "{{ page.url | slugify }}": {
+            "title": "{{ page.title | xml_escape }}",
+            "content": {{ page.content | markdownify | strip_newlines | strip_html | jsonify }},
+            "path": "{{ page.url | xml_escape }}"
+        }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+    };
+</script>

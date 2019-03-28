@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded',function(){
+document.addEventListener('ThomasComponentsLoaded',function(){
     let moods = document.querySelectorAll('span.mood');
     for (let i = 0, num = moods.length; i < num; i++) {
         moods[i].innerHTML = emojione.toImage(moods[i].innerText);
@@ -30,3 +30,4 @@ document.addEventListener('DOMContentLoaded',function(){
         });
     });
 });
+

@@ -109,6 +109,20 @@
     <main>
       <section class="post">
         <article>
+          <form action="/kereso/" method="GET">
+            <input required type="search" name="q">
+            <button type="submit">Keresés</button>
+          </form>
+          <p>A kereső használatához a következőket kell tudni:</p>
+          <ul>
+            <li><strong>Teljes szóra keresés</strong>, pl.: <em>Magyarország</em></li>
+            <li><strong>Szó elejére keresés</strong>, pl.: <em>Magyar*</em></li>
+            <li><strong>Szó végére keresés</strong>, pl.: <em>*ország</em></li>
+            <li><strong>Szótöredékre keresés</strong>, pl.: <em>*agyar*</em></li>
+          </ul>
+          <p>A kereső egyelőre kíséleti jellegű, és fejlesztés alatt áll. Amennyiben beválik, kap egy szebb megjelenést.</p>
+        </article>
+        <article>
           <h1>Üdvözöllek a blogomon!</h1>
           <p>Iván Gábor a becses nevem, és ezt a blogot a megboldogult "München dosszié" c. másik blogom méltó (ha nem méltóbb) utódjának szánom.</p>
           <p>A dizájnt illetően nem agyaltam túl sokat, erőteljes ihletet merítettem egy közösségi oldalról.</p>
@@ -268,6 +282,7 @@
     </footer>
     <script src="/assets/js/library/emojione.min.js"></script>
     <script src="/assets/js/library/stickyfill.min.js"></script>
+    <script src="/assets/js/library/lunr.2.3.6.min.js"></script>
     <script src="/assets/js/Thomas.js"></script>
     <script src="/assets/js/site.js"></script>
   </body>
