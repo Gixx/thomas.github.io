@@ -42,7 +42,7 @@ document.addEventListener('ThomasComponentsLoaded', function(){
     resultPages.forEach(function (r) {
         resultsString += "<article><div class='preview'>";
         resultsString +=   "<h1><a class='result' href='" + r.path + "'>" + r.title + "</a></h1>";
-        resultsString +=   "<p>" + r.content.substring(0, 200) + "</p>";
+        resultsString +=   "<p>" + r.excerpt + "</p>";
         resultsString += "</article>"
     });
     document.getElementById("search-results").innerHTML = resultsString;
