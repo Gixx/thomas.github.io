@@ -35,7 +35,7 @@ begyűjtöm tőle a zanzásított lényeget.
 ## Az ovi helyért küzdeni kell
 
 Ez volt az legelső információ, amihez sikerült hozzájutni. Itt ugyanis az ovi nem kötelező egészen az iskolakezdés előtti 
-utolsó évig, ami a mai köznyelvben az iskola előkészítőt jelenti. Az én időmben még “_naccsoport_”-ként futott.
+utolsó évig, ami a mai köznyelvben az iskola előkészítőt jelenti. Az én időmben még “_nagy csoport_”-ként futott.
 
 És ami nem kötelező, az nem biztosított. És ami nem biztosított, az korlátozott mértékben hozzáférhető. És amiből nincs 
 elég, azért öldöklő harc folyik - képletesen értve természetesen.
