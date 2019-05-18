@@ -128,7 +128,9 @@ vadászház lehetne ebből majd a nyugdíjas éveimre...
 Ismerősöktől, kollégáktól, fórumokról tudjuk, hogy nem mindenhol alakul úgy a beiratkozás menete, mint nálunk Fürstenfeldbruckban. 
 Logikusnak tűnő felállás, hogy a beiratkozásról az adott intézmény dönt. Nos, a mi kis városkánkban ez nem így működik. 
 Itt a polgármesteri hivatal dönti el, ki és “hova” mehet. A hova természetesen azokra a helyekre értendő, amit a szülő 
-megjelöl. De hogy milyen szisztéma szerint történik a kiválasztás, az nem publikus, mi sem tudjuk.
+megjelöl. De hogy milyen szisztéma szerint történik a kiválasztás, az nem publikus, mi sem tudjuk. Mindenesetre tudunk 
+olyan esetről, amikor a megjelölt helyek egyikére sem vették fel a gyereket, de a hivatal felajánlotta, hogy egy ötödikben
+lenne hely, ha elfogadják. Szóval azért egész emberségesek az itteni bürokraták.
 
 Amikor az első nyílt napon Zsike beszerezte a nyomtatványt, akkor még nem voltunk teljesen tisztában a folyamat mibenlétével. 
 Gondoltuk, majd megkapunk minden hiányzó információt menet közben. Ezek a következők voltak:
