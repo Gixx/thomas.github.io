@@ -107,6 +107,7 @@ Most egyelőre várom a fejleményeket, hogy küldjék az levelet, hogy megtudja
 
 <blockquote class="update">
     <p>
+        <em>2017.12.21.</em><br>
         Itt sem rémlik, hogy kaptam volna bármit is. Ha jól emlékszek, felhívtam megint őket, hogy ugyan mi van már, kell-e izguljak, vagy sem.
         Végül is nem kellett, mert a rendszerben benne volt, hogy "kiléptetve".
     </p>
