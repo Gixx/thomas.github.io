@@ -59,6 +59,17 @@ reversed_categories:
 
 markdown: kramdown
 
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
 permalink: /:categories/:title.html
 
 autopages:
@@ -98,15 +109,15 @@ pagination:
 
 plugins:
   - jekyll-feed
+  - jekyll-commonmark
   - jekyll-archives
+  - jekyll-include-cache
   - rouge
   - jekyll-last-modified-at
   - jekyll-plantuml
-  - jekyll-responsive-image
   - jekyll-tidy
   - classifier-reborn
   - jekyll-tagging-related_posts
-  - jekyll-archives
   - jekyll-paginate-v2
 
 jekyll_tidy:
@@ -117,27 +128,3 @@ sass:
   sass_dir: _sass
   sourcemap: true
   style: compressed
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-responsive_image:
-  template: _includes/responsive-image.html
-  default_quality: 90
-  sizes:
-    - width: 960
-    - width: 768
-    - width: 465
-    - width: 217
-  auto_rotate: false
-  strip: true
-  base_path: assets
-  output_path_format: assets/resized/%{width}/%{basename}
-  save_to_source: true
-  cache: false
-  extra_images:
-    - assets/*.png
-    - assets/*.jpg
-    - assets/img/*.png
-    - assets/img/*.jpg
