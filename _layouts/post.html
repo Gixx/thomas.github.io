@@ -13,7 +13,7 @@ page_type: post_view
             {%- assign m = page.date | date: "%-m" | minus: 0 -%}
             {%- assign postMonth = site.data.hu.months[m] -%}
             {%- capture postDate  -%}
-                {{ page.date | date: '%Y' }}<br>{{ postMonth }}&nbsp;{{ page.date | date: '%e' }}.<br> {{ page.date | date: '%R' }}
+                {{ page.date | date: '%Y' }}<br>{{ postMonth }}&nbsp;{{ page.date | date: '%e' }}.
             {%- endcapture -%}
             <span class="date">{{ postDate }}</span>
         </p>
