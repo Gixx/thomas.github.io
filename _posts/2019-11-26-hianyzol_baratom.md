@@ -17,7 +17,7 @@ description: ''
 ---
 ## A kezdetek
 
-Valamikor 2007 őszén találkoztunk először. Hűvös, szeles nap volt. Zsikével busszal, villamossal mentünk Érted Pest 
+Valamikor ~~2007 őszén~~ 2008 február-március környékén találkoztunk először. Hideg, szeles nap volt. Zsikével busszal, villamossal mentünk Érted Pest 
 végeláthatatlan útvesztőjébe, hogy egy lelakott kertesház ócska sufnijából kimentsünk. Hivatalosan az egy állatmenhely volt. 
 Nem kétlem, hogy a gondozó mindent megtett, ami tőle telt, de a körülmények akkor is borzalmasak voltak. Kosz, bűz, 
 hideg, és olyan szűk ketrecek, hogy éppen csak volt hely az alomnak a tál mellett, amiben a kiporciózott Tesco gazdaságos 
