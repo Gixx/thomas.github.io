@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Hiányzol, Barátom!'
-date:   2019-11-26 22:00:00 +0100
+date:   2019-11-26 23:00:00 +0100
 authorMoodKey: ''
 authorMoodLabel: ''
 location: Fürstenfelbruck
